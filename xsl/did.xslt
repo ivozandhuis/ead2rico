@@ -50,9 +50,9 @@
 <xsl:template match="ead:did/ead:note"/>
 
 <xsl:template match="ead:origination">
-    <rico:hasAccumulator>
+    <rico:hasProvenance>
         <xsl:apply-templates/>
-    </rico:hasAccumulator>
+    </rico:hasProvenance>
 </xsl:template>
 
 <xsl:template match="ead:physdesc">

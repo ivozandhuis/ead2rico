@@ -10,18 +10,18 @@
 
 <!-- templates for archdesc-components, looping hierarchy -->
 
-<!-- TODO: ead:archdescgrp and ead:dscgrp-->
-
-<xsl:template match="ead:archdesc">
+<xsl:template match="ead:archdesc | ead:archdescgrp">
     <rico:RecordSet>
         <xsl:attribute name="rdf:about">
             <xsl:value-of select="$baseUri"/>
-            <xsl:value-of select="ead:did/ead:unitid"/>
+            <xsl:value-of select="$archId"/>
         </xsl:attribute>
         <xsl:call-template name="set-recordsettype">
             <xsl:with-param name="type" select="@level"/>
         </xsl:call-template>
-        <xsl:apply-templates select="ead:did"/>
+        <xsl:apply-templates select="ead:did">
+            <xsl:with-param name="type" select="@level"/>
+        </xsl:apply-templates>
         <xsl:apply-templates select="ead:accessrestrict"/>
         <xsl:apply-templates select="ead:accruals"/>
         <xsl:apply-templates select="ead:acqinfo"/>
@@ -49,21 +49,18 @@
         <xsl:apply-templates select="ead:separatedmaterial"/>
         <xsl:apply-templates select="ead:userestrict"/>
     </rico:RecordSet>
-    <xsl:apply-templates select="ead:dsc">
-        <xsl:with-param name="archnr" select="ead:did/ead:unitid"/>
+    <xsl:apply-templates select="ead:dsc | ead:dscgrp"/>
+</xsl:template>
+
+<xsl:template match="ead:dsc">
+    <xsl:apply-templates select="ead:c | ead:c01">
+        <xsl:with-param name="archnr" select="$archId"/>
+        <xsl:with-param name="level" select="'first'"/>
     </xsl:apply-templates>
 </xsl:template>
 
-
-
-
-
-<xsl:template match="ead:dsc">
-    <xsl:param name="archnr"/>
-    <xsl:apply-templates select="ead:c | ead:c01">
-        <xsl:with-param name="archnr" select="$archnr"/>
-        <xsl:with-param name="level" select="'first'"/>
-    </xsl:apply-templates>
+<xsl:template match="ead:dscgrp">
+    <xsl:apply-templates select="ead:ead"/>
 </xsl:template>
 
 <xsl:template match="ead:c | ead:c01 | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12">
@@ -96,7 +93,32 @@
         <xsl:apply-templates select="ead:did">
             <xsl:with-param name="type" select="@level"/>
         </xsl:apply-templates>
-        <xsl:apply-templates select="ead:scopecontent | ead:accessrestrict | ead:controlaccess | ead:odd"/>
+        <xsl:apply-templates select="ead:accessrestrict"/>
+        <xsl:apply-templates select="ead:accruals"/>
+        <xsl:apply-templates select="ead:acqinfo"/>
+        <xsl:apply-templates select="ead:altformavail"/>
+        <xsl:apply-templates select="ead:appraisal"/>
+        <xsl:apply-templates select="ead:arrangement"/>
+        <xsl:apply-templates select="ead:bibliography"/>
+        <xsl:apply-templates select="ead:bioghist"/>
+        <xsl:apply-templates select="ead:controlaccess"/>
+        <xsl:apply-templates select="ead:custodhist"/>
+        <xsl:apply-templates select="ead:dao"/>
+        <xsl:apply-templates select="ead:daogrp"/>
+        <xsl:apply-templates select="ead:descgrp"/>
+        <xsl:apply-templates select="ead:fileplan"/>
+        <xsl:apply-templates select="ead:index"/>
+        <xsl:apply-templates select="ead:note"/>
+        <xsl:apply-templates select="ead:odd"/>
+        <xsl:apply-templates select="ead:originalsloc"/>
+        <xsl:apply-templates select="ead:otherfindaid"/>
+        <xsl:apply-templates select="ead:phystech"/>
+        <xsl:apply-templates select="ead:prefercite"/>
+        <xsl:apply-templates select="ead:processinfo"/>
+        <xsl:apply-templates select="ead:relatedmaterial"/>
+        <xsl:apply-templates select="ead:scopecontent"/>
+        <xsl:apply-templates select="ead:separatedmaterial"/>
+        <xsl:apply-templates select="ead:userestrict"/>
     </rico:RecordSet>
     <xsl:apply-templates select="ead:c | ead:c01 | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12">
         <xsl:with-param name="archnr" select="$id"/>

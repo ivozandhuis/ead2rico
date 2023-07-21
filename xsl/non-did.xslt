@@ -10,8 +10,6 @@
 
 <!-- templates for non-did elements -->
 
-
-
 <xsl:template match="ead:accessrestrict">
     <rico:conditionsOfAccess>
         <xsl:apply-templates/>
@@ -32,11 +30,7 @@
 <xsl:template match="ead:bibliography"/>
 <xsl:template match="ead:bioghist"/>
 
-<xsl:template match="ead:controlaccess">
-    <!--rico:hasOrHadSubject>
-        <xsl:apply-templates/>
-    </rico:hasOrHadSubject-->
-</xsl:template>
+<xsl:template match="ead:controlaccess"/>
 
 <xsl:template match="ead:custodhist">
     <rico:history>

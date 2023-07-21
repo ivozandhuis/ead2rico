@@ -8,28 +8,7 @@
     xmlns:ead="urn:isbn:1-931666-22-9" 
     exclude-result-prefixes="xsl ead">
 
-<xsl:template match="ead:eadheader"/>
-
-<!--
-author
-change
-creation
-descrules
-eadheader
-eadid
-edition
-editionstmt
-filedesc
-langusage
-notestmt
-profiledesc
-publicationstmt
-revisiondesc
-seriesstmt
-sponsor
-subtitle
-titleproper
-titlestmt
--->
+<xsl:template match="ead:frontmatter"/>
+<xsl:template match="ead:titlepage"/>
 
 </xsl:stylesheet>

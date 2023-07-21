@@ -12,6 +12,7 @@
     exclude-result-prefixes="xsl ead">
 
 <xsl:import href="header.xslt"/>
+<xsl:import href="frontmatter.xslt"/>
 <xsl:import href="archdesc.xslt"/>
 <xsl:import href="did.xslt"/>
 <xsl:import href="non-did.xslt"/>
@@ -23,15 +24,29 @@
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 <xsl:strip-space elements="*"/>
 
+<!-- IISH:-->
 <xsl:param name="baseUri">https://hdl.handle.net/10622/</xsl:param>
+<xsl:variable name="archId" select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
 
-<!-- TODO: how to handle ead:eadgrp-->
+<!-- ANF:
+<xsl:param name="baseUri">http://data.archives-nationales.culture.gouv.fr/</xsl:param>
+<xsl:variable name="archId" select="substring-after(/ead:ead/ead:eadheader/ead:eadid, 'FRAN_IR_')" />
+-->
 
 <!-- RDF wrap -->
 <xsl:template match="ead:ead">
     <rdf:RDF>
         <xsl:apply-templates select="ead:eadheader"/>
+        <xsl:apply-templates select="ead:frontmatter"/>
         <xsl:apply-templates select="ead:archdesc"/>
+    </rdf:RDF>
+</xsl:template>
+
+<xsl:template match="ead:eadgrp">
+    <rdf:RDF>
+        <xsl:apply-templates select="ead:eadheader"/>
+        <xsl:apply-templates select="ead:frontmatter"/>
+        <xsl:apply-templates select="ead:archdescgrp"/>
     </rdf:RDF>
 </xsl:template>
 

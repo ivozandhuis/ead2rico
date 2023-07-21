@@ -7,12 +7,17 @@
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
             <rico:textualValue>ARCH00111</rico:textualValue>
+            <rico:hasIdentifierType>
+               <rico:IdentifierType>
+                  <rico:name>Archiefnummer</rico:name>
+               </rico:IdentifierType>
+            </rico:hasIdentifierType>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:hasOrHadSomeMembersWithLanguage>
          <rico:Language rdf:about="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       </rico:hasOrHadSomeMembersWithLanguage>
-      <rico:hasAccumulator>
+      <rico:hasProvenance>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -20,7 +25,7 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasAccumulator>
+      </rico:hasProvenance>
       <rico:recordResourceExtent>4 Meters</rico:recordResourceExtent>
       <rico:hasOrHadHolder>
          <rico:CorporateBody>
