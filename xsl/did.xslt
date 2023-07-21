@@ -14,12 +14,70 @@
     <xsl:apply-templates select="ead:unitid">
         <xsl:with-param name="type" select="$type"/>
     </xsl:apply-templates>
-    <xsl:apply-templates select="ead:unittitle"/>
-    <xsl:apply-templates select="ead:unitdate"/>
-    <xsl:apply-templates select="ead:physdesc"/>
-    <xsl:apply-templates select="ead:origination"/>
+    <xsl:apply-templates select="ead:abstract"/>
+    <xsl:apply-templates select="ead:container"/>
+    <!--xsl:apply-templates select="ead:dao"/-->
+    <!--xsl:apply-templates select="ead:daogrp"/-->
+    <!--xsl:apply-templates select="ead:head"-->
     <xsl:apply-templates select="ead:langmaterial"/>
+    <xsl:apply-templates select="ead:materialspec"/>
+    <xsl:apply-templates select="ead:note"/>
+    <xsl:apply-templates select="ead:origination"/>
+    <xsl:apply-templates select="ead:physdesc"/>
+    <xsl:apply-templates select="ead:physloc"/>
     <xsl:apply-templates select="ead:repository"/>
+    <xsl:apply-templates select="ead:unitdate"/>
+    <xsl:apply-templates select="ead:unittitle"/>
+</xsl:template>
+
+<xsl:template match="ead:abstract"/>
+<xsl:template match="ead:container"/>
+<xsl:template match="ead:dimension"/> <!-- part of physdesc-->
+<xsl:template match="ead:extent"/> <!-- part of physdesc-->
+
+<xsl:template match="ead:langmaterial">
+    <rico:hasOrHadSomeMembersWithLanguage>
+        <rico:Language>
+            <xsl:attribute name="rdf:about">
+                <xsl:text>http://id.loc.gov/vocabulary/iso639-2/</xsl:text>
+                <xsl:value-of select="ead:language/@langcode"/>
+            </xsl:attribute>            
+        </rico:Language>
+    </rico:hasOrHadSomeMembersWithLanguage>
+</xsl:template>
+
+<xsl:template match="ead:materialspec"/>
+<xsl:template match="ead:did/ead:note"/>
+
+<xsl:template match="ead:origination">
+    <rico:hasAccumulator>
+        <xsl:apply-templates/>
+    </rico:hasAccumulator>
+</xsl:template>
+
+<xsl:template match="ead:physdesc">
+    <rico:recordResourceExtent>
+        <xsl:value-of select="normalize-space(.)"/>
+    </rico:recordResourceExtent>
+</xsl:template>
+
+<xsl:template match="ead:physfacet"/> <!-- part of physdesc-->
+<xsl:template match="ead:physloc"/>
+
+<xsl:template match="ead:repository">
+    <rico:hasOrHadHolder>
+        <xsl:apply-templates/>
+    </rico:hasOrHadHolder>
+</xsl:template>
+
+<xsl:template match="ead:unitdate">
+    <rico:isAssociatedWithDate>
+        <rico:DateRange>
+            <rico:expressedDate>
+                <xsl:value-of select="normalize-space(.)"/>
+            </rico:expressedDate>
+        </rico:DateRange>
+    </rico:isAssociatedWithDate>
 </xsl:template>
 
 <xsl:template match="ead:unitid">
@@ -44,45 +102,6 @@
             </rico:textualValue>
         </rico:Title>
     </rico:hasOrHadTitle>
-</xsl:template>
-
-<xsl:template match="ead:unitdate">
-    <rico:isAssociatedWithDate>
-        <rico:DateRange>
-            <rico:expressedDate>
-                <xsl:value-of select="normalize-space(.)"/>
-            </rico:expressedDate>
-        </rico:DateRange>
-    </rico:isAssociatedWithDate>
-</xsl:template>
-
-<xsl:template match="ead:physdesc">
-    <rico:recordResourceExtent>
-        <xsl:value-of select="normalize-space(.)"/>
-    </rico:recordResourceExtent>
-</xsl:template>
-
-<xsl:template match="ead:origination">
-    <rico:hasAccumulator>
-        <xsl:apply-templates/>
-    </rico:hasAccumulator>
-</xsl:template>
-
-<xsl:template match="ead:repository">
-    <rico:hasOrHadHolder>
-        <xsl:apply-templates/>
-    </rico:hasOrHadHolder>
-</xsl:template>
-
-<xsl:template match="ead:langmaterial">
-    <rico:hasOrHadSomeMembersWithLanguage>
-        <rico:Language>
-            <xsl:attribute name="rdf:about">
-                <xsl:text>http://id.loc.gov/vocabulary/iso639-2/</xsl:text>
-                <xsl:value-of select="ead:language/@langcode"/>
-            </xsl:attribute>            
-        </rico:Language>
-    </rico:hasOrHadSomeMembersWithLanguage>
 </xsl:template>
 
 </xsl:stylesheet>

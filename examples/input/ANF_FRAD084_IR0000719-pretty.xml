@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<!-- patched: added namespace-->
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink">
   <eadheader>
     <eadid>FRAD084_IR0000719</eadid>

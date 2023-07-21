@@ -39,7 +39,7 @@ chronlist|Chronology List|list
 colspec|Table Column Specification|table
 container|Container|did
 controlaccess|Controlled Access Headings|non-did
-corpname|Corporate Name|context
+corpname|Corporate Name|names
 creation|Creation|header
 custodhist|Custodial History|non-did
 dao|Digital Archival Object|dao
@@ -71,13 +71,13 @@ extptr|Extended Pointer|link
 extptrloc|Extended Pointer Location|link
 extref|Extended Reference|link
 extrefloc|Extended Reference Location|link
-famname|Family Name|context
+famname|Family Name|names
 filedesc|File Description|header
 fileplan|File Plan|non-did
 frontmatter|Front Matter|header
-function|Function|context
-genreform|Genre/Physical Characteristic|context
-geogname|Geographic Name|context
+function|Function|names
+genreform|Genre/Physical Characteristic|names
+geogname|Geographic Name|names
 head|Heading|textstruct
 head01|First Heading|textstruct
 head02|Second Heading|textstruct
@@ -90,23 +90,23 @@ langmaterial|Language of the Material|did
 language|Language|header | did
 langusage|Language Usage|header
 lb|Line Break|textstruct
-legalstatus|Legal Status|did
+legalstatus|Legal Status|non-did
 linkgrp|Linking Group|link
 list|List|list
 listhead|List Heading|list
 materialspec|Material Specific Details|did
-name|Name|context
+name|Name|names
 namegrp|Name Group|non-did
 note|Note|did
 notestmt|Note Statement|header
 num|Number|inline
-occupation|Occupation|context
+occupation|Occupation|names
 odd|Other Descriptive Data|non-did
 originalsloc|Location of Originals|non-did
 origination|Origination|did
 otherfindaid|Other Finding Aid|non-did
 p|Paragraph|textstruct
-persname|Personal Name|context
+persname|Personal Name|names
 physdesc|Physical Description|did
 physfacet|Physical Facet|did
 physloc|Physical Location|did
@@ -131,14 +131,14 @@ scopecontent|Scope and Content|non-did
 separatedmaterial|Separated Material|non-did
 seriesstmt|Series Statement|header
 sponsor|Sponsor|header
-subarea|Subordinate Area|context
-subject|Subject|context
+subarea|Subordinate Area|names
+subject|Subject|names
 subtitle|Subtitle|header
 table|Table|table
 tbody|Table Body|table
 tgroup|Table Group|table
 thead|Table Head|table
-title|Title|context
+title|Title|names
 titlepage|Title Page|header
 titleproper|Title Proper of the Finding Aid|header
 titlestmt|Title Statement|header
