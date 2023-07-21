@@ -14,7 +14,7 @@ archdesc|Archival Description|archdesc
 archdescgrp|Archival Description Group|archdesc
 archref|Archival Reference|inline
 arrangement|Arrangement|non-did
-author|Author|header
+author|Author|eadheader
 bibliography|Bibliography|non-did
 bibref|Bibliographic Reference|inline
 bibseries|Bibliographic Series|bib
@@ -33,14 +33,14 @@ c09|Component (Ninth Level)|archdesc
 c10|Component (Tenth Level)|archdesc
 c11|Component (Eleventh Level)|archdesc
 c12|Component (Twelfth Level)|archdesc
-change|Change|header
+change|Change|eadheader
 chronitem|Chronology List Item|list
 chronlist|Chronology List|list
 colspec|Table Column Specification|table
 container|Container|did
 controlaccess|Controlled Access Headings|non-did
 corpname|Corporate Name|names
-creation|Creation|header
+creation|Creation|eadheader
 custodhist|Custodial History|non-did
 dao|Digital Archival Object|dao
 daodesc|Digital Archival Object Description|dao
@@ -49,7 +49,7 @@ daoloc|Digital Archival Object Location|dao
 date|Date|inline
 defitem|Definition List Item|list
 descgrp|Description Group|non-did
-descrules|Descriptive Rules|header
+descrules|Descriptive Rules|eadheader
 did|Descriptive Identification|did
 dimensions|Dimensions|did
 div|Text Division|textstruct
@@ -57,10 +57,10 @@ dsc|Description of Subordinate Components|archdesc
 dscgrp|Description of Subordinate Components Group|archdesc
 ead|Encoded Archival Description|basic
 eadgrp|EAD Group|basic
-eadheader|EAD Header|header
-eadid|EAD Identifier|header
-edition|Edition|header
-editionstmt|Edition Statement|header
+eadheader|EAD Header|eadheader
+eadid|EAD Identifier|eadheader
+edition|Edition|eadheader
+editionstmt|Edition Statement|eadheader
 emph|Emphasis|inline
 entry|Table Entry|table
 event|Event|list
@@ -72,9 +72,9 @@ extptrloc|Extended Pointer Location|link
 extref|Extended Reference|link
 extrefloc|Extended Reference Location|link
 famname|Family Name|names
-filedesc|File Description|header
+filedesc|File Description|eadheader
 fileplan|File Plan|non-did
-frontmatter|Front Matter|header
+frontmatter|Front Matter|frontmatter
 function|Function|names
 genreform|Genre/Physical Characteristic|names
 geogname|Geographic Name|names
@@ -87,8 +87,8 @@ indexentry|Index Entry|non-did
 item|Item|list
 label|Label|list
 langmaterial|Language of the Material|did
-language|Language|header | did
-langusage|Language Usage|header
+language|Language|eadheader | did
+langusage|Language Usage|eadheader
 lb|Line Break|textstruct
 legalstatus|Legal Status|non-did
 linkgrp|Linking Group|link
@@ -98,7 +98,7 @@ materialspec|Material Specific Details|did
 name|Name|names
 namegrp|Name Group|non-did
 note|Note|did
-notestmt|Note Statement|header
+notestmt|Note Statement|eadheader
 num|Number|inline
 occupation|Occupation|names
 odd|Other Descriptive Data|non-did
@@ -113,35 +113,35 @@ physloc|Physical Location|did
 phystech|Physical Characteristics and Technical Requirements|non-did
 prefercite|Preferred Citation|non-did
 processinfo|Processing Information|non-did
-profiledesc|Profile Description|header
+profiledesc|Profile Description|eadheader
 ptr|Pointer|link
 ptrgrp|Pointer Group|link
 ptrloc|Pointer Location|link
-publicationstmt|Publication Statement|header
+publicationstmt|Publication Statement|eadheader
 publisher|Publisher|bib
 ref|Reference|link
 refloc|Reference Location|link
 relatedmaterial|Related Material|non-did
 repository|Repository|did
 resource|Resource|link
-revisiondesc|Revision Description|header
+revisiondesc|Revision Description|eadheader
 row|Table Row|table
 runner|Runner|textstruct
 scopecontent|Scope and Content|non-did
 separatedmaterial|Separated Material|non-did
-seriesstmt|Series Statement|header
-sponsor|Sponsor|header
+seriesstmt|Series Statement|eadheader
+sponsor|Sponsor|eadheader
 subarea|Subordinate Area|names
 subject|Subject|names
-subtitle|Subtitle|header
+subtitle|Subtitle|eadheader
 table|Table|table
 tbody|Table Body|table
 tgroup|Table Group|table
 thead|Table Head|table
 title|Title|names
-titlepage|Title Page|header
-titleproper|Title Proper of the Finding Aid|header
-titlestmt|Title Statement|header
+titlepage|Title Page|frontmatter
+titleproper|Title Proper of the Finding Aid|eadheader
+titlestmt|Title Statement|eadheader
 unitdate|Date of the Unit|did
 unitid|ID of the Unit|did
 unittitle|Title of the Unit|did
