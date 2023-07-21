@@ -15,6 +15,7 @@
 <xsl:import href="archdesc.xslt"/>
 <xsl:import href="did.xslt"/>
 <xsl:import href="non-did.xslt"/>
+<xsl:import href="dao.xslt"/>
 <xsl:import href="names.xslt"/>
 <xsl:import href="textstruct.xslt"/>
 <xsl:import href="named-templates.xslt"/>

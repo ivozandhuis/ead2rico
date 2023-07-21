@@ -20,5 +20,6 @@
 <!-- empty templates-->
 <xsl:template match="ead:address"/>
 <xsl:template match="ead:head"/>
+<xsl:template match="ead:runner"/>
 
 </xsl:stylesheet>

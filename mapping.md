@@ -126,7 +126,7 @@ repository|Repository|did
 resource|Resource|link
 revisiondesc|Revision Description|header
 row|Table Row|table
-runner|Runner|header
+runner|Runner|textstruct
 scopecontent|Scope and Content|non-did
 separatedmaterial|Separated Material|non-did
 seriesstmt|Series Statement|header

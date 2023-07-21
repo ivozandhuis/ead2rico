@@ -18,16 +18,45 @@
             <xsl:value-of select="$baseUri"/>
             <xsl:value-of select="ead:did/ead:unitid"/>
         </xsl:attribute>
-        <xsl:apply-templates select="ead:did"/>
-        <xsl:apply-templates select="ead:scopecontent | ead:accessrestrict | ead:controlaccess | ead:odd"/>
         <xsl:call-template name="set-recordsettype">
             <xsl:with-param name="type" select="@level"/>
         </xsl:call-template>
+        <xsl:apply-templates select="ead:did"/>
+        <xsl:apply-templates select="ead:accessrestrict"/>
+        <xsl:apply-templates select="ead:accruals"/>
+        <xsl:apply-templates select="ead:acqinfo"/>
+        <xsl:apply-templates select="ead:altformavail"/>
+        <xsl:apply-templates select="ead:appraisal"/>
+        <xsl:apply-templates select="ead:arrangement"/>
+        <xsl:apply-templates select="ead:bibliography"/>
+        <xsl:apply-templates select="ead:bioghist"/>
+        <xsl:apply-templates select="ead:controlaccess"/>
+        <xsl:apply-templates select="ead:custodhist"/>
+        <xsl:apply-templates select="ead:dao"/>
+        <xsl:apply-templates select="ead:daogrp"/>
+        <xsl:apply-templates select="ead:descgrp"/>
+        <xsl:apply-templates select="ead:fileplan"/>
+        <xsl:apply-templates select="ead:index"/>
+        <xsl:apply-templates select="ead:note"/>
+        <xsl:apply-templates select="ead:odd"/>
+        <xsl:apply-templates select="ead:originalsloc"/>
+        <xsl:apply-templates select="ead:otherfindaid"/>
+        <xsl:apply-templates select="ead:phystech"/>
+        <xsl:apply-templates select="ead:prefercite"/>
+        <xsl:apply-templates select="ead:processinfo"/>
+        <xsl:apply-templates select="ead:relatedmaterial"/>
+        <xsl:apply-templates select="ead:scopecontent"/>
+        <xsl:apply-templates select="ead:separatedmaterial"/>
+        <xsl:apply-templates select="ead:userestrict"/>
     </rico:RecordSet>
     <xsl:apply-templates select="ead:dsc">
         <xsl:with-param name="archnr" select="ead:did/ead:unitid"/>
     </xsl:apply-templates>
 </xsl:template>
+
+
+
+
 
 <xsl:template match="ead:dsc">
     <xsl:param name="archnr"/>
