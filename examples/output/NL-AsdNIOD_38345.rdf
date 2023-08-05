@@ -2,7 +2,7 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
-   <rico:RecordSet rdf:about="">
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822">
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -107,11 +107,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#1">
-      <rico:isOrWasIncludedIn rdf:resource=""/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#1">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822"/>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2">
-      <rico:isOrWasIncludedIn rdf:resource=""/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
             <rico:textualValue>1-14</rico:textualValue>
@@ -135,8 +135,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-1">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-1">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -161,8 +161,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-2">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-2">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -187,8 +187,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-3">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-3">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -213,8 +213,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-4">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-4">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -239,8 +239,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-5">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-5">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -265,8 +265,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-6">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-6">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -291,8 +291,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-7">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-7">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -317,8 +317,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-8">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-8">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -348,8 +348,8 @@
          </html:div>
       </rico:scopeAndContent>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-9">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-9">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -379,8 +379,8 @@
          </html:div>
       </rico:scopeAndContent>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-10">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-10">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -410,8 +410,8 @@
          </html:div>
       </rico:scopeAndContent>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-11">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-11">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -436,8 +436,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-12">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-12">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -462,8 +462,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-13">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-13">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -488,8 +488,8 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="#2-14">
-      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-14">
+      <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>

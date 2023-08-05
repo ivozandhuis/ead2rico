@@ -24,19 +24,46 @@
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 <xsl:strip-space elements="*"/>
 
-<!-- NL-HlmNHA:-->
-<xsl:param name="baseUri"></xsl:param>
-<xsl:param name="archId" select="/ead:ead/ead:archdesc/ead:did/ead:unitid[@type = 'handle']"/>
+<xsl:param name="baseUri">
+    <xsl:choose>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HlmNHA']">
+            <xsl:text/>
+        </xsl:when>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AmISG']">
+            <xsl:text>https://hdl.handle.net/10622/</xsl:text>
+        </xsl:when>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AsdNIOD']">
+            <xsl:text>https://www.archieven.nl/mi/298/?mivast=298&amp;micode=</xsl:text>
+        </xsl:when>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'FR_ANF']">
+            <xsl:text>http://data.archives-nationales.culture.gouv.fr/</xsl:text>
+        </xsl:when>
+        <xsl:otherwise>
+            <xsl:text>http://example.com/</xsl:text>
+        </xsl:otherwise>
+    </xsl:choose>
+</xsl:param>
 
-<!-- NL-AmISG:
-<xsl:param name="baseUri">https://hdl.handle.net/10622/</xsl:param>
-<xsl:param name="archId" select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
--->
+<xsl:param name="archId">
+    <xsl:choose>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HlmNHA']">
+            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid[@type = 'handle']"/>
+        </xsl:when>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AmISG']">
+            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        </xsl:when>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AsdNIOD']">
+            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        </xsl:when>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'FR_ANF']">
+            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        </xsl:when>
+        <xsl:otherwise>
+            <xsl:value-of select="'mijn-archiefnummer'"/>
+        </xsl:otherwise>
+    </xsl:choose>
+</xsl:param>
 
-<!-- ANF:
-<xsl:param name="baseUri">http://data.archives-nationales.culture.gouv.fr/</xsl:param>
-<xsl:param name="archId" select="substring-after(/ead:ead/ead:eadheader/ead:eadid, 'FRAN_IR_')" />
--->
 
 <!-- RDF wrap -->
 <xsl:template match="ead:ead">
