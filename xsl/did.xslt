@@ -81,14 +81,23 @@
 </xsl:template>
 
 <xsl:template match="ead:unitid">
-    <xsl:param name="type"/>
+    <xsl:param name="type"/> <!-- type of the description (=did/@level)-->
     <rico:hasOrHadIdentifier>
         <rico:Identifier>
             <rico:textualValue>
                 <xsl:value-of select="."/>
             </rico:textualValue>
             <xsl:call-template name="set-identifiertype">
-                <xsl:with-param name="type" select="$type"/>
+                <xsl:with-param name="type">
+                    <xsl:choose>
+                        <xsl:when test="@type">
+                            <xsl:value-of select="@type"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="$type"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:with-param>            
             </xsl:call-template>
         </rico:Identifier>
     </rico:hasOrHadIdentifier>

@@ -11,7 +11,7 @@
     xmlns:ead="urn:isbn:1-931666-22-9" 
     exclude-result-prefixes="xsl ead">
 
-<xsl:import href="header.xslt"/>
+<xsl:import href="eadheader.xslt"/>
 <xsl:import href="frontmatter.xslt"/>
 <xsl:import href="archdesc.xslt"/>
 <xsl:import href="did.xslt"/>
@@ -24,9 +24,14 @@
 <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 <xsl:strip-space elements="*"/>
 
-<!-- IISH:-->
+<!-- NL-HlmNHA:-->
+<xsl:param name="baseUri"></xsl:param>
+<xsl:variable name="archId" select="/ead:ead/ead:archdesc/ead:did/ead:unitid[@type = 'handle']"/>
+
+<!-- NL-AmISG:
 <xsl:param name="baseUri">https://hdl.handle.net/10622/</xsl:param>
 <xsl:variable name="archId" select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+-->
 
 <!-- ANF:
 <xsl:param name="baseUri">http://data.archives-nationales.culture.gouv.fr/</xsl:param>
