@@ -72,11 +72,18 @@
 
 <xsl:template match="ead:unitdate">
     <rico:isAssociatedWithDate>
-        <rico:DateRange>
-            <rico:expressedDate>
-                <xsl:value-of select="normalize-space(.)"/>
-            </rico:expressedDate>
-        </rico:DateRange>
+        <rico:Date>
+            <xsl:if test="text()">
+                <rico:expressedDate>
+                    <xsl:value-of select="normalize-space(.)"/>
+                </rico:expressedDate>
+            </xsl:if>
+            <xsl:if test="@normal">
+                <rico:normalizedValue>
+                    <xsl:value-of select="@normal"/>
+                </rico:normalizedValue>
+            </xsl:if>
+        </rico:Date>
     </rico:isAssociatedWithDate>
 </xsl:template>
 

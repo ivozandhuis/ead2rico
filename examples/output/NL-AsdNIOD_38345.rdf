@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+          xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <rico:RecordSet rdf:about="">
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>822</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#01"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>0.4 meter (14 nummers)</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:expressedDate>1937-2004</rico:expressedDate>
+            <rico:normalizedValue>1937/2004</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Van Voerst van Lynden, S.W.A.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:conditionsOfAccess rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Openbaarheid</html:head>
+            <html:p>Het archief is tot 2040 in zijn geheel beperkt openbaar. Het is slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. Vanaf 2040 is het archief in zijn geheel openbaar.</html:p>
+         </html:div>
+      </rico:conditionsOfAccess>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:div>
+               <html:head>Literatuur</html:head>
+               <html:p>Voor vervolgonderzoek raadplege men de volgende literatuur.</html:p>
+               <html:div>
+                  <html:head>Literatuur</html:head>
+                  <html:p>Quarles van Ufford, Jacqueline, Liefste, wij zijn op reis (Zutphen 2005) blz. 286</html:p>
+               </html:div>
+               <html:div>
+                  <html:head>Verwante literatuur</html:head>
+                  <html:p>Benz, Wolfgang; Distel, Barbara; Königseder, Angelika, Der Ort des Terrors: Geschichte der nationalsozialistischen Konzentrationslager deel V: Hinzert, Auschwitz, Neuengamme (München 2007) blz. 591</html:p>
+                  <html:p>Kaienburg, Hermann, Das Konzentrationslager Neuengamme 1938-1945 (Bonn 1997) blz. 368</html:p>
+                  <html:p>Schuyf, Judith; Brinks, Monique, Nederlanders in Neuengamme: de ervaringen van ruim 5500 Nederlanders in een Duits concentratiekamp, 1940-1945 (Zaltbommel 2005) blz. 464</html:p>
+               </html:div>
+            </html:div>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#1">
+      <rico:isOrWasIncludedIn rdf:resource=""/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2">
+      <rico:isOrWasIncludedIn rdf:resource=""/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>1-14</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#04"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:expressedDate>1937-2004.</rico:expressedDate>
+            <rico:normalizedValue>1937/2004</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Correspondentie</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-1">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>1</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1937</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1937</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-2">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>2</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1938</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1938</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-3">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>3</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1939</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1939</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-4">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>4</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1940</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1940</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-5">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>5</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1941</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1941</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-6">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>6</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1942</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1942</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-7">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>7</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1943</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1943</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-8">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>8</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1944</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1944</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+      <rico:scopeAndContent rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Bevat tevens een agenda van Agnès van Boetzelaer de Beaufort, de zus van Johanna de Beaufort</html:p>
+         </html:div>
+      </rico:scopeAndContent>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-9">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>9</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1945</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1945, januari - augustus</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+      <rico:scopeAndContent rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Bevat tevens een dagboekje van Johanna de Beaufort, waarin zij schreef op de dag van haar huwelijk en in de bevrijdingsperiode</html:p>
+         </html:div>
+      </rico:scopeAndContent>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-10">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>10</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1945</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1945, september - december</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+      <rico:scopeAndContent rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Bevat tevens een ongedateerd rapport getiteld 'Report about the special mission of exploration concerning the concentration camp Neuengamme near Hamburg', opgesteld door de police-officer at Oostende</html:p>
+         </html:div>
+      </rico:scopeAndContent>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-11">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>11</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1946/1949</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1946-1949</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-12">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>12</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1950/1959</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1950-1959</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-13">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>13</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1959/1991</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1959-1991</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="#2-14">
+      <rico:isOrWasIncludedIn rdf:resource="#2"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>14</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue/>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
+      <rico:isAssociatedWithDate>
+         <rico:Date>
+            <rico:normalizedValue>1989/2004</rico:normalizedValue>
+         </rico:Date>
+      </rico:isAssociatedWithDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>1989-2004</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+</rdf:RDF>

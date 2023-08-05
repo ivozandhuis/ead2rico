@@ -33,9 +33,10 @@
          </rico:CorporateBody>
       </rico:hasOrHadHolder>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1891-1972</rico:expressedDate>
-         </rico:DateRange>
+            <rico:normalizedValue>1891/1972</rico:normalizedValue>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -801,7 +802,7 @@
             <html:p>Inventory by Emile Schwidder in 1977.</html:p>
          </html:div>
       </rico:history>
-      <rico:scopeAndContent>
+      <rico:scopeAndContent rdf:parseType="XMLLiteral">
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
             <html:head>Content</html:head>
             <html:p>Documents on his trial, his family and their emigration 1934-1946, and biographical notes; correspondence with Austrian, British and other socialists 1891-1972, including Rafail Abramovič, Friedrich Adler and Karl Kautsky, on the International Socialist Forum 1941-1948 and correspondence issued as secretary-general of the Socialist International 1950-1956; radio talks for the BBC 1939-1943, 1948-1949; manuscripts of published and unpublished books, articles, lectures, speeches, notably on the political situation and socialism in Austria, Germany, Israel, Asia; notes and other documents relating to his biographies on Otto Bauer (including the manuscript) and Victor and Friedrich Adler; correspondence on his publications and speeches, and press clippings of reviews; some other documents and press clippings on various subjects; some printed material.</html:p>
@@ -837,9 +838,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1934.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -858,9 +859,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1939.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -879,9 +880,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1939-1940.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -900,9 +901,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1939-1949.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -921,9 +922,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>3 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1940.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -942,9 +943,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>3 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1941, 1942.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -963,9 +964,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1942-1950.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -984,9 +985,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1945-1946.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -1005,9 +1006,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1920-c. 1972.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -1183,9 +1184,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1917.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -1204,9 +1205,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1917.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -1225,9 +1226,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1924-1934.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -1251,9 +1252,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1924, 1934-1935.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -1277,9 +1278,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>3 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1928-1929.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -2540,9 +2541,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1942, 1944.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -2561,9 +2562,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1946.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -2582,9 +2583,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1947.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -2608,9 +2609,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1943.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -2634,9 +2635,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>3 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1944.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -2669,9 +2670,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1935-1943.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -2695,9 +2696,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1947.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3182,9 +3183,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1949-1950.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3207,9 +3208,9 @@
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1950-1956.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3331,9 +3332,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1954-1955.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3352,9 +3353,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1954-1957.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3378,9 +3379,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1957.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3404,9 +3405,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1956-1957.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3430,9 +3431,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1956-1961.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3456,9 +3457,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1957-1958.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3476,9 +3477,9 @@
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1955-1970.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3726,9 +3727,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1958, 1959.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3747,9 +3748,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1958-1960.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -3773,9 +3774,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1961-1962.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4070,9 +4071,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1917/1918.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4091,9 +4092,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1917-1918.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4112,9 +4113,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1920.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4133,9 +4134,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1922.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4154,9 +4155,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1922.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4175,9 +4176,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1924.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4196,9 +4197,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1930.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4217,9 +4218,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1933.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4238,9 +4239,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1935.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4275,9 +4276,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 pakken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1935.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4296,9 +4297,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1935.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4317,9 +4318,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1935.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4338,9 +4339,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 map</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1935-1940.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4359,9 +4360,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1936.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4380,9 +4381,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1937.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4401,9 +4402,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1937.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4422,9 +4423,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1937.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4459,9 +4460,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1938.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4480,9 +4481,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1939.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4501,9 +4502,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1939.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4522,9 +4523,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 port</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1939-1943.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4543,9 +4544,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1941-1942.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4569,9 +4570,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1944.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4590,9 +4591,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>3 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1945.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4611,9 +4612,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1946.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4632,9 +4633,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4653,9 +4654,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4674,9 +4675,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4695,9 +4696,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948-1949.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4716,9 +4717,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948-1949.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4737,9 +4738,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 map</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948-1949.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4758,9 +4759,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948-1949.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4779,9 +4780,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1947-1959.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4800,9 +4801,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1949.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4821,9 +4822,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1950.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4842,9 +4843,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1951.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4863,9 +4864,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1951.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4900,9 +4901,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>3 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1951.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4921,9 +4922,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1951.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4942,9 +4943,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1952.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4963,9 +4964,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>4 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1952.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -4984,9 +4985,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1952.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5005,9 +5006,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1953.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5026,9 +5027,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1953.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5047,9 +5048,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1953.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5068,9 +5069,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1954.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5089,9 +5090,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1954, 1956.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5110,9 +5111,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1954.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5131,9 +5132,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1954.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5152,9 +5153,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1955.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5173,9 +5174,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1955.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5194,9 +5195,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1955.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5215,9 +5216,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1956/1957.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5236,9 +5237,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1957.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5257,9 +5258,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1957-1959.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5278,9 +5279,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1957?.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5299,9 +5300,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1957.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5320,9 +5321,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1958.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5341,9 +5342,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1958.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5362,9 +5363,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1958.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5383,9 +5384,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1958.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5404,9 +5405,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1959.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5425,9 +5426,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1960/1961.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5446,9 +5447,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1960.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5467,9 +5468,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1960.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5488,9 +5489,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1960.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5509,9 +5510,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1966.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5530,9 +5531,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1967.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5551,9 +5552,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1967.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5572,9 +5573,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1968.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5593,9 +5594,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1972.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5614,9 +5615,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5635,9 +5636,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5656,9 +5657,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5677,9 +5678,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5698,9 +5699,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5719,9 +5720,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5740,9 +5741,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5761,9 +5762,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5782,9 +5783,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5803,9 +5804,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5824,9 +5825,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5845,9 +5846,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5866,9 +5867,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5887,9 +5888,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5908,9 +5909,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5938,9 +5939,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1940-1943.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5964,9 +5965,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1943, 1944.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -5990,9 +5991,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1943.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6037,9 +6038,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6063,9 +6064,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 pakken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948, 1949.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6089,9 +6090,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1954-1964.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6110,9 +6111,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1959-1967.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6136,9 +6137,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1960-1963.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6162,9 +6163,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1963-1970.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6188,9 +6189,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 map</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1964-1966.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6214,9 +6215,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1966-1969.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6240,9 +6241,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1967-1971.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6266,9 +6267,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1971-1972.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6301,9 +6302,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 mappen</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1906-c. 1938.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6322,9 +6323,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6343,9 +6344,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1950.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6407,9 +6408,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1954.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6428,9 +6429,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1956-1957.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6449,9 +6450,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1956-1957.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6470,9 +6471,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1956-1960.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6491,9 +6492,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1957-1959.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6512,9 +6513,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 mappen</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1959.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6533,9 +6534,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1960-1970.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6554,9 +6555,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 map</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1960-1971.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6575,9 +6576,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1961-1963.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6596,9 +6597,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1963.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6617,9 +6618,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1964.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6638,9 +6639,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1964-1966.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6659,9 +6660,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1965.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6680,9 +6681,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1965.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6701,9 +6702,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1965.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6722,9 +6723,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1965.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6743,9 +6744,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1966.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6764,9 +6765,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1967.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6785,9 +6786,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1967.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6806,9 +6807,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1967-1968.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6827,9 +6828,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1968.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6848,9 +6849,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1971-1972.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6869,9 +6870,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1942-1947, 1950 en 1958.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6890,9 +6891,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1945-1957 en 1964-1965.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6911,9 +6912,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1946-1950.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6932,9 +6933,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948-1956.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6953,9 +6954,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1949-1956.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6974,9 +6975,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1961-1964.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -6995,9 +6996,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1961-1966.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7016,9 +7017,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1961-1967.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7037,9 +7038,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1962-1969.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7058,9 +7059,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1962-1970.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7079,9 +7080,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1966, 1967.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7109,9 +7110,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1918.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7130,9 +7131,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1922.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7151,9 +7152,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1924.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7172,9 +7173,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1934.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7193,9 +7194,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>November 1933-Februari 1934.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7214,9 +7215,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1935.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7235,9 +7236,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1936.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7256,9 +7257,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1938-1953.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7277,9 +7278,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 mappen</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1939.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7298,9 +7299,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1940-1945.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7319,9 +7320,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1940, 1952-1969.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7340,9 +7341,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1942.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7361,9 +7362,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1941.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7382,9 +7383,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1941/1942.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7403,9 +7404,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1942-1944.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7424,9 +7425,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1942-1945.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7445,9 +7446,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>Sept. 1942-Jan. 1945.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7466,9 +7467,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1944.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7487,9 +7488,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1944/1945.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7508,9 +7509,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1945.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7529,9 +7530,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1946.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7550,9 +7551,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1947.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7571,9 +7572,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1947-1960.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7592,9 +7593,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7613,9 +7614,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1948, 1951.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7634,9 +7635,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1949.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7655,9 +7656,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1949.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7676,9 +7677,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>4 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1950, 1958, 1967.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7697,9 +7698,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>3 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1950.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7718,9 +7719,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>4 stukken</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1952.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7739,9 +7740,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1956-1958.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7760,9 +7761,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1957.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7781,9 +7782,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1957-1960.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7802,9 +7803,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1960.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7823,9 +7824,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1964-1966.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7844,9 +7845,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1964-1968.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7865,9 +7866,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1968.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7886,9 +7887,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1970.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7907,9 +7908,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1971, 1972.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7928,9 +7929,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 stuk</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7949,9 +7950,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7970,9 +7971,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -7991,9 +7992,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8012,9 +8013,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8033,9 +8034,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8054,9 +8055,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8075,9 +8076,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 omslagen</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1941-1972.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8096,9 +8097,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1943-1956.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8133,9 +8134,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>2 delen (gebonden).</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>1918-1920</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8154,9 +8155,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>s.d.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8175,9 +8176,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1940-c. 1970.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8212,9 +8213,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 port</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1940-c. 1970.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>
@@ -8249,9 +8250,9 @@
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 port</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
-         <rico:DateRange>
+         <rico:Date>
             <rico:expressedDate>c. 1970.</rico:expressedDate>
-         </rico:DateRange>
+         </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
          <rico:Title>

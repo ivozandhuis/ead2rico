@@ -45,7 +45,7 @@
 <xsl:template match="ead:bioghist"/>
 <xsl:template match="ead:controlaccess"/>
 
-<!--ead:custodhist: see acqinfo-->
+<!--ead:custodhist: see ead:acqinfo-->
 
 <xsl:template match="ead:descgrp"/>
 <xsl:template match="ead:fileplan"/>
@@ -86,7 +86,7 @@
                         ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
                         ead:c09 | ead:c10 | ead:c11 | ead:c12)/
                         ead:scopecontent">
-    <rico:scopeAndContent>
+    <rico:scopeAndContent rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates/>
         </html:div>
@@ -106,7 +106,7 @@
                         ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
                         ead:c09 | ead:c10 | ead:c11 | ead:c12)/
                         ead:userestrict">
-    <rico:conditionsOfUse>
+    <rico:conditionsOfUse rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates/>
         </html:div>

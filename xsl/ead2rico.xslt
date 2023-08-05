@@ -26,16 +26,16 @@
 
 <!-- NL-HlmNHA:-->
 <xsl:param name="baseUri"></xsl:param>
-<xsl:variable name="archId" select="/ead:ead/ead:archdesc/ead:did/ead:unitid[@type = 'handle']"/>
+<xsl:param name="archId" select="/ead:ead/ead:archdesc/ead:did/ead:unitid[@type = 'handle']"/>
 
 <!-- NL-AmISG:
 <xsl:param name="baseUri">https://hdl.handle.net/10622/</xsl:param>
-<xsl:variable name="archId" select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+<xsl:param name="archId" select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
 -->
 
 <!-- ANF:
 <xsl:param name="baseUri">http://data.archives-nationales.culture.gouv.fr/</xsl:param>
-<xsl:variable name="archId" select="substring-after(/ead:ead/ead:eadheader/ead:eadid, 'FRAN_IR_')" />
+<xsl:param name="archId" select="substring-after(/ead:ead/ead:eadheader/ead:eadid, 'FRAN_IR_')" />
 -->
 
 <!-- RDF wrap -->
