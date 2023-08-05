@@ -11,7 +11,7 @@
 
 <!-- templates for non-did elements -->
 
-<xsl:template match="(ead:archdesc | ead:c | 
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
                         ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
                         ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
                         ead:c09 | ead:c10 | ead:c11 | ead:c12)/
@@ -26,7 +26,7 @@
 
 <xsl:template match="ead:accruals"/>
 
-<xsl:template match="(ead:archdesc | ead:c | 
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
                         ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
                         ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
                         ead:c09 | ead:c10 | ead:c11 | ead:c12)/
@@ -47,14 +47,42 @@
 
 <!--ead:custodhist: see ead:acqinfo-->
 
-<xsl:template match="ead:descgrp"/>
+<xsl:template match="ead:descgrp">
+    <xsl:apply-templates select="ead:accessrestrict"/>
+    <xsl:apply-templates select="ead:accruals"/>
+    <xsl:apply-templates select="ead:acqinfo"/>
+    <xsl:apply-templates select="ead:altformavail"/>
+    <xsl:apply-templates select="ead:appraisal"/>
+    <xsl:apply-templates select="ead:arrangement"/>
+    <xsl:apply-templates select="ead:bibliography"/>
+    <xsl:apply-templates select="ead:bioghist"/>
+    <xsl:apply-templates select="ead:controlaccess"/>
+    <xsl:apply-templates select="ead:custodhist"/>
+    <xsl:apply-templates select="ead:dao"/>
+    <xsl:apply-templates select="ead:daogrp"/>
+    <xsl:apply-templates select="ead:descgrp"/>
+    <xsl:apply-templates select="ead:fileplan"/>
+    <xsl:apply-templates select="ead:index"/>
+    <xsl:apply-templates select="ead:note"/>
+    <xsl:apply-templates select="ead:odd"/>
+    <xsl:apply-templates select="ead:originalsloc"/>
+    <xsl:apply-templates select="ead:otherfindaid"/>
+    <xsl:apply-templates select="ead:phystech"/>
+    <xsl:apply-templates select="ead:prefercite"/>
+    <xsl:apply-templates select="ead:processinfo"/>
+    <xsl:apply-templates select="ead:relatedmaterial"/>
+    <xsl:apply-templates select="ead:scopecontent"/>
+    <xsl:apply-templates select="ead:separatedmaterial"/>
+    <xsl:apply-templates select="ead:userestrict"/>
+</xsl:template>
+
 <xsl:template match="ead:fileplan"/>
 <xsl:template match="ead:index"/>
 <xsl:template match="ead:indexentry"/> <!-- part of index-->
 <xsl:template match="ead:namegrp"/>
 <xsl:template match="ead:note"/>
 
-<xsl:template match="(ead:archdesc | ead:c | 
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
                         ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
                         ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
                         ead:c09 | ead:c10 | ead:c11 | ead:c12)/
@@ -81,7 +109,7 @@
 
 <xsl:template match="ead:relatedmaterial"/>
 
-<xsl:template match="(ead:archdesc | ead:c | 
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
                         ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
                         ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
                         ead:c09 | ead:c10 | ead:c11 | ead:c12)/
@@ -101,7 +129,7 @@
 
 <xsl:template match="ead:separatedmaterial"/>
 
-<xsl:template match="(ead:archdesc | ead:c | 
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
                         ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
                         ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
                         ead:c09 | ead:c10 | ead:c11 | ead:c12)/

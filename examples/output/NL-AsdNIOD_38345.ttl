@@ -264,6 +264,12 @@
             <html:p>Het archief is tot 2040 in zijn geheel beperkt openbaar. Het is slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. Vanaf 2040 is het archief in zijn geheel openbaar.</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:conditionsOfUse """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>reproductiebeperkingen</html:head>
+            <html:p>Behoudens de algemene regels die gelden voor het vermenigvuldigen van stukken gelden geen beperkingen voor de reproductie.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral ;
     rico:descriptiveNote """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
             <html:div>
@@ -281,6 +287,30 @@
                </html:div>
             </html:div>
          </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>archiefvormer</html:head>
+            <html:p>Het archief gevormd door mr. S.W.A. baron van Voerst van Lynden, zijn echtgenote jonkvrouwe Johanna de Beaufort en hun kinderen en een van hun kleindochters.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>omvang</html:head>
+            <html:p>0.4 meter (14 nummers)</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>taal van de archiefbescheiden</html:head>
+            <html:p>Het merendeel van de archiefstukken is Nederlandstalig.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>titel archief</html:head>
+            <html:p>Archief van S.W.A. van Voerst van Lynden</html:p>
+         </html:div>
       """^^rdf:XMLLiteral ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
             rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#01> ;
@@ -288,10 +318,40 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Van Voerst van Lynden, S.W.A." ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds> ;
+    rico:history """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>beheersgeschiedenis/overbrenging naar het NIOD</html:head>
+            <html:p>Het archief is in 2007 geschonken aan het NIOD.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>bewerking</html:head>
+            <html:p>De inventaris is in 2007 vervaardigd door Petra Links.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>periode van ontstaan</html:head>
+            <html:p>Het archief is gevormd in de periode 1937-2004.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>wettelijke status</html:head>
+            <html:p>Het archief is eigendom van het NIOD.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral ;
     rico:isAssociatedWithDate [ a rico:Date ;
             rico:expressedDate "1937-2004" ;
             rico:normalizedValue "1937/2004" ] ;
-    rico:recordResourceExtent "0.4 meter (14 nummers)" .
+    rico:recordResourceExtent "0.4 meter (14 nummers)" ;
+    rico:scopeAndContent """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>aard van de archiefbestanddelen</html:head>
+            <html:p>Het archief bestaat voornamelijk uit correspondentie. Dit zijn in de eerste plaats de brieven die Van Voerst van Lynden en zijn vrouw De Beaufort aan elkaar schreven. Verder is er in het archief ook correspondentie te vinden tussen hun beider familieleden, vrienden en kennissen, alsmede de briefwisselingen die De Beaufort had met ex-gevangenen en opsporingsinstanties na de oorlog. Het archief bevat tevens documentatie die de beschreven gebeurtenissen in de correspondentie ondersteunt. Tot slot bevat het archief vanaf 1988, het jaar dat De Beaufort kwam te overlijden, correspondentie en onderzoeksmateriaal van de dochters en een van de kleindochters van Van Voerst van Lynden.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral .
 
 <file:///home/ivo/Documents/git/ivozandhuis/ead2rico/examples/output/NL-AsdNIOD_38345.rdf#2> a rico:RecordSet ;
     rico:descriptiveNote """
