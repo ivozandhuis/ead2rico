@@ -87,7 +87,7 @@
     </rico:isAssociatedWithDate>
 </xsl:template>
 
-<xsl:template match="ead:unitid">
+<xsl:template match="ead:unitid[string(.)]">
     <xsl:param name="type"/> <!-- type of the description (=did/@level)-->
     <rico:hasOrHadIdentifier>
         <rico:Identifier>

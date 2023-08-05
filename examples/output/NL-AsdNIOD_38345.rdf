@@ -49,12 +49,6 @@
    </rico:RecordSet>
    <rico:RecordSet rdf:about="#1">
       <rico:isOrWasIncludedIn rdf:resource=""/>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
    </rico:RecordSet>
    <rico:RecordSet rdf:about="#2">
       <rico:isOrWasIncludedIn rdf:resource=""/>
@@ -62,18 +56,6 @@
          <rico:Identifier>
             <rico:textualValue>1-14</rico:textualValue>
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#04"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:isAssociatedWithDate>
@@ -102,18 +84,6 @@
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
@@ -138,18 +108,6 @@
          <rico:Identifier>
             <rico:textualValue>2</rico:textualValue>
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
@@ -178,18 +136,6 @@
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
@@ -214,18 +160,6 @@
          <rico:Identifier>
             <rico:textualValue>4</rico:textualValue>
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
@@ -254,18 +188,6 @@
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
@@ -290,18 +212,6 @@
          <rico:Identifier>
             <rico:textualValue>6</rico:textualValue>
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
@@ -330,18 +240,6 @@
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
@@ -366,18 +264,6 @@
          <rico:Identifier>
             <rico:textualValue>8</rico:textualValue>
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
@@ -411,18 +297,6 @@
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
@@ -452,18 +326,6 @@
          <rico:Identifier>
             <rico:textualValue>10</rico:textualValue>
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
@@ -497,18 +359,6 @@
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
@@ -533,18 +383,6 @@
          <rico:Identifier>
             <rico:textualValue>12</rico:textualValue>
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
@@ -573,18 +411,6 @@
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
@@ -609,18 +435,6 @@
          <rico:Identifier>
             <rico:textualValue>14</rico:textualValue>
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#06"/>
-         </rico:Identifier>
-      </rico:hasOrHadIdentifier>
-      <rico:hasOrHadIdentifier>
-         <rico:Identifier>
-            <rico:textualValue/>
-            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#07"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
