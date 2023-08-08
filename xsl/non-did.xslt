@@ -18,11 +18,12 @@
                         ead:accessrestrict">
     <rico:conditionsOfAccess rdf:parseType="XMLLiteral">
         <html:div>
-            <xsl:apply-templates/>
+            <xsl:apply-templates mode="text"/>
         </html:div>
     </rico:conditionsOfAccess>
+    <xsl:apply-templates select=".//ead:p/(ead:corpname | ead:famname | ead:genreform | ead:geogname | 
+                        ead:name | ead:persname | ead:subject)"/>
 </xsl:template>
-
 
 <xsl:template match="ead:accruals"/>
 
@@ -33,9 +34,11 @@
                         (ead:acqinfo | ead:custodhist | ead:processinfo)">
     <rico:history rdf:parseType="XMLLiteral">
         <html:div>
-            <xsl:apply-templates/>
+            <xsl:apply-templates mode="text"/>
         </html:div>
     </rico:history>
+    <xsl:apply-templates select=".//ead:p/(ead:corpname | ead:famname | ead:genreform | ead:geogname | 
+                        ead:name | ead:persname | ead:subject)"/>
 </xsl:template>
 
 <xsl:template match="ead:altformavail"/>
@@ -43,7 +46,16 @@
 <xsl:template match="ead:arrangement"/>
 <xsl:template match="ead:bibliography"/>
 <xsl:template match="ead:bioghist"/>
-<xsl:template match="ead:controlaccess"/>
+
+<xsl:template match="ead:controlaccess">
+    <xsl:apply-templates select="ead:corpname"/>
+    <xsl:apply-templates select="ead:famname"/>
+    <xsl:apply-templates select="ead:genreform"/>
+    <xsl:apply-templates select="ead:geogname"/>
+    <xsl:apply-templates select="ead:name"/>
+    <xsl:apply-templates select="ead:persname"/>
+    <xsl:apply-templates select="ead:subject"/>
+</xsl:template>
 
 <!--ead:custodhist: see ead:acqinfo-->
 
@@ -89,15 +101,11 @@
                         ead:odd">
     <rico:descriptiveNote rdf:parseType="XMLLiteral">
         <html:div>
-            <xsl:apply-templates/>
+            <xsl:apply-templates mode="text"/>
         </html:div>
     </rico:descriptiveNote>
-</xsl:template>
-
-<xsl:template match="ead:odd/ead:odd">
-    <html:div>
-        <xsl:apply-templates/>
-    </html:div>
+    <xsl:apply-templates select=".//ead:p/(ead:corpname | ead:famname | ead:genreform | ead:geogname | 
+                        ead:name | ead:persname | ead:subject)"/>
 </xsl:template>
 
 <xsl:template match="ead:originalsloc"/>
@@ -116,15 +124,11 @@
                         ead:scopecontent">
     <rico:scopeAndContent rdf:parseType="XMLLiteral">
         <html:div>
-            <xsl:apply-templates/>
+            <xsl:apply-templates mode="text"/>
         </html:div>
     </rico:scopeAndContent>
-</xsl:template>
-
-<xsl:template match="ead:scopecontent/ead:scopecontent">
-    <html:div>
-        <xsl:apply-templates/>
-    </html:div>
+    <xsl:apply-templates select=".//ead:p/(ead:corpname | ead:famname | ead:genreform | ead:geogname | 
+                        ead:name | ead:persname | ead:subject)"/>
 </xsl:template>
 
 <xsl:template match="ead:separatedmaterial"/>
@@ -136,7 +140,7 @@
                         ead:userestrict">
     <rico:conditionsOfUse rdf:parseType="XMLLiteral">
         <html:div>
-            <xsl:apply-templates/>
+            <xsl:apply-templates mode="text"/>
         </html:div>
     </rico:conditionsOfUse>
 </xsl:template>

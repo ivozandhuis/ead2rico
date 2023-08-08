@@ -100,7 +100,7 @@
                <html:div>
                   <html:head>Verwante literatuur</html:head>
                   <html:p>Benz, Wolfgang; Distel, Barbara; Königseder, Angelika, Der Ort des Terrors: Geschichte der nationalsozialistischen Konzentrationslager deel V: Hinzert, Auschwitz, Neuengamme (München 2007) blz. 591</html:p>
-                  <html:p>Kaienburg, Hermann, Das Konzentrationslager Neuengamme 1938-1945 (Bonn 1997) blz. 368</html:p>
+                  <html:p>Kaienburg, Hermann, Das Konzentrationslager Neuengamme 1938-1945  (Bonn 1997) blz. 368</html:p>
                   <html:p>Schuyf, Judith; Brinks, Monique, Nederlanders in Neuengamme: de ervaringen van ruim 5500 Nederlanders in een Duits concentratiekamp, 1940-1945 (Zaltbommel 2005) blz. 464</html:p>
                </html:div>
             </html:div>
@@ -406,7 +406,7 @@
       </rico:descriptiveNote>
       <rico:scopeAndContent rdf:parseType="XMLLiteral">
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:p>Bevat tevens een ongedateerd rapport getiteld 'Report about the special mission of exploration concerning the concentration camp Neuengamme near Hamburg', opgesteld door de police-officer at Oostende</html:p>
+            <html:p>Bevat tevens  een ongedateerd rapport getiteld 'Report about the special mission of exploration concerning the concentration camp Neuengamme near Hamburg', opgesteld door de police-officer at Oostende</html:p>
          </html:div>
       </rico:scopeAndContent>
    </rico:RecordSet>
