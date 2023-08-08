@@ -13,7 +13,15 @@
       <rico:hasOrHadSomeMembersWithLanguage>
          <rico:Language rdf:about="http://id.loc.gov/vocabulary/iso639-2/ger"/>
       </rico:hasOrHadSomeMembersWithLanguage>
-      <rico:hasProvenance>Braunthal, Julius</rico:hasProvenance>
+      <rico:hasProvenance>
+         <rico:Person>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Braunthal, Julius</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:Person>
+      </rico:hasProvenance>
       <rico:recordResourceExtent>4 Meters</rico:recordResourceExtent>
       <rico:hasOrHadHolder>International Institute of Social History</rico:hasOrHadHolder>
       <rico:isAssociatedWithDate>

@@ -119,4 +119,17 @@
     </xsl:choose>
 </xsl:template>
 
+<xsl:template name="set-authorityURI">
+    <xsl:param name="source"/>
+    <xsl:param name="authfilenumber"/>
+    <xsl:choose>
+        <xsl:when test="$source = 'VIAF'">
+            <xsl:attribute name="rdf:about">
+                <xsl:text>http://viaf.org/viaf/</xsl:text>
+                <xsl:value-of select="$authfilenumber"/>
+            </xsl:attribute>
+        </xsl:when>
+    </xsl:choose>
+</xsl:template>
+
 </xsl:stylesheet>

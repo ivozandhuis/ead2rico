@@ -49,7 +49,7 @@
 <xsl:template match="ead:materialspec"/>
 <xsl:template match="ead:did/ead:note"/>
 
-<xsl:template match="ead:origination">
+<xsl:template match="ead:origination[text()]">
     <rico:hasProvenance>
         <xsl:apply-templates/>
     </rico:hasProvenance>

@@ -10,13 +10,14 @@
 
 <!-- templates for names of agents, places, subjects -->
 
-<xsl:template match="(ead:controlaccess | ead:p)/ead:corpname">
+<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:corpname">
     <rico:hasOrHasSubject>
         <rico:CorporateBody>
-            <xsl:if test="starts-with(@authfilenumber, 'http')">
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="@authfilenumber"/>
-                </xsl:attribute>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
             </xsl:if>
             <rico:hasOrHadAgentName>
                 <rico:AgentName>
@@ -29,13 +30,35 @@
     </rico:hasOrHasSubject>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p)/ead:famname">
+<xsl:template match="ead:origination/ead:corpname">
+    <rico:hasProvenance>
+        <rico:CorporateBody>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
+            </xsl:if>
+            <rico:hasOrHadAgentName>
+                <rico:AgentName>
+                    <rico:textualValue>
+                        <xsl:value-of select="normalize-space(.)"/>
+                    </rico:textualValue>
+                </rico:AgentName>
+            </rico:hasOrHadAgentName>
+        </rico:CorporateBody>
+    </rico:hasProvenance>
+</xsl:template>
+
+
+<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:famname">
     <rico:hasOrHasSubject>
         <rico:Family>
-            <xsl:if test="starts-with(@authfilenumber, 'http')">
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="@authfilenumber"/>
-                </xsl:attribute>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
             </xsl:if>
             <rico:hasOrHadAgentName>
                 <rico:AgentName>
@@ -48,17 +71,39 @@
     </rico:hasOrHasSubject>
 </xsl:template>
 
+
+<xsl:template match="ead:origination/ead:famname">
+    <rico:hasProvenance>
+        <rico:Family>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
+            </xsl:if>
+            <rico:hasOrHadAgentName>
+                <rico:AgentName>
+                    <rico:textualValue>
+                        <xsl:value-of select="normalize-space(.)"/>
+                    </rico:textualValue>
+                </rico:AgentName>
+            </rico:hasOrHadAgentName>
+        </rico:Family>
+    </rico:hasProvenance>
+</xsl:template>
+
 <xsl:template match="ead:function">
     <xsl:value-of select="normalize-space(.)"/>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p)/ead:genreform">
+<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:genreform">
     <rico:hasOrHasSubject>
         <rico:Thing>
-            <xsl:if test="starts-with(@authfilenumber, 'http')">
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="@authfilenumber"/>
-                </xsl:attribute>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
             </xsl:if>
             <rico:hasOrHadName>
                 <rico:Name>
@@ -71,13 +116,14 @@
     </rico:hasOrHasSubject>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p)/ead:geogname">
+<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:geogname">
     <rico:hasOrHasSubject>
         <rico:Place>
-            <xsl:if test="starts-with(@authfilenumber, 'http')">
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="@authfilenumber"/>
-                </xsl:attribute>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
             </xsl:if>
             <rico:hasOrHadPlaceName>
                 <rico:PlaceName>
@@ -90,13 +136,14 @@
     </rico:hasOrHasSubject>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p)/ead:name">
+<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:name">
     <rico:hasOrHasSubject>
         <rico:Thing>
-            <xsl:if test="starts-with(@authfilenumber, 'http')">
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="@authfilenumber"/>
-                </xsl:attribute>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
             </xsl:if>
             <rico:hasOrHadName>
                 <rico:Name>
@@ -113,13 +160,14 @@
     <xsl:value-of select="normalize-space(.)"/>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p)/ead:persname">
+<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:persname">
     <rico:hasOrHasSubject>
         <rico:Person>
-            <xsl:if test="starts-with(@authfilenumber, 'http')">
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="@authfilenumber"/>
-                </xsl:attribute>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
             </xsl:if>
             <rico:hasOrHadAgentName>
                 <rico:AgentName>
@@ -132,6 +180,25 @@
     </rico:hasOrHasSubject>
 </xsl:template>
 
+<xsl:template match="ead:origination/ead:persname">
+    <rico:hasProvenance>
+        <rico:Person>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
+            </xsl:if>
+            <rico:hasOrHadAgentName>
+                <rico:AgentName>
+                    <rico:textualValue>
+                        <xsl:value-of select="normalize-space(.)"/>
+                    </rico:textualValue>
+                </rico:AgentName>
+            </rico:hasOrHadAgentName>
+        </rico:Person>
+    </rico:hasProvenance>
+</xsl:template>
 
 <xsl:template match="ead:subarea">
     <xsl:value-of select="normalize-space(.)"/>
@@ -140,10 +207,11 @@
 <xsl:template match="(ead:controlaccess | ead:p)/ead:subject">
     <rico:hasOrHasSubject>
         <rico:Thing>
-            <xsl:if test="starts-with(@authfilenumber, 'http')">
-                <xsl:attribute name="rdf:about">
-                    <xsl:value-of select="@authfilenumber"/>
-                </xsl:attribute>
+            <xsl:if test="@source and @authfilenumber">
+                <xsl:call-template name="set-authorityURI">
+                    <xsl:with-param name="source" select="@source"/>
+                    <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
+                </xsl:call-template>
             </xsl:if>
             <rico:hasOrHadName>
                 <rico:Name>
