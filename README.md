@@ -24,8 +24,10 @@ The file mapping.md gives an overview of all EAD-elements and in which imported 
 ## Status
 Not all elements are implemented yet, especially the difficult but important mixed-content elements (inline, names) need attention.
 
-## Background
-I did a first implementation for the Amsterdam City Archives, and am developping this now for the Finding Aids of the International Institute of Social History (Amsterdam).
+## Acknowledgement
+Part of this work was commissioned and paid for by:
+* Amsterdam City Archives 
+* International Institute of Social History (Amsterdam)
 
 
 
