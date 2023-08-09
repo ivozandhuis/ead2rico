@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- patched: removed De Ree's open data envelop -->
+<!-- patched: removed BIJLAGES (fromline 33055) because that is not EAD -->
 <!--opendata>
   <header><type>EAD</type>
     <rights>Public Domain Dedication</rights>
@@ -33051,7 +33052,7 @@
           </c03>
         </c02>
       </c01>
-      <c01 level="series">
+      <!--c01 level="series">
         <did id="MF2200026">
           <unitid type="guid">53E449EC129544AD8660FCEC1E7317A7</unitid>
           <unitid type="series_code">11.</unitid>
@@ -56575,7 +56576,7 @@
             </c04>
           </c03>
         </c02>
-      </c01>
+      </c01-->
     </dsc>
   </archdesc>
 </ead>

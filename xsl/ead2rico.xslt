@@ -26,6 +26,9 @@
 
 <xsl:param name="baseUri">
     <xsl:choose>
+        <xsl:when test="/ead:ead/ead:eadheader/ead:eadid[@mainagencycode = 'NL-GdSAMH']">
+            <xsl:text>https://samh.nl/bronnen/archives/details/</xsl:text>
+        </xsl:when>
         <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HlmNHA']">
             <xsl:text/>
         </xsl:when>
@@ -46,6 +49,9 @@
 
 <xsl:param name="archId">
     <xsl:choose>
+        <xsl:when test="/ead:ead/ead:eadheader/ead:eadid[@mainagencycode = 'NL-GdSAMH']">
+            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        </xsl:when>
         <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HlmNHA']">
             <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid[@type = 'handle']"/>
         </xsl:when>
