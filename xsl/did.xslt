@@ -79,9 +79,9 @@
                 </rico:expressedDate>
             </xsl:if>
             <xsl:if test="@normal">
-                <rico:normalizedValue>
+                <rico:normalizedDateValue>
                     <xsl:value-of select="@normal"/>
-                </rico:normalizedValue>
+                </rico:normalizedDateValue>
             </xsl:if>
         </rico:Date>
     </rico:isAssociatedWithDate>
