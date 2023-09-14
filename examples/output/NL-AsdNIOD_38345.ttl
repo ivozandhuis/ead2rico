@@ -17,7 +17,7 @@
             rico:textualValue "1937" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1937" ] ;
+            rico:normalizedDateValue "1937" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -34,7 +34,7 @@
             rico:textualValue "1945, september - december" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1945" ] ;
+            rico:normalizedDateValue "1945" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" ;
     rico:scopeAndContent """
@@ -56,7 +56,7 @@
             rico:textualValue "1946-1949" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1946/1949" ] ;
+            rico:normalizedDateValue "1946/1949" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -73,7 +73,7 @@
             rico:textualValue "1950-1959" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1950/1959" ] ;
+            rico:normalizedDateValue "1950/1959" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -90,7 +90,7 @@
             rico:textualValue "1959-1991" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1959/1991" ] ;
+            rico:normalizedDateValue "1959/1991" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -107,7 +107,7 @@
             rico:textualValue "1989-2004" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1989/2004" ] ;
+            rico:normalizedDateValue "1989/2004" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -124,7 +124,7 @@
             rico:textualValue "1938" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1938" ] ;
+            rico:normalizedDateValue "1938" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -141,7 +141,7 @@
             rico:textualValue "1939" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1939" ] ;
+            rico:normalizedDateValue "1939" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -158,7 +158,7 @@
             rico:textualValue "1940" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1940" ] ;
+            rico:normalizedDateValue "1940" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -175,7 +175,7 @@
             rico:textualValue "1941" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1941" ] ;
+            rico:normalizedDateValue "1941" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -192,7 +192,7 @@
             rico:textualValue "1942" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1942" ] ;
+            rico:normalizedDateValue "1942" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -209,7 +209,7 @@
             rico:textualValue "1943" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1943" ] ;
+            rico:normalizedDateValue "1943" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" .
 
@@ -226,7 +226,7 @@
             rico:textualValue "1944" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1944" ] ;
+            rico:normalizedDateValue "1944" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" ;
     rico:scopeAndContent """
@@ -248,7 +248,7 @@
             rico:textualValue "1945, januari - augustus" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedValue "1945" ] ;
+            rico:normalizedDateValue "1945" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:recordResourceExtent "1 omslag" ;
     rico:scopeAndContent """
@@ -344,7 +344,7 @@
       """^^rdf:XMLLiteral ;
     rico:isAssociatedWithDate [ a rico:Date ;
             rico:expressedDate "1937-2004" ;
-            rico:normalizedValue "1937/2004" ] ;
+            rico:normalizedDateValue "1937/2004" ] ;
     rico:recordResourceExtent "0.4 meter (14 nummers)" ;
     rico:scopeAndContent """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -366,6 +366,6 @@
             rico:textualValue "Correspondentie" ] ;
     rico:isAssociatedWithDate [ a rico:Date ;
             rico:expressedDate "1937-2004." ;
-            rico:normalizedValue "1937/2004" ] ;
+            rico:normalizedDateValue "1937/2004" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .
 

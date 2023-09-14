@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+<rdf:RDF xmlns:html="http://www.w3.org/1999/xhtml/"
+          xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-          xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+          xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822">
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds"/>
       <rico:hasOrHadIdentifier>
@@ -14,7 +17,7 @@
       <rico:isAssociatedWithDate>
          <rico:Date>
             <rico:expressedDate>1937-2004</rico:expressedDate>
-            <rico:normalizedValue>1937/2004</rico:normalizedValue>
+            <rico:normalizedDateValue>1937/2004</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -23,73 +26,73 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:conditionsOfAccess rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>Openbaarheid</html:head>
             <html:p>Het archief is tot 2040 in zijn geheel beperkt openbaar. Het is slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. Vanaf 2040 is het archief in zijn geheel openbaar.</html:p>
          </html:div>
       </rico:conditionsOfAccess>
       <rico:history rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>wettelijke status</html:head>
             <html:p>Het archief is eigendom van het NIOD.</html:p>
          </html:div>
       </rico:history>
       <rico:history rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>periode van ontstaan</html:head>
             <html:p>Het archief is gevormd in de periode 1937-2004.</html:p>
          </html:div>
       </rico:history>
       <rico:history rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>beheersgeschiedenis/overbrenging naar het NIOD</html:head>
             <html:p>Het archief is in 2007 geschonken aan het NIOD.</html:p>
          </html:div>
       </rico:history>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>titel archief</html:head>
             <html:p>Archief van S.W.A. van Voerst van Lynden</html:p>
          </html:div>
       </rico:descriptiveNote>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>archiefvormer</html:head>
             <html:p>Het archief gevormd door mr. S.W.A. baron van Voerst van Lynden, zijn echtgenote jonkvrouwe Johanna de Beaufort en hun kinderen en een van hun kleindochters.</html:p>
          </html:div>
       </rico:descriptiveNote>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>omvang</html:head>
             <html:p>0.4 meter (14 nummers)</html:p>
          </html:div>
       </rico:descriptiveNote>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>taal van de archiefbescheiden</html:head>
             <html:p>Het merendeel van de archiefstukken is Nederlandstalig.</html:p>
          </html:div>
       </rico:descriptiveNote>
       <rico:history rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>bewerking</html:head>
             <html:p>De inventaris is in 2007 vervaardigd door Petra Links.</html:p>
          </html:div>
       </rico:history>
       <rico:scopeAndContent rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>aard van de archiefbestanddelen</html:head>
             <html:p>Het archief bestaat voornamelijk uit correspondentie. Dit zijn in de eerste plaats de brieven die Van Voerst van Lynden en zijn vrouw De Beaufort aan elkaar schreven. Verder is er in het archief ook correspondentie te vinden tussen hun beider familieleden, vrienden en kennissen, alsmede de briefwisselingen die De Beaufort had met ex-gevangenen en opsporingsinstanties na de oorlog. Het archief bevat tevens documentatie die de beschreven gebeurtenissen in de correspondentie ondersteunt. Tot slot bevat het archief vanaf 1988, het jaar dat De Beaufort kwam te overlijden, correspondentie en onderzoeksmateriaal van de dochters en een van de kleindochters van Van Voerst van Lynden.</html:p>
          </html:div>
       </rico:scopeAndContent>
       <rico:conditionsOfUse rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>reproductiebeperkingen</html:head>
             <html:p>Behoudens de algemene regels die gelden voor het vermenigvuldigen van stukken gelden geen beperkingen voor de reproductie.</html:p>
          </html:div>
       </rico:conditionsOfUse>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:div>
                <html:head>Literatuur</html:head>
                <html:p>Voor vervolgonderzoek raadplege men de volgende literatuur.</html:p>
@@ -121,7 +124,7 @@
       <rico:isAssociatedWithDate>
          <rico:Date>
             <rico:expressedDate>1937-2004.</rico:expressedDate>
-            <rico:normalizedValue>1937/2004</rico:normalizedValue>
+            <rico:normalizedDateValue>1937/2004</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -130,7 +133,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -147,7 +150,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1937</rico:normalizedValue>
+            <rico:normalizedDateValue>1937</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -156,7 +159,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -173,7 +176,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1938</rico:normalizedValue>
+            <rico:normalizedDateValue>1938</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -182,7 +185,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -199,7 +202,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1939</rico:normalizedValue>
+            <rico:normalizedDateValue>1939</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -208,7 +211,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -225,7 +228,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1940</rico:normalizedValue>
+            <rico:normalizedDateValue>1940</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -234,7 +237,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -251,7 +254,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1941</rico:normalizedValue>
+            <rico:normalizedDateValue>1941</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -260,7 +263,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -277,7 +280,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1942</rico:normalizedValue>
+            <rico:normalizedDateValue>1942</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -286,7 +289,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -303,7 +306,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1943</rico:normalizedValue>
+            <rico:normalizedDateValue>1943</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -312,7 +315,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -329,7 +332,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1944</rico:normalizedValue>
+            <rico:normalizedDateValue>1944</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -338,12 +341,12 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
       <rico:scopeAndContent rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Bevat tevens een agenda van Agnès van Boetzelaer de Beaufort, de zus van Johanna de Beaufort</html:p>
          </html:div>
       </rico:scopeAndContent>
@@ -360,7 +363,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1945</rico:normalizedValue>
+            <rico:normalizedDateValue>1945</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -369,12 +372,12 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
       <rico:scopeAndContent rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Bevat tevens een dagboekje van Johanna de Beaufort, waarin zij schreef op de dag van haar huwelijk en in de bevrijdingsperiode</html:p>
          </html:div>
       </rico:scopeAndContent>
@@ -391,7 +394,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1945</rico:normalizedValue>
+            <rico:normalizedDateValue>1945</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -400,12 +403,12 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
       <rico:scopeAndContent rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Bevat tevens  een ongedateerd rapport getiteld 'Report about the special mission of exploration concerning the concentration camp Neuengamme near Hamburg', opgesteld door de police-officer at Oostende</html:p>
          </html:div>
       </rico:scopeAndContent>
@@ -422,7 +425,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1946/1949</rico:normalizedValue>
+            <rico:normalizedDateValue>1946/1949</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -431,7 +434,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -448,7 +451,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1950/1959</rico:normalizedValue>
+            <rico:normalizedDateValue>1950/1959</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -457,7 +460,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -474,7 +477,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1959/1991</rico:normalizedValue>
+            <rico:normalizedDateValue>1959/1991</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -483,7 +486,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -500,7 +503,7 @@
       <rico:recordResourceExtent>1 omslag</rico:recordResourceExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
-            <rico:normalizedValue>1989/2004</rico:normalizedValue>
+            <rico:normalizedDateValue>1989/2004</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -509,7 +512,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</html:p>
          </html:div>
       </rico:descriptiveNote>

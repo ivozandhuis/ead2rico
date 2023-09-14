@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+<rdf:RDF xmlns:html="http://www.w3.org/1999/xhtml/"
+          xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-          xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+          xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH00111">
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
       <rico:hasOrHadIdentifier>
@@ -27,7 +30,7 @@
       <rico:isAssociatedWithDate>
          <rico:Date>
             <rico:expressedDate>1891-1972</rico:expressedDate>
-            <rico:normalizedValue>1891/1972</rico:normalizedValue>
+            <rico:normalizedDateValue>1891/1972</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -36,13 +39,13 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:conditionsOfAccess rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>Raadpleging</html:head>
             <html:p>Not restricted</html:p>
          </html:div>
       </rico:conditionsOfAccess>
       <rico:history rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>Acquisition</html:head>
             <html:p>Papers donated to the IISH by Julius Braunthal in 1970; with accruals from his widow Tini Braunthal in the period 1971-1975.</html:p>
          </html:div>
@@ -156,7 +159,7 @@
          </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:history rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>Geschiedenis archiefbeheer</html:head>
             <html:p>Het archief werd door Braunthal in 1970 aan het IISG geschonken. In de loop van 1971 werd het overgebracht. Braunthal had het plan bij de inventarisatie van zijn archief te assisteren. Helaas overleed hij op 28 april 1972.</html:p>
             <html:p>Zijn weduwe Ernestine (Tini) Braunthal stuurde in de jaren na zijn dood nog enige waardevolle aanvullingen aan brieven en ander materiaal, die aan het archief werden toegevoegd.</html:p>
@@ -172,7 +175,7 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>INLEIDING</html:head>
             <html:p>Julius Braunthal werd op 5 mei 1891 in Wenen geboren.</html:p>
             <html:p>Hij bezocht daar de lagere school en voortgezet onderwijs en op 14-jarige leeftijd ging hij in de leer voor boekbinder.</html:p>
@@ -347,7 +350,7 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>INDEX</html:head>
             <html:p>betreffende nr. 19-20, 92-100, 103-106, 136-143, 145-148, 150-166, 167, 169-189, 280-284, 290-294</html:p>
             <html:p>A</html:p>
@@ -7008,13 +7011,13 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:history rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>Processing Information</html:head>
             <html:p>Inventory by Emile Schwidder in 1977.</html:p>
          </html:div>
       </rico:history>
       <rico:scopeAndContent rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>Content</html:head>
             <html:p>Documents on his trial, his family and their emigration 1934-1946, and biographical notes; correspondence with Austrian, British and other socialists 1891-1972, including Rafail Abramovič, Friedrich Adler and Karl Kautsky, on the International Socialist Forum 1941-1948 and correspondence issued as secretary-general of the Socialist International 1950-1956; radio talks for the BBC 1939-1943, 1948-1949; manuscripts of published and unpublished books, articles, lectures, speeches, notably on the political situation and socialism in Austria, Germany, Israel, Asia; notes and other documents relating to his biographies on Otto Bauer (including the manuscript) and Victor and Friedrich Adler; correspondence on his publications and speeches, and press clippings of reviews; some other documents and press clippings on various subjects; some printed material.</html:p>
          </html:div>
@@ -7447,7 +7450,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -7473,7 +7476,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -8652,7 +8655,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -8804,7 +8807,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -8830,7 +8833,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -8856,7 +8859,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -8891,7 +8894,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -9404,7 +9407,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -9429,7 +9432,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -9574,7 +9577,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -9600,7 +9603,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -9626,7 +9629,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -9652,7 +9655,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -9698,7 +9701,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -9969,7 +9972,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -10010,7 +10013,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -10765,7 +10768,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Met begeleidende brieven.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12160,7 +12163,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12186,7 +12189,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12212,7 +12215,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12233,7 +12236,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12259,7 +12262,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12285,7 +12288,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>De namen van de afzenders zijn onbekend en/of voor het grootste deel doorgeschrapt.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12332,7 +12335,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12358,7 +12361,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12384,7 +12387,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12410,7 +12413,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12436,7 +12439,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12462,7 +12465,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>
@@ -12488,7 +12491,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:p>Zie index.</html:p>
          </html:div>
       </rico:descriptiveNote>

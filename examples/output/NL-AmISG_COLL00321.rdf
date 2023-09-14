@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+<rdf:RDF xmlns:html="http://www.w3.org/1999/xhtml/"
+          xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-          xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+          xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/COLL00321">
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
       <rico:hasOrHadIdentifier>
@@ -27,7 +30,7 @@
       <rico:isAssociatedWithDate>
          <rico:Date>
             <rico:expressedDate>1935-1991</rico:expressedDate>
-            <rico:normalizedValue>1935/1991</rico:normalizedValue>
+            <rico:normalizedDateValue>1935/1991</rico:normalizedDateValue>
          </rico:Date>
       </rico:isAssociatedWithDate>
       <rico:hasOrHadTitle>
@@ -36,7 +39,7 @@
          </rico:Title>
       </rico:hasOrHadTitle>
       <rico:conditionsOfAccess rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>Raadpleging</html:head>
             <html:p>Vrij</html:p>
          </html:div>
@@ -150,13 +153,13 @@
          </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:history rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>Bewerking</html:head>
             <html:p>Lijst gemaakt door Eric Pap in 2018.</html:p>
          </html:div>
       </rico:history>
       <rico:scopeAndContent rdf:parseType="XMLLiteral">
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+         <html:div>
             <html:head>Inhoud</html:head>
             <html:p>Publicaties van de Uitgeverij Pegasus voornamelijk over marxisme en communisme.</html:p>
             <html:p>De oorspronkelijke lijsten van Pegasus zijn ook toegevoegd aan de collectie.</html:p>
