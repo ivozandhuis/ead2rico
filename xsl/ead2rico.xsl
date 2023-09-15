@@ -44,6 +44,9 @@
         <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'FR_ANF']">
             <xsl:text>http://data.archives-nationales.culture.gouv.fr/</xsl:text>
         </xsl:when>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HaNA']">
+            <xsl:text>https://www.nationaalarchief.nl/onderzoeken/archief/</xsl:text>
+        </xsl:when>
         <xsl:otherwise>
             <xsl:text>http://example.com/</xsl:text>
         </xsl:otherwise>
@@ -65,6 +68,9 @@
             <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
         </xsl:when>
         <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'FR_ANF']">
+            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        </xsl:when>
+        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HaNA']">
             <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
         </xsl:when>
         <xsl:otherwise>

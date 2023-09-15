@@ -55,7 +55,7 @@
 
 <xsl:template match="ead:origination[text()]">
     <rico:hasProvenance>
-        <xsl:apply-templates/>
+        <xsl:value-of select="."/>
     </rico:hasProvenance>
 </xsl:template>
 
