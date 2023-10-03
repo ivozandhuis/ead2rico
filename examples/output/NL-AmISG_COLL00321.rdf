@@ -26,7 +26,11 @@
             </rico:hasOrHadAgentName>
          </rico:CorporateBody>
       </rico:hasProvenance>
-      <rico:recordResourceExtent>771 Books</rico:recordResourceExtent>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>771 Books</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
       <rico:hasOrHadHolder>International Institute of Social History</rico:hasOrHadHolder>
       <rico:isAssociatedWithDate>
          <rico:Date>

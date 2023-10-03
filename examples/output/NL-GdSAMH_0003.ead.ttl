@@ -23578,6 +23578,8 @@
             <html:p>volledig openbaar</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "Archiefmateriaal Types: PapierStrekkende meter: 23.15" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
             rico:textualValue "0003" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
@@ -23589,8 +23591,7 @@
          </html:div>
       """^^rdf:XMLLiteral ;
     rico:isAssociatedWithDate [ a rico:Date ;
-            rico:expressedDate "1557-1858" ] ;
-    rico:recordResourceExtent "Archiefmateriaal Types: PapierStrekkende meter: 23.15" .
+            rico:expressedDate "1557-1858" ] .
 
 <https://samh.nl/bronnen/archives/details/0003#1-36> a rico:RecordSet ;
     rico:conditionsOfAccess """

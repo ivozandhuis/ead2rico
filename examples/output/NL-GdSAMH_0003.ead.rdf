@@ -12,7 +12,11 @@
             <rico:textualValue>0003</rico:textualValue>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
-      <rico:recordResourceExtent>Archiefmateriaal Types: PapierStrekkende meter: 23.15</rico:recordResourceExtent>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>Archiefmateriaal Types: PapierStrekkende meter: 23.15</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
       <rico:isAssociatedWithDate>
          <rico:Date>
             <rico:expressedDate>1557-1858</rico:expressedDate>
