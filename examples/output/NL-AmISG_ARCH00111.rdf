@@ -54,6 +54,12 @@
             <html:p>Papers donated to the IISH by Julius Braunthal in 1970; with accruals from his widow Tini Braunthal in the period 1971-1975.</html:p>
          </html:div>
       </rico:history>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Biographical Note</html:head>
+            <html:p>Born in Vienna 1891, died in Teddington, Great Britain 1972; writer, active in the international social democratic movement; member of the executive committees of the Sozialdemokratische Arbeiterpartei in Österreich (SDAP) and the Republikanischer Schutzbund; imprisoned and tried for high treason in 1934, expelled from Austria in 1935; lived in Belgium 1935-1936; settled in Great Britain in 1938; editor of the Tribune from 1937, the International Socialist Forum 1938-1948; secretary of the Committee of the International Socialist Conferences (COMISCO) 1949-1951, secretary-general of the Socialist International (SI) 1951-1956; author of the `History of the International' in three volumes, published between 1961-1971.</html:p>
+         </html:div>
+      </rico:descriptiveNote>
       <rico:hasOrHasSubject>
          <rico:Place>
             <rico:hasOrHadPlaceName>
@@ -7014,6 +7020,12 @@
             </rico:hasOrHadAgentName>
          </rico:Person>
       </rico:hasOrHasSubject>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Aanbevolen citeerwijze</html:head>
+            <html:p>Julius Braunthal Papers, inventory number ..., International Institute of Social History, Amsterdam</html:p>
+         </html:div>
+      </rico:descriptiveNote>
       <rico:history rdf:parseType="XMLLiteral">
          <html:div>
             <html:head>Processing Information</html:head>

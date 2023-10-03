@@ -49,6 +49,19 @@
             <html:p>Vrij</html:p>
          </html:div>
       </rico:conditionsOfAccess>
+      <rico:recordResourceStructure rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Ordening</html:head>
+            <html:p>De indeling is aangehouden van de oorspronkelijke inventarislijsten van Pegasus. Deze categorieën zijn: politiek, belletrie en taalkunde. Tevens een aantal in het Nederlands vertaalde kinderboeken. Hierin ook door Pegasus geïmporteerde boeken in het Nederlands, waarvan Pegasus zich mede-uitgever beschouwt.</html:p>
+            <html:p>Alfabetisch geordend op auteur of, indien geen auteur, op eerste titelwoord.</html:p>
+         </html:div>
+      </rico:recordResourceStructure>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Geschiedenis</html:head>
+            <html:p>Opgericht als de uitgeverij van de Communistische Partij van Nederland. Tegenwoordig is gespecialiseerd op het gebied van Oost- en Midden-Europese taal &amp; cultuur in Nederland.</html:p>
+         </html:div>
+      </rico:descriptiveNote>
       <rico:hasOrHasSubject>
          <rico:Place>
             <rico:hasOrHadPlaceName>
@@ -157,6 +170,12 @@
             </rico:hasOrHadAgentName>
          </rico:CorporateBody>
       </rico:hasOrHasSubject>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Aanbevolen citeerwijze</html:head>
+            <html:p>Fonds Marxisme Uitgeverij Pegasus, inventory number ..., International Institute of Social History, Amsterdam</html:p>
+         </html:div>
+      </rico:descriptiveNote>
       <rico:history rdf:parseType="XMLLiteral">
          <html:div>
             <html:head>Bewerking</html:head>

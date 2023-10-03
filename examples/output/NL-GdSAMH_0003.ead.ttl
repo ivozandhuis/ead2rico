@@ -23578,6 +23578,11 @@
             <html:p>volledig openbaar</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:descriptiveNote """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:p/>
+         </html:div>
+      """^^rdf:XMLLiteral ;
     rico:hasCreationDate [ a rico:Date ;
             rico:expressedDate "1557-1858" ] ;
     rico:hasExtent [ a rico:Extent ;

@@ -44,11 +44,45 @@
                         ead:name | ead:persname | ead:subject)"/>
 </xsl:template>
 
-<xsl:template match="ead:altformavail"/>
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
+                        ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
+                        ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
+                        ead:c09 | ead:c10 | ead:c11 | ead:c12)/
+                        ead:altformavail">
+    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:descriptiveNote>
+</xsl:template>
+
 <xsl:template match="ead:appraisal"/>
-<xsl:template match="ead:arrangement"/>
+
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
+                        ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
+                        ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
+                        ead:c09 | ead:c10 | ead:c11 | ead:c12)/
+                        ead:arrangement">
+    <rico:recordResourceStructure rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:recordResourceStructure>
+</xsl:template>
+
 <xsl:template match="ead:bibliography"/>
-<xsl:template match="ead:bioghist"/>
+
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
+                        ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
+                        ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
+                        ead:c09 | ead:c10 | ead:c11 | ead:c12)/
+                        ead:bioghist">
+    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:descriptiveNote>  
+</xsl:template>
 
 <xsl:template match="ead:controlaccess">
     <xsl:apply-templates select="ead:corpname"/>
@@ -111,14 +145,67 @@
                         ead:name | ead:persname | ead:subject)"/>
 </xsl:template>
 
-<xsl:template match="ead:originalsloc"/>
-<xsl:template match="ead:otherfindaid"/>
-<xsl:template match="ead:phystech"/>
-<xsl:template match="ead:prefercite"/>
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
+                        ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
+                        ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
+                        ead:c09 | ead:c10 | ead:c11 | ead:c12)/
+                        ead:originalsloc">
+    <rico:history rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:history>
+</xsl:template>
+
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
+                        ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
+                        ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
+                        ead:c09 | ead:c10 | ead:c11 | ead:c12)/
+                        ead:otherfindaid">
+    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:descriptiveNote>
+</xsl:template>
+
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
+                        ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
+                        ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
+                        ead:c09 | ead:c10 | ead:c11 | ead:c12)/
+                        ead:phystech">
+    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:descriptiveNote>
+</xsl:template>
+
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
+                        ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
+                        ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
+                        ead:c09 | ead:c10 | ead:c11 | ead:c12)/
+                        ead:prefercite">
+    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:descriptiveNote>
+</xsl:template>
 
 <!--ead:processinfo: see ead:acqinfo-->
 
-<xsl:template match="ead:relatedmaterial"/>
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
+                        ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
+                        ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
+                        ead:c09 | ead:c10 | ead:c11 | ead:c12)/
+                        ead:relatedmaterial">
+    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:descriptiveNote>
+</xsl:template>
 
 <xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
                         ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
@@ -134,7 +221,17 @@
                         ead:name | ead:persname | ead:subject)"/>
 </xsl:template>
 
-<xsl:template match="ead:separatedmaterial"/>
+<xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
+                        ead:c01 | ead:c02 | ead:c03 | ead:c04 | 
+                        ead:c05 | ead:c06 | ead:c07 | ead:c08 | 
+                        ead:c09 | ead:c10 | ead:c11 | ead:c12)/
+                        ead:separatedmaterial">
+    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:descriptiveNote>
+</xsl:template>
 
 <xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
                         ead:c01 | ead:c02 | ead:c03 | ead:c04 | 

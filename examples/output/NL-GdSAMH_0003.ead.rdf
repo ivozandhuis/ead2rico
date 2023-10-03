@@ -32,6 +32,11 @@
             <html:p>volledig openbaar</html:p>
          </html:div>
       </rico:conditionsOfAccess>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:p/>
+         </html:div>
+      </rico:descriptiveNote>
       <rico:history rdf:parseType="XMLLiteral">
          <html:div>
             <html:p>Voltooid</html:p>

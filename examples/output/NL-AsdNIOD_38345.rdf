@@ -35,12 +35,26 @@
             <html:p>Het archief is tot 2040 in zijn geheel beperkt openbaar. Het is slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. Vanaf 2040 is het archief in zijn geheel openbaar.</html:p>
          </html:div>
       </rico:conditionsOfAccess>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Levensloop</html:head>
+            <html:p>Mr. Samuel Willem Alexander baron van Voerst van Lynden werd geboren op 29 augustus 1904 te Ubbergen als zoon van Alexander Willem Frederik baron van Voerst van Lynden en jonkvrouwe Anna Bregitta van Westervelt Sandberg. Op 14 juni 1934 trad hij in het huwelijk met jonkvrouwe Johanna de Beaufort (1908-1988) en drie jaar later werd hun eerste van drie dochters geboren. Het gezin was woonachtig op het landgoed de Groote Scheere in Holthone, slechts enkele kilometers verwijderd van de stad Gramsbergen, waar Van Voerst van Lynden in 1939 een betrekking kreeg als burgemeester.</html:p>
+            <html:p>In zijn functie als burgemeester was Van Voerst van Lynden tijdens de Duitse bezetting betrokken bij diverse verzetsactiviteiten, zoals bijvoorbeeld het vervalsen van persoonsbewijzen. Daarnaast verleende het burgemeestersechtpaar hulp aan verschillende onderduikers. Zo hielpen zij ontsnapte Franse krijgsgevangen door hen onderdak te bieden op het landgoed. Op 14 oktober 1943 wordt Van Voerst van Lynden echter in de vroege morgen van zijn bed gelicht en meegenomen naar de gevangenis in Scheveningen. Na anderhalve maand van lange verhoren en vernederingen komt hij plotseling weer vrij en kan hij gewoon weer als burgemeester aan het werk. Over de aanleiding voor zijn arrestatie is nooit iets bekend geworden. In januari van 1945 gaat het weer fout. Er vindt een inval plaats op het gemeentehuis en Van Voerst van Lynden wordt samen met enkele andere medewerkers overgebracht naar de gevangenis in Zwolle. Ook ditmaal is de aanleiding voor zijn arrestatie niet bekend. Zijn vrouw doet verwoede pogingen om de Duitsers te bewegen hem ook dit keer weer vrij te laten, maar tevergeefs: op 17 maart wordt hij getransporteerd naar het concentratiekamp Neuengamme bij Hamburg. Vanaf dat moment heeft de familie nooit meer iets van hem gehoord.</html:p>
+            <html:p>Het leven van jonkvrouwe De Beaufort heeft sinds 1945 altijd in het teken gestaan van de zoektocht naar haar man. Vele instanties heeft zij aangeschreven en veel heeft zij gecorrespondeerd en gesproken met overlevenden uit Neuengamme die haar echtgenoot nog hebben gezien. Ook de drie dochters van Van Voerst van Lynden, en later ook hun kleindochter Jacqueline Quarles van Ufford, hebben veel onderzoek gedaan naar de verdwijning van hun vader c.q. grootvader. De correspondentie die uit deze zoektocht is voortgekomen vormt de kern van het archief.</html:p>
+         </html:div>
+      </rico:descriptiveNote>
       <rico:history rdf:parseType="XMLLiteral">
          <html:div>
             <html:head>wettelijke status</html:head>
             <html:p>Het archief is eigendom van het NIOD.</html:p>
          </html:div>
       </rico:history>
+      <rico:recordResourceStructure rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>ordening van de archiefbestanddelen</html:head>
+            <html:p>Het materiaal is chronologisch geordend.</html:p>
+         </html:div>
+      </rico:recordResourceStructure>
       <rico:history rdf:parseType="XMLLiteral">
          <html:div>
             <html:head>periode van ontstaan</html:head>
@@ -75,6 +89,23 @@
          <html:div>
             <html:head>taal van de archiefbescheiden</html:head>
             <html:p>Het merendeel van de archiefstukken is Nederlandstalig.</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>materiële staat</html:head>
+            <html:p>De materiële toestand van de archiefstukken verzet zich niet tegen gebruikelijke raadpleging van de originelen in de studiezaal van het NIOD.</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>citeer en aanvraaginstructie</html:head>
+            <html:p>Archiefstukken uit dit archief kunnen in de studiezaal van het NIOD worden aangevraagd onder vermelding van: archief 822, inv.no. ...</html:p>
+            <html:p>Bij het citeren in annotatie en verantwoording dient het archief tenminste eenmaal volledig en zonder afkortingen te worden vermeld. Daarna volstaat een verkorte aanhaling:</html:p>
+            <html:p>volledig: Nederlands Instituut voor Oorlogsdocumentatie, Amsterdam, archief van S.W.A. van Voerst van Lynden, inv.no. ...
+        </html:p>
+            <html:p>verkort: NIOD, archief 822, Voerst van Lynden, inv.no. ...
+        </html:p>
          </html:div>
       </rico:descriptiveNote>
       <rico:history rdf:parseType="XMLLiteral">
