@@ -72,9 +72,13 @@
 </xsl:template>
 
 <xsl:template match="ead:physdesc">
-    <rico:recordResourceExtent>
-        <xsl:value-of select="normalize-space(.)"/>
-    </rico:recordResourceExtent>
+    <rico:hasExtent>
+        <rico:Extent>
+            <rico:textualValue>
+                <xsl:value-of select="normalize-space(.)"/>
+            </rico:textualValue>
+        </rico:Extent>    
+    </rico:hasExtent>
 </xsl:template>
 
 <xsl:template match="ead:physfacet"/> <!-- part of physdesc-->
