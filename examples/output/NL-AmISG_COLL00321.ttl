@@ -8589,9 +8589,12 @@
     rico:hasOrHadSomeMembersWithLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Fonds Marxisme Uitgeverij Pegasus" ] ;
-    rico:hasOrHasSubject [ a rico:Thing ;
+    rico:hasOrHasSubject [ a rico:Place ;
+            rico:hasOrHadPlaceName [ a rico:PlaceName ;
+                    rico:textualValue "USSR (former)" ] ],
+        [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Communist movements and parties" ] ],
+                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
         [ a rico:Place ;
             rico:hasOrHadPlaceName [ a rico:PlaceName ;
                     rico:textualValue "Netherlands" ] ],
@@ -8600,13 +8603,10 @@
                     rico:textualValue "Culture, media and arts" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Books" ] ],
+                    rico:textualValue "Communist movements and parties" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
-        [ a rico:Place ;
-            rico:hasOrHadPlaceName [ a rico:PlaceName ;
-                    rico:textualValue "USSR (former)" ] ],
+                    rico:textualValue "Books" ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadAgentName [ a rico:AgentName ;
                     rico:textualValue "CPN" ] ],

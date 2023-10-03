@@ -12,7 +12,13 @@
     exclude-result-prefixes="xsl ead">
 
 
-<xsl:template match="ead:daodesc"/>
+<xsl:template match="ead:daodesc">
+    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:descriptiveNote>
+</xsl:template>
 
 <xsl:template match="ead:daogrp">
     <xsl:apply-templates select="ead:daoloc"/>
@@ -21,6 +27,7 @@
 <xsl:template match="ead:dao | ead:daoloc">
     <rico:hasInstantiation>
         <rico:Instantiation>
+            <xsl:apply-templates select="ead:daodesc | ../ead:daodesc"/>
             <premis:storedAt>
                 <xsl:attribute name="rdf:resource">
                     <xsl:choose>

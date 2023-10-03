@@ -58,7 +58,7 @@
 <xsl:template match="ead:materialspec"/>
 
 <xsl:template match="ead:did/ead:note">
-    <rico:descriptiveNote>
+    <rico:descriptiveNote rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
