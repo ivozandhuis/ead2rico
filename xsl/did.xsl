@@ -102,7 +102,7 @@
 </xsl:template>
 
 <xsl:template match="ead:unitdate">
-    <rico:isAssociatedWithDate>
+    <rico:hasCreationDate>
         <rico:Date>
             <xsl:if test="text()">
                 <rico:expressedDate>
@@ -115,7 +115,7 @@
                 </rico:normalizedDateValue>
             </xsl:if>
         </rico:Date>
-    </rico:isAssociatedWithDate>
+    </rico:hasCreationDate>
 </xsl:template>
 
 <xsl:template match="ead:unitid[string(.)]">

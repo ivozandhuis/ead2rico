@@ -10,6 +10,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1937" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -18,8 +20,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1937" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1937" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-10> a rico:RecordSet ;
@@ -28,6 +28,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1945" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -36,8 +38,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1945, september - december" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1945" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:scopeAndContent """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -51,6 +51,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1946/1949" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -59,8 +61,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1946-1949" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1946/1949" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-12> a rico:RecordSet ;
@@ -69,6 +69,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1950/1959" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -77,8 +79,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1950-1959" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1950/1959" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-13> a rico:RecordSet ;
@@ -87,6 +87,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1959/1991" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -95,8 +97,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1959-1991" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1959/1991" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-14> a rico:RecordSet ;
@@ -105,6 +105,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1989/2004" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -113,8 +115,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1989-2004" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1989/2004" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-2> a rico:RecordSet ;
@@ -123,6 +123,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1938" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -131,8 +133,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1938" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1938" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-3> a rico:RecordSet ;
@@ -141,6 +141,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1939" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -149,8 +151,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1939" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1939" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-4> a rico:RecordSet ;
@@ -159,6 +159,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1940" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -167,8 +169,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1940" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1940" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-5> a rico:RecordSet ;
@@ -177,6 +177,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1941" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -185,8 +187,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1941" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1941" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-6> a rico:RecordSet ;
@@ -195,6 +195,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1942" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -203,8 +205,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1942" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1942" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-7> a rico:RecordSet ;
@@ -213,6 +213,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1943" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -221,8 +223,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1943" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1943" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-8> a rico:RecordSet ;
@@ -231,6 +231,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1944" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -239,8 +241,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1944" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1944" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:scopeAndContent """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -254,6 +254,8 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:normalizedDateValue "1945" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -262,8 +264,6 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1945, januari - augustus" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:normalizedDateValue "1945" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:scopeAndContent """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -326,6 +326,9 @@
             <html:p>Archief van S.W.A. van Voerst van Lynden</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1937-2004" ;
+            rico:normalizedDateValue "1937/2004" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "0.4 meter (14 nummers)" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -358,9 +361,6 @@
             <html:p>Het archief is eigendom van het NIOD.</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:expressedDate "1937-2004" ;
-            rico:normalizedDateValue "1937/2004" ] ;
     rico:scopeAndContent """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
             <html:head>aard van de archiefbestanddelen</html:head>
@@ -374,13 +374,13 @@
             <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</html:p>
          </html:div>
       """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1937-2004." ;
+            rico:normalizedDateValue "1937/2004" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
             rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#04> ;
             rico:textualValue "1-14" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Correspondentie" ] ;
-    rico:isAssociatedWithDate [ a rico:Date ;
-            rico:expressedDate "1937-2004." ;
-            rico:normalizedDateValue "1937/2004" ] ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .
 

@@ -18,12 +18,12 @@
             <rico:textualValue>0.4 meter (14 nummers)</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:expressedDate>1937-2004</rico:expressedDate>
             <rico:normalizedDateValue>1937/2004</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>Van Voerst van Lynden, S.W.A.</rico:textualValue>
@@ -125,12 +125,12 @@
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#04"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:expressedDate>1937-2004.</rico:expressedDate>
             <rico:normalizedDateValue>1937/2004</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>Correspondentie</rico:textualValue>
@@ -156,11 +156,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1937</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1937</rico:textualValue>
@@ -186,11 +186,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1938</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1938</rico:textualValue>
@@ -216,11 +216,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1939</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1939</rico:textualValue>
@@ -246,11 +246,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1940</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1940</rico:textualValue>
@@ -276,11 +276,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1941</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1941</rico:textualValue>
@@ -306,11 +306,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1942</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1942</rico:textualValue>
@@ -336,11 +336,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1943</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1943</rico:textualValue>
@@ -366,11 +366,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1944</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1944</rico:textualValue>
@@ -401,11 +401,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1945</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1945, januari - augustus</rico:textualValue>
@@ -436,11 +436,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1945</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1945, september - december</rico:textualValue>
@@ -471,11 +471,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1946/1949</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1946-1949</rico:textualValue>
@@ -501,11 +501,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1950/1959</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1950-1959</rico:textualValue>
@@ -531,11 +531,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1959/1991</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1959-1991</rico:textualValue>
@@ -561,11 +561,11 @@
             <rico:textualValue>1 omslag</rico:textualValue>
          </rico:Extent>
       </rico:hasExtent>
-      <rico:isAssociatedWithDate>
+      <rico:hasCreationDate>
          <rico:Date>
             <rico:normalizedDateValue>1989/2004</rico:normalizedDateValue>
          </rico:Date>
-      </rico:isAssociatedWithDate>
+      </rico:hasCreationDate>
       <rico:hasOrHadTitle>
          <rico:Title>
             <rico:textualValue>1989-2004</rico:textualValue>
