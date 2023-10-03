@@ -13,6 +13,7 @@
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#02"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
+      <rico:scopeAndContent>Publicaties van de Uitgeverij Pegasus voornamelijk over marxisme en communisme</rico:scopeAndContent>
       <rico:hasOrHadSomeMembersWithLanguage>
          <rico:Language rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut"/>
       </rico:hasOrHadSomeMembersWithLanguage>

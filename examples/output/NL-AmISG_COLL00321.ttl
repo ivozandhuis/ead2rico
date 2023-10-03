@@ -8584,27 +8584,27 @@
     rico:hasOrHadSomeMembersWithLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Fonds Marxisme Uitgeverij Pegasus" ] ;
-    rico:hasOrHasSubject [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Culture, media and arts" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Communist movements and parties" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Books" ] ],
-        [ a rico:CorporateBody ;
+    rico:hasOrHasSubject [ a rico:CorporateBody ;
             rico:hasOrHadAgentName [ a rico:AgentName ;
                     rico:textualValue "CPN" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Communist movements and parties" ] ],
         [ a rico:Place ;
             rico:hasOrHadPlaceName [ a rico:PlaceName ;
                     rico:textualValue "USSR (former)" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Culture, media and arts" ] ],
         [ a rico:Place ;
             rico:hasOrHadPlaceName [ a rico:PlaceName ;
                     rico:textualValue "Netherlands" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Books" ] ],
         <http://viaf.org/viaf/101787139>,
         <http://viaf.org/viaf/49228757>,
         <http://viaf.org/viaf/68928644>,
@@ -8628,7 +8628,8 @@
             <html:p>Publicaties van de Uitgeverij Pegasus voornamelijk over marxisme en communisme.</html:p>
             <html:p>De oorspronkelijke lijsten van Pegasus zijn ook toegevoegd aan de collectie.</html:p>
          </html:div>
-      """^^rdf:XMLLiteral .
+      """^^rdf:XMLLiteral,
+        "Publicaties van de Uitgeverij Pegasus voornamelijk over marxisme en communisme" .
 
 <https://hdl.handle.net/10622/COLL00321#3> a rico:RecordSet ;
     rico:hasOrHadTitle [ a rico:Title ;

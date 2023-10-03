@@ -74,7 +74,7 @@
             <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
         </xsl:when>
         <xsl:otherwise>
-            <xsl:value-of select="'mijn-archiefnummer'"/>
+            <xsl:value-of select="'fondsnummer'"/>
         </xsl:otherwise>
     </xsl:choose>
 </xsl:param>

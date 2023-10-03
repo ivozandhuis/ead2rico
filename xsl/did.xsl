@@ -34,7 +34,12 @@
     <xsl:apply-templates select="ead:unittitle"/>
 </xsl:template>
 
-<xsl:template match="ead:abstract"/>
+<xsl:template match="ead:abstract">
+    <rico:scopeAndContent>
+        <xsl:value-of select="normalize-space(.)"/>
+    </rico:scopeAndContent>
+</xsl:template>
+
 <xsl:template match="ead:container"/>
 <xsl:template match="ead:dimension"/> <!-- part of physdesc-->
 <xsl:template match="ead:extent"/> <!-- part of physdesc-->
@@ -51,11 +56,18 @@
 </xsl:template>
 
 <xsl:template match="ead:materialspec"/>
-<xsl:template match="ead:did/ead:note"/>
+
+<xsl:template match="ead:did/ead:note">
+    <rico:descriptiveNote>
+        <html:div>
+            <xsl:apply-templates mode="text"/>
+        </html:div>
+    </rico:descriptiveNote>
+</xsl:template>
 
 <xsl:template match="ead:origination[text()]">
     <rico:hasProvenance>
-        <xsl:value-of select="."/>
+        <xsl:value-of select="normalize-space(.)"/>
     </rico:hasProvenance>
 </xsl:template>
 
@@ -66,7 +78,18 @@
 </xsl:template>
 
 <xsl:template match="ead:physfacet"/> <!-- part of physdesc-->
-<xsl:template match="ead:physloc"/>
+
+<xsl:template match="ead:physloc">
+    <rico:hasOrHadLocation>
+        <rico:Place>
+            <rico:hasOrHadPlaceName>
+                <rico:textualValue>
+                    <xsl:value-of select="normalize-space(.)"/>
+                </rico:textualValue>
+            </rico:hasOrHadPlaceName>
+        </rico:Place>
+    </rico:hasOrHadLocation>
+</xsl:template>
 
 <xsl:template match="ead:repository">
     <rico:hasOrHadHolder>
