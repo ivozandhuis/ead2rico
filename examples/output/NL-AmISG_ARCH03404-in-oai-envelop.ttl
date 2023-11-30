@@ -1,0 +1,421 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
+
+<http://example.com/fondsnummer#1> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1982-1985." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 1 Map 1" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Correspondentie." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#10> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 3 Map 1" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Knipsels 1981. /'82." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#11> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 3 Map 2" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Moedervellen stencils." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#12> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 3 Map 3" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Diversen 1972-1978. (van Selma Coppers)." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#13> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1982-1986." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 3 Map 4" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Notulen c.a." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#14> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1982." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 3 Map 5" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Subsidie." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#15> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1982-1984." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 3 Map 6" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Diversen." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#16> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1982." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 doos" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 4 Map 1" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "los in de doos: Kasboek 1982-1984. 2x Logboek 1982-1984. Agenda 1982. , 1984-1986. Barboek 1977. (?) Adresboek Receptieboek Benefietfeest Kladschrift Nieuwsschrift Vrouwenstaking." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#17> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 doos" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 5 Map 1" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Lesbische Boekhandels en Nederlandse Archieven Discussieflappen (&gt; 1981. ) Boeken: - Sprekend (teksten Lezingencyclus \"Vrouwen en letteren\" 1979. /'80) - De tweede golf 1973. ) - Beeld evenbeeld zelfbeeld (na 1976. ) - Peter Jaspers: De Enkeling 1985. )." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#18> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1981." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 6 Map 1" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Vrouwenstaking." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#19> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 6 Map 2" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Bibliotheek." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#2> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 1 Map 2" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Subsidie Gemeente Utrecht." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#20> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 6 Map 3" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Diversen." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#21> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 6 Map 4" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Vrouwenhuizen." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#22> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 7 Map 1" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Diversen." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#23> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 7 Map 2" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Lezingen e.d." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#24> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 7 Map 3" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Bestuursstukken." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#25> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 7 Map 4" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "foto's." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#26> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 8 Map 1" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Literatuur e.d." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#27> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 8 Map 2" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Nieuwsbrief." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#28> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 8 Map 3" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Post." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#29> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 8 Map 4" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Diversen." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#3> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1982-1985." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 1 Map 3" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Statuten en financiele correspondentie." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#30> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 8 Map 5" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "HOMOSOL 1985/19. 86 (lerarenopleiding)." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#4> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1984." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 1 Map 4" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Subsidie provincie Utrecht 1985-1986. Kasboek 1982. Tentoonstellingscatalogus Betje Wolff en Aagje Deken." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#5> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1983." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 2 Map 1" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Correspondentie." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#6> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 2 Map 2" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Subsidie landelijk." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#7> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1983." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 2 Map 3" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Kantoor en publiciteit." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#8> a rico:RecordSet ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 2 Map 4" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Lola (landelijk overleg)." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://example.com/fondsnummer#9> a rico:RecordSet ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1983." ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 2 Map 5" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Fondsen Logboek 1982. id. 1984-1986. Agenda." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <http://example.com/fondsnummer> .
+
+<http://id.loc.gov/vocabulary/iso639-2/dut> a rico:Language .
+
+<http://example.com/fondsnummer> a rico:RecordSet ;
+    rico:conditionsOfAccess """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Raadpleging</html:head>
+            <html:p>Beperkt</html:p>
+            <html:p>Voor raadpleging is toestemming nodig van het IHLIA</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral ;
+    rico:descriptiveNote """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Aanbevolen citeerwijze</html:head>
+            <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute
+                of Social History, Amsterdam</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Biografie</html:head>
+            <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de
+                geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het
+                archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben
+                gefungeerd.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral ;
+    rico:hasCreationDate [ a rico:Date ;
+            rico:expressedDate "1982-1985" ;
+            rico:normalizedDateValue "1982/1985" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "0.72 Meters" ] ;
+    rico:hasOrHadHolder "IISG (Collectie IHLIA)" ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#02> ;
+            rico:textualValue """
+                ARCH03404""" ] ;
+    rico:hasOrHadSomeMembersWithLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Archief Lesbisch Archief Utrecht" ] ;
+    rico:hasOrHasSubject [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sexualities/LGBT movements" ] ],
+        [ a rico:Place ;
+            rico:hasOrHadPlaceName [ a rico:PlaceName ;
+                    rico:textualValue "Netherlands" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Feminist movements/Women's movements" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Archival material" ] ] ;
+    rico:hasProvenance [ a rico:CorporateBody ;
+            rico:hasOrHadAgentName [ a rico:AgentName ;
+                    rico:textualValue "Lesbisch Archief Utrecht" ] ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
+    rico:recordResourceStructure """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Ordening</html:head>
+            <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in
+                het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in
+                Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA
+                vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA
+                (Thema Archieven).</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral .
+
