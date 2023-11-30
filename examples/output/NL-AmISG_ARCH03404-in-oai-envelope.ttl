@@ -392,18 +392,18 @@
     rico:hasOrHadSomeMembersWithLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Archief Lesbisch Archief Utrecht" ] ;
-    rico:hasOrHasSubject [ a rico:Place ;
-            rico:hasOrHadPlaceName [ a rico:PlaceName ;
-                    rico:textualValue "Netherlands" ] ],
-        [ a rico:Thing ;
+    rico:hasOrHasSubject [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Sexualities/LGBT movements" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Archival material" ] ],
+                    rico:textualValue "Feminist movements/Women's movements" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Feminist movements/Women's movements" ] ] ;
+                    rico:textualValue "Archival material" ] ],
+        [ a rico:Place ;
+            rico:hasOrHadPlaceName [ a rico:PlaceName ;
+                    rico:textualValue "Netherlands" ] ] ;
     rico:hasProvenance [ a rico:CorporateBody ;
             rico:hasOrHadAgentName [ a rico:AgentName ;
                     rico:textualValue "Lesbisch Archief Utrecht" ] ] ;
