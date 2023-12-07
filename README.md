@@ -8,9 +8,16 @@ with the
 * XML Stylesheet Language Transformation (XSLT) 1.0.
 
 ## Usage
-Use the stylesheet ead2rico.xslt, which imports all relevant sub-stylesheets.
+* Use the stylesheet ead2rico.xsl, which imports all relevant sub-stylesheets.
+* Use the stylesheet process-ead-in-oai-envelope.xsl if you extract your data with OAI-PMH, and want to process the raw OAI-response.
 
-The stylesheet should be usable with any XSLT 1.0 engine, but is tested with the Python port of SAXON-C Home Edition in ```run_examples.py```. To use this script pip-install: pathlib, saxonche and rdflib.
+The stylesheets are intended to work with any XSLT 1.0 engine. 
+1. Saxon
+    1. Python with [saxonche](https://pypi.org/project/saxonche/): tested (run_examples_saxonche.py) and working
+    2. JavaScript with [saxon-js](https://www.npmjs.com/package/xslt3): tested (run_examples_xslt3.sh) and working
+2. libxml2
+    1. Python with [lxml](https://lxml.de/): tested (run_examples_lxml.py) and NOT working
+    2. [xsltproc](http://xmlsoft.org/xslt/xsltproc.html): tested (run_examples_xsltproc.sh) and NOT working
 
 ## Prerequisites
 * The EAD-XML file must refer to the namespace of EAD.
@@ -24,10 +31,13 @@ The file mapping.md gives an overview of all EAD-elements and in which imported 
 ## Status
 Not all elements are implemented yet, especially the difficult but important mixed-content elements (inline, names) need attention.
 
+Order of RecordResources needs to be added.
+
 ## Acknowledgement
 Part of this work was commissioned and paid for by:
 * Amsterdam City Archives 
 * International Institute of Social History (Amsterdam)
 
-
-
+Ideas and corrections are made in interaction with:
+* Triply (Amsterdam)
+* Rijksmuseum (Amsterdam)
