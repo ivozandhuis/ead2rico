@@ -16,8 +16,8 @@ The stylesheets are intended to work with any XSLT 1.0 engine.
     1. Python with [saxonche](https://pypi.org/project/saxonche/): tested (run_examples_saxonche.py) and working
     2. JavaScript with [saxon-js](https://www.npmjs.com/package/xslt3): tested (run_examples_xslt3.sh) and working
 2. libxml2
-    1. Python with [lxml](https://lxml.de/): tested (run_examples_lxml.py) and NOT working
-    2. [xsltproc](http://xmlsoft.org/xslt/xsltproc.html): tested (run_examples_xsltproc.sh) and NOT working
+    1. Python with [lxml](https://lxml.de/): tested (run_examples_lxml.py) and working
+    2. [xsltproc](http://xmlsoft.org/xslt/xsltproc.html): tested (run_examples_xsltproc.sh) and working
 
 ## Prerequisites
 * The EAD-XML file must refer to the namespace of EAD.
