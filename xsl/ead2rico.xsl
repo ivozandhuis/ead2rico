@@ -29,22 +29,22 @@
 
 <xsl:param name="baseUri">
     <xsl:choose>
-        <xsl:when test="/ead:ead/ead:eadheader/ead:eadid[@mainagencycode = 'NL-GdSAMH']">
+        <xsl:when test="//ead:eadheader/ead:eadid[@mainagencycode = 'NL-GdSAMH']">
             <xsl:text>https://samh.nl/bronnen/archives/details/</xsl:text>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HlmNHA']">
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HlmNHA']">
             <xsl:text/>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AmISG']">
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AmISG']">
             <xsl:text>https://hdl.handle.net/10622/</xsl:text>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AsdNIOD']">
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AsdNIOD']">
             <xsl:text>https://www.archieven.nl/mi/298/?mivast=298&amp;micode=</xsl:text>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'FR_ANF']">
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'FR_ANF']">
             <xsl:text>http://data.archives-nationales.culture.gouv.fr/</xsl:text>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HaNA']">
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HaNA']">
             <xsl:text>https://www.nationaalarchief.nl/onderzoeken/archief/</xsl:text>
         </xsl:when>
         <xsl:otherwise>
@@ -55,23 +55,23 @@
 
 <xsl:param name="archId">
     <xsl:choose>
-        <xsl:when test="/ead:ead/ead:eadheader/ead:eadid[@mainagencycode = 'NL-GdSAMH']">
-            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        <xsl:when test="//ead:eadheader/ead:eadid[@mainagencycode = 'NL-GdSAMH']">
+            <xsl:value-of select="//ead:archdesc/ead:did/ead:unitid"/>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HlmNHA']">
-            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid[@type = 'handle']"/>
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HlmNHA']">
+            <xsl:value-of select="//ead:archdesc/ead:did/ead:unitid[@type = 'handle']"/>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AmISG']">
-            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AmISG']">
+            <xsl:value-of select="//ead:archdesc/ead:did/ead:unitid"/>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AsdNIOD']">
-            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-AsdNIOD']">
+            <xsl:value-of select="//ead:archdesc/ead:did/ead:unitid"/>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'FR_ANF']">
-            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'FR_ANF']">
+            <xsl:value-of select="//ead:archdesc/ead:did/ead:unitid"/>
         </xsl:when>
-        <xsl:when test="/ead:ead/ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HaNA']">
-            <xsl:value-of select="/ead:ead/ead:archdesc/ead:did/ead:unitid"/>
+        <xsl:when test="//ead:archdesc/ead:did/ead:unitid[@repositorycode = 'NL-HaNA']">
+            <xsl:value-of select="//ead:archdesc/ead:did/ead:unitid"/>
         </xsl:when>
         <xsl:otherwise>
             <xsl:value-of select="'fondsnummer'"/>

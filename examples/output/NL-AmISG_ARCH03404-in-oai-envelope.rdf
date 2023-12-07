@@ -5,12 +5,11 @@
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
           xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
           xmlns:xlink="http://www.w3.org/1999/xlink">
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer">
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404">
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
-            <rico:textualValue>
-                ARCH03404</rico:textualValue>
+            <rico:textualValue>ARCH03404</rico:textualValue>
             <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#02"/>
          </rico:Identifier>
       </rico:hasOrHadIdentifier>
@@ -53,20 +52,13 @@
       <rico:recordResourceStructure rdf:parseType="XMLLiteral">
          <html:div>
             <html:head>Ordening</html:head>
-            <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in
-                het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in
-                Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA
-                vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA
-                (Thema Archieven).</html:p>
+            <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).</html:p>
          </html:div>
       </rico:recordResourceStructure>
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
          <html:div>
             <html:head>Biografie</html:head>
-            <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de
-                geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het
-                archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben
-                gefungeerd.</html:p>
+            <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
          </html:div>
       </rico:descriptiveNote>
       <rico:hasOrHasSubject>
@@ -108,13 +100,12 @@
       <rico:descriptiveNote rdf:parseType="XMLLiteral">
          <html:div>
             <html:head>Aanbevolen citeerwijze</html:head>
-            <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute
-                of Social History, Amsterdam</html:p>
+            <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute of Social History, Amsterdam</html:p>
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#1">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#1">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -138,8 +129,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#2">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#2">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -158,8 +149,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#3">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#3">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -183,8 +174,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#4">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#4">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -208,8 +199,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#5">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#5">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -233,8 +224,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#6">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#6">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -253,8 +244,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#7">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#7">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -278,8 +269,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#8">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#8">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -298,8 +289,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#9">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#9">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -323,8 +314,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#10">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#10">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -343,8 +334,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#11">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#11">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -363,8 +354,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#12">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#12">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -383,8 +374,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#13">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#13">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -408,8 +399,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#14">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#14">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -433,8 +424,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#15">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#15">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -458,8 +449,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#16">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#16">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -483,8 +474,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#17">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#17">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -503,8 +494,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#18">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#18">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -528,8 +519,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#19">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#19">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -548,8 +539,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#20">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#20">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -568,8 +559,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#21">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#21">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -588,8 +579,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#22">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#22">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -608,8 +599,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#23">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#23">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -628,8 +619,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#24">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#24">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -648,8 +639,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#25">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#25">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -668,8 +659,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#26">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#26">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -688,8 +679,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#27">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#27">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -708,8 +699,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#28">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#28">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -728,8 +719,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#29">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#29">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
@@ -748,8 +739,8 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
-   <rico:RecordSet rdf:about="http://example.com/fondsnummer#30">
-      <rico:isOrWasIncludedIn rdf:resource="http://example.com/fondsnummer"/>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#30">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
       <rico:hasOrHadIdentifier>
          <rico:Identifier>
