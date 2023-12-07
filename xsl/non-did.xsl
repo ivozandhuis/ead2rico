@@ -24,8 +24,13 @@
             <xsl:apply-templates mode="text"/>
         </html:div>
     </rico:conditionsOfAccess>
-    <xsl:apply-templates select=".//ead:p/(ead:corpname | ead:famname | ead:genreform | ead:geogname | 
-                        ead:name | ead:persname | ead:subject)"/>
+    <xsl:apply-templates select=".//ead:p/ead:corpname"/>
+    <xsl:apply-templates select=".//ead:p/ead:famname"/>
+    <xsl:apply-templates select=".//ead:p/ead:genreform"/>
+    <xsl:apply-templates select=".//ead:p/ead:geogname"/>
+    <xsl:apply-templates select=".//ead:p/ead:name"/>
+    <xsl:apply-templates select=".//ead:p/ead:persname"/>
+    <xsl:apply-templates select=".//ead:p/ead:subject"/>
 </xsl:template>
 
 <xsl:template match="ead:accruals"/>
@@ -40,8 +45,13 @@
             <xsl:apply-templates mode="text"/>
         </html:div>
     </rico:history>
-    <xsl:apply-templates select=".//ead:p/(ead:corpname | ead:famname | ead:genreform | ead:geogname | 
-                        ead:name | ead:persname | ead:subject)"/>
+    <xsl:apply-templates select=".//ead:p/ead:corpname"/>
+    <xsl:apply-templates select=".//ead:p/ead:famname"/>
+    <xsl:apply-templates select=".//ead:p/ead:genreform"/>
+    <xsl:apply-templates select=".//ead:p/ead:geogname"/>
+    <xsl:apply-templates select=".//ead:p/ead:name"/>
+    <xsl:apply-templates select=".//ead:p/ead:persname"/>
+    <xsl:apply-templates select=".//ead:p/ead:subject"/>
 </xsl:template>
 
 <xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
@@ -141,8 +151,13 @@
             <xsl:apply-templates mode="text"/>
         </html:div>
     </rico:descriptiveNote>
-    <xsl:apply-templates select=".//ead:p/(ead:corpname | ead:famname | ead:genreform | ead:geogname | 
-                        ead:name | ead:persname | ead:subject)"/>
+    <xsl:apply-templates select=".//ead:p/ead:corpname"/>
+    <xsl:apply-templates select=".//ead:p/ead:famname"/>
+    <xsl:apply-templates select=".//ead:p/ead:genreform"/>
+    <xsl:apply-templates select=".//ead:p/ead:geogname"/>
+    <xsl:apply-templates select=".//ead:p/ead:name"/>
+    <xsl:apply-templates select=".//ead:p/ead:persname"/>
+    <xsl:apply-templates select=".//ead:p/ead:subject"/>
 </xsl:template>
 
 <xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 
@@ -217,8 +232,13 @@
             <xsl:apply-templates mode="text"/>
         </html:div>
     </rico:scopeAndContent>
-    <xsl:apply-templates select=".//ead:p/(ead:corpname | ead:famname | ead:genreform | ead:geogname | 
-                        ead:name | ead:persname | ead:subject)"/>
+    <xsl:apply-templates select=".//ead:p/ead:corpname"/>
+    <xsl:apply-templates select=".//ead:p/ead:famname"/>
+    <xsl:apply-templates select=".//ead:p/ead:genreform"/>
+    <xsl:apply-templates select=".//ead:p/ead:geogname"/>
+    <xsl:apply-templates select=".//ead:p/ead:name"/>
+    <xsl:apply-templates select=".//ead:p/ead:persname"/>
+    <xsl:apply-templates select=".//ead:p/ead:subject"/>
 </xsl:template>
 
 <xsl:template match="(ead:archdesc | ead:descgrp | ead:c | 

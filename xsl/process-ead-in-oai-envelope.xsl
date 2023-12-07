@@ -9,7 +9,7 @@
   <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
   <xsl:strip-space elements="*"/>
 
-  <xsl:template match="/oai:OAI-PMH">
+  <xsl:template match="/">
     <xsl:apply-templates select="//oai:metadata"/>
   </xsl:template>
 

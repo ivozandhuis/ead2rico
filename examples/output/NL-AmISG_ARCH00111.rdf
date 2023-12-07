@@ -207,24 +207,6 @@
          </html:div>
       </rico:descriptiveNote>
       <rico:hasOrHasSubject>
-         <rico:Person>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Otto Bauer</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:Person>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Julius Deutsch</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:CorporateBody>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -243,15 +225,6 @@
          </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:Person>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Friedrich Adler</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:CorporateBody>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -259,24 +232,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:Person>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Harold Laski</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:Person>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Louis de Brouckère</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:CorporateBody>
@@ -313,6 +268,51 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:Person>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Otto Bauer</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:Person>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:Person>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Julius Deutsch</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:Person>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:Person>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Friedrich Adler</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:Person>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:Person>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Harold Laski</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:Person>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:Person>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Louis de Brouckère</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -1072,6 +1072,1311 @@
          </html:div>
       </rico:descriptiveNote>
       <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>American Committee for Cultural Freedom</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Arani Verlags GmbH</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Arbeit und Wirtschaft</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Arbeiter Zeitung</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Asian Socialist Conference</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Backer Verlag</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Barrie Group of Publishers</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>B.B.C.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Beatrice Webb Trustees</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Bibliographia Judaica</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>British Museum</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Buckhurst Hill Labour Party</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Bund Archives of the Jewish Labor Movement</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Bund Verlag GmbH</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Cambridge University Press</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Fondation del'Internationale Socialiste</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Centre for Contemporary Socialist Thought</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Centre for Labour and Social Studies</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Children and Youth Aliyah Committee for Great Britain</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Combate</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>COMISCO</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Communist Party of India</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Cosmo Enterprises</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Daily Herald</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Davar</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Deutsche Akademie für Sprache und Dichtung</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Dokumentationsarchiv des Oesterreichischen Widerstandes</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Editions du Seuil</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Etudes et Documentation Internationales</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Europa Verlags-AG</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Europäische Perspektiven</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Europe Left</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Fabian Society</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Fackelträger Verlag</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Foreign Affairs</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Forum</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Friedrich Ebert Stiftung</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Geist und Tat</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Haikar Haoved</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Haluan</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Hannoversche Druck- und Verlags GmbH</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Hannoversche Presse</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Hitachdut</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Hoover Institution</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Indian Committee for Cultural Freedom</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Indian Council of World Affairs</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Institut für Sozialgeschichte Braunschweig</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Institute of International Labor Research Inc.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Institut Hjalmar Branting</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>I.I.S.G.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>International Confederation of Free Trade Unions</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>International Federation of Textile Workers' Association</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>International Jewish Labor Bund</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>International Society for Socialist Studies</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>International Trade Secretariats</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>International Transport Workers' Federation</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>International Union of Socialist Youth</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Internationale Graphische Föderation</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Internationaler Metallarbeiter Bund</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Israel Labour Party</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Janata</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Jewish Agency for Israel</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Jewish National Fund</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Jewish Vanguard</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>John Clark Memorial Fund</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Joint Palestine Appeal</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Kleine Blatt</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Kommunistische Partei Oesterreichs</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Konzentration GmbH</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Labor Committee to Release Imprisoned Trade Unionists and Democratic Socialists</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Labor Zionist Organization of America "Poale Zion"</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Labour Party of England</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>League for Industrial Democracy</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Leo Baeck Institute</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>MacMillan and Co. Ltd.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Mapai</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Miners' International Federation</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Movement for Colonial Freedom</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Narmadeshawar Prasad</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>National Campaign for the Abolition of Capital Punishment</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>National Committee for Labor Israel</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>National Council of Labour Colleges</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>National Planning Association</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>National Union of Mineworkers</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>National Union of Tailors and Garment Workers</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Nest Verlag GmbH</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>New Leader</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>News of the World Ltd.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>New Socialist</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Norske Arbeiderparti</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Nuffield College</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Nuova Italia Editrice</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Oficina Internacional del Trabajo</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Otto Wels-Gesellschaft</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Pacheco</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Partai Kommunist Indonesia</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Partai Nasional Indonesia</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Parti Socialiste S.F.I.O.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Partha-Sarathi Gupta</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Partito Socialista Democratico Italiano</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Pedoman Perdjuangan Masjumi</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Plebs</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Poale Zion</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Postal Telegraph and Telephone International</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Praja Socialist Party</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Reconstructionist</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>School of Slavonic and East European Studies</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Social Democratic Federation of the U.S.A.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Social Democratic Party of Japan</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Socialist Affairs</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Socialist Courier</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Socialist International (S.I.)</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Socialist Party of Japan</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Socialist Party - Social Democratic Federation of New York City</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Socialist Union of Central Eastern Europe</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Sozialdemokratische Partei Deutschlands</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Sozialdemokratische Partei der Schweiz</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Sozialgerichtsbarkeit</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Sozialistische Partei Oesterreichs</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Sozialistische Jugend Deutschlands</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Sozialistischer Club Griechenland</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>S.P.Ö. Frauen Zentral Komitee</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Statesman</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Sudeten Social Democratic Association</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Sveriges Socialdemokratiska Arbetareparti</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Telegraf</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Thankin Chit Maung</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Thank You Britain" Fund</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Thomas Nelson and Sons Ltd.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Thomson Publications Ltd.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Tiden</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Times</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Trades Union Congress</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Tribune</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>U.N.E.S.C.O.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Verein für Geschichte der Arbeiterbewegung</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Vereinigung Deutscher Sozialdemokraten in Grossbritannien</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Verlag Chmielorz GmbH</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Verlag der Wiener Volksbuchhandlung</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Verlag J.H.W. Dietz GmbH</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Verlag Jungbrunnen</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Victor Gollancz Ltd.</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Weltweite Partnerschaft</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>World Campaign for the Release of South African Political Prisoners</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>World Federation of Trade Unions</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -1189,15 +2494,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>American Committee for Cultural Freedom</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -1232,42 +2528,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Arani Verlags GmbH</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Arbeit und Wirtschaft</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Arbeiter Zeitung</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Asian Socialist Conference</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -1322,15 +2582,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Backer Verlag</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -1396,15 +2647,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Barrie Group of Publishers</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -1459,15 +2701,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>B.B.C.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -1475,15 +2708,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Beatrice Webb Trustees</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -1538,15 +2762,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Bibliographia Judaica</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -1792,15 +3007,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>British Museum</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -1835,33 +3041,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Buckhurst Hill Labour Party</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Bund Archives of the Jewish Labor Movement</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Bund Verlag GmbH</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -1900,15 +3079,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Cambridge University Press</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -1934,42 +3104,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Fondation del'Internationale Socialiste</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Centre for Contemporary Socialist Thought</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Centre for Labour and Social Studies</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Children and Youth Aliyah Committee for Great Britain</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -2044,33 +3178,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Combate</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>COMISCO</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Communist Party of India</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -2080,15 +3187,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Cosmo Enterprises</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -2096,15 +3194,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Daily Herald</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -2143,15 +3232,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Davar</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -2188,15 +3268,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Deutsche Akademie für Sprache und Dichtung</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -2213,15 +3284,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Dokumentationsarchiv des Oesterreichischen Widerstandes</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -2267,15 +3329,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Editions du Seuil</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -2386,42 +3439,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Etudes et Documentation Internationales</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Europa Verlags-AG</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Europäische Perspektiven</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Europe Left</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -2429,24 +3446,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Fabian Society</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Fackelträger Verlag</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -2503,24 +3502,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Foreign Affairs</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Forum</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -2566,15 +3547,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Friedrich Ebert Stiftung</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -2600,15 +3572,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Geist und Tat</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -2809,15 +3772,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Haikar Haoved</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -2845,15 +3799,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Haluan</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -2861,24 +3806,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Hannoversche Druck- und Verlags GmbH</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Hannoversche Presse</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -3097,15 +4024,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Hitachdut</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -3158,15 +4076,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Hoover Institution</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -3241,24 +4150,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Indian Committee for Cultural Freedom</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Indian Council of World Affairs</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -3268,132 +4159,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Institut für Sozialgeschichte Braunschweig</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Institute of International Labor Research Inc.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Institut Hjalmar Branting</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>I.I.S.G.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>International Confederation of Free Trade Unions</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>International Federation of Textile Workers' Association</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>International Jewish Labor Bund</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>International Society for Socialist Studies</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>International Trade Secretariats</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>International Transport Workers' Federation</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>International Union of Socialist Youth</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Internationale Graphische Föderation</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Internationaler Metallarbeiter Bund</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Israel Labour Party</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -3401,15 +4166,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Janata</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -3457,33 +4213,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Jewish Agency for Israel</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Jewish National Fund</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Jewish Vanguard</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -3491,24 +4220,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>John Clark Memorial Fund</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Joint Palestine Appeal</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -3691,15 +4402,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Kleine Blatt</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -3761,24 +4463,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Kommunistische Partei Oesterreichs</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Konzentration GmbH</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -3898,33 +4582,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Labor Committee to Release Imprisoned Trade Unionists and Democratic Socialists</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Labor Zionist Organization of America "Poale Zion"</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Labour Party of England</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -4033,15 +4690,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>League for Industrial Democracy</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -4085,15 +4733,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Leo Baeck Institute</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -4258,15 +4897,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>MacMillan and Co. Ltd.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -4328,15 +4958,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Mapai</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -4573,15 +5194,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Miners' International Federation</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -4681,15 +5293,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Movement for Colonial Freedom</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -4733,69 +5336,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Narmadeshawar Prasad</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>National Campaign for the Abolition of Capital Punishment</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>National Committee for Labor Israel</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>National Council of Labour Colleges</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>National Planning Association</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>National Union of Mineworkers</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>National Union of Tailors and Garment Workers</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -4852,15 +5392,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Nest Verlag GmbH</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -4877,42 +5408,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>New Leader</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>News of the World Ltd.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>New Socialist</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Norske Arbeiderparti</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -4978,24 +5473,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Nuffield College</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Nuova Italia Editrice</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -5003,15 +5480,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Oficina Internacional del Trabajo</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -5041,15 +5509,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Otto Wels-Gesellschaft</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -5057,15 +5516,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Pacheco</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -5104,51 +5554,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Partai Kommunist Indonesia</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Partai Nasional Indonesia</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Parti Socialiste S.F.I.O.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Partha-Sarathi Gupta</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Partito Socialista Democratico Italiano</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -5156,15 +5561,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Pedoman Perdjuangan Masjumi</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -5230,24 +5626,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Plebs</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Poale Zion</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -5311,15 +5689,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Postal Telegraph and Telephone International</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -5327,15 +5696,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Praja Socialist Party</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -5408,15 +5768,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Reconstructionist</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -5752,15 +6103,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>School of Slavonic and East European Studies</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -5941,78 +6283,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Social Democratic Federation of the U.S.A.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Social Democratic Party of Japan</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Socialist Affairs</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Socialist Courier</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Socialist International (S.I.)</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Socialist Party of Japan</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Socialist Party - Social Democratic Federation of New York City</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Socialist Union of Central Eastern Europe</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -6038,60 +6308,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Sozialdemokratische Partei Deutschlands</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Sozialdemokratische Partei der Schweiz</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Sozialgerichtsbarkeit</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Sozialistische Partei Oesterreichs</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Sozialistische Jugend Deutschlands</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Sozialistischer Club Griechenland</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -6121,15 +6337,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>S.P.Ö. Frauen Zentral Komitee</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -6146,15 +6353,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Statesman</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -6256,15 +6454,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Sudeten Social Democratic Association</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -6310,15 +6499,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Sveriges Socialdemokratiska Arbetareparti</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -6335,33 +6515,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Telegraf</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Thankin Chit Maung</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Thank You Britain" Fund</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -6391,24 +6544,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Thomas Nelson and Sons Ltd.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Thomson Publications Ltd.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -6416,24 +6551,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Tiden</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Times</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -6463,15 +6580,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Trades Union Congress</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -6488,15 +6596,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Tribune</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -6544,15 +6643,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>U.N.E.S.C.O.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -6587,69 +6677,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Verein für Geschichte der Arbeiterbewegung</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Vereinigung Deutscher Sozialdemokraten in Grossbritannien</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Verlag Chmielorz GmbH</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Verlag der Wiener Volksbuchhandlung</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Verlag J.H.W. Dietz GmbH</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Verlag Jungbrunnen</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Victor Gollancz Ltd.</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
@@ -6841,15 +6868,6 @@
          </rico:Person>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>Weltweite Partnerschaft</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
          <rico:Person>
             <rico:hasOrHadAgentName>
                <rico:AgentName>
@@ -6947,24 +6965,6 @@
                </rico:AgentName>
             </rico:hasOrHadAgentName>
          </rico:Person>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>World Campaign for the Release of South African Political Prisoners</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
-      </rico:hasOrHasSubject>
-      <rico:hasOrHasSubject>
-         <rico:CorporateBody>
-            <rico:hasOrHadAgentName>
-               <rico:AgentName>
-                  <rico:textualValue>World Federation of Trade Unions</rico:textualValue>
-               </rico:AgentName>
-            </rico:hasOrHadAgentName>
-         </rico:CorporateBody>
       </rico:hasOrHasSubject>
       <rico:hasOrHasSubject>
          <rico:Person>
