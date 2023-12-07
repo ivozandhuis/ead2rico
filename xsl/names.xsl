@@ -14,7 +14,7 @@
 
 <!-- templates for names of agents, places, subjects -->
 
-<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:corpname">
+<xsl:template match="ead:controlaccess/ead:corpname | ead:p/ead:corpname | ead:unittitle/ead:corpname">
     <rico:hasOrHasSubject>
         <rico:CorporateBody>
             <xsl:if test="@source and @authfilenumber">
@@ -55,7 +55,7 @@
 </xsl:template>
 
 
-<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:famname">
+<xsl:template match="ead:controlaccess/ead:famname | ead:p/ead:famname | ead:unittitle/ead:famname">
     <rico:hasOrHasSubject>
         <rico:Family>
             <xsl:if test="@source and @authfilenumber">
@@ -100,7 +100,7 @@
     <xsl:value-of select="normalize-space(.)"/>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:genreform">
+<xsl:template match="ead:controlaccess/ead:genreform | ead:p/ead:genreform | ead:unittitle/ead:genreform">
     <rico:hasOrHasSubject>
         <rico:Thing>
             <xsl:if test="@source and @authfilenumber">
@@ -120,7 +120,7 @@
     </rico:hasOrHasSubject>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:geogname">
+<xsl:template match="ead:controlaccess/ead:geogname | ead:p/ead:geogname | ead:unittitle/ead:geogname">
     <rico:hasOrHasSubject>
         <rico:Place>
             <xsl:if test="@source and @authfilenumber">
@@ -140,7 +140,7 @@
     </rico:hasOrHasSubject>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:name">
+<xsl:template match="ead:controlaccess/ead:name | ead:p/ead:name | ead:unittitle/ead:name">
     <rico:hasOrHasSubject>
         <rico:Thing>
             <xsl:if test="@source and @authfilenumber">
@@ -164,7 +164,7 @@
     <xsl:value-of select="normalize-space(.)"/>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p | ead:unittitle)/ead:persname">
+<xsl:template match="ead:controlaccess/ead:persname | ead:p/ead:persname | ead:unittitle/ead:persname">
     <rico:hasOrHasSubject>
         <rico:Person>
             <xsl:if test="@source and @authfilenumber">
@@ -208,7 +208,7 @@
     <xsl:value-of select="normalize-space(.)"/>
 </xsl:template>
 
-<xsl:template match="(ead:controlaccess | ead:p)/ead:subject">
+<xsl:template match="ead:controlaccess/ead:subject | ead:p/ead:subject">
     <rico:hasOrHasSubject>
         <rico:Thing>
             <xsl:if test="@source and @authfilenumber">
