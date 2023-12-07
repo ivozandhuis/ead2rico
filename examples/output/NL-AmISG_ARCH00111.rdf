@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:html="http://www.w3.org/1999/xhtml/"
-          xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
-          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-          xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
-          xmlns:xlink="http://www.w3.org/1999/xlink">
+<rdf:RDF xmlns:html="http://www.w3.org/1999/xhtml/" xmlns:premis="http://www.loc.gov/premis/rdf/v3/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rico="https://www.ica.org/standards/RiC/ontology#" xmlns:xlink="http://www.w3.org/1999/xlink">
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH00111">
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
       <rico:hasOrHadIdentifier>
