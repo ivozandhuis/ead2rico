@@ -13,11 +13,11 @@ with the
 
 The stylesheets are intended to work with any XSLT 1.0 engine. 
 1. Saxon
-    1. Python with [saxonche](https://pypi.org/project/saxonche/): tested (run_examples_saxonche.py) and working
-    2. JavaScript with [saxon-js](https://www.npmjs.com/package/xslt3): tested (run_examples_xslt3.sh) and working
+    1. Python with [saxonche](https://pypi.org/project/saxonche/): tested with run_examples_saxonche.py
+    2. JavaScript with [saxon-js](https://www.npmjs.com/package/xslt3): tested with run_examples_xslt3.sh 
 2. libxml2
-    1. Python with [lxml](https://lxml.de/): tested (run_examples_lxml.py) and working
-    2. [xsltproc](http://xmlsoft.org/xslt/xsltproc.html): tested (run_examples_xsltproc.sh) and working
+    1. Python with [lxml](https://lxml.de/): tested with run_examples_lxml.py
+    2. [xsltproc](http://xmlsoft.org/xslt/xsltproc.html): tested with run_examples_xsltproc.sh
 
 ## Prerequisites
 * The EAD-XML file must refer to the namespace of EAD.
@@ -30,8 +30,6 @@ The file mapping.md gives an overview of all EAD-elements and in which imported 
 
 ## Status
 Not all elements are implemented yet, especially the difficult but important mixed-content elements (inline, names) need attention.
-
-Order of RecordResources needs to be added.
 
 ## Acknowledgement
 Part of this work was commissioned and paid for by:
