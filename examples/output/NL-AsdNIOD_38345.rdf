@@ -148,6 +148,10 @@
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#1">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822"/>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#1_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#1"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822"/>
       <rico:hasOrHadIdentifier>
@@ -173,6 +177,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#1_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-1">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -203,6 +212,10 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-1_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-1"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-2">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -233,6 +246,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-2_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-2"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-1_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-3">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -263,6 +281,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-3_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-3"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-2_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-4">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -293,6 +316,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-4_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-4"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-3_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-5">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -323,6 +351,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-5_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-5"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-4_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-6">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -353,6 +386,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-6_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-6"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-5_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-7">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -383,6 +421,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-7_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-7"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-6_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-8">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -418,6 +461,11 @@
          </html:div>
       </rico:scopeAndContent>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-8_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-8"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-7_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-9">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -453,6 +501,11 @@
          </html:div>
       </rico:scopeAndContent>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-9_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-9"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-8_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-10">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -488,6 +541,11 @@
          </html:div>
       </rico:scopeAndContent>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-10_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-10"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-9_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-11">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -518,6 +576,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-11_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-11"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-10_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-12">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -548,6 +611,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-12_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-12"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-11_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-13">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -578,6 +646,11 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-13_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-13"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-12_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-14">
       <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -608,4 +681,9 @@
          </html:div>
       </rico:descriptiveNote>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-14_proxy">
+      <rico:proxyFor rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-14"/>
+      <rico:proxyIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
+      <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-13_proxy"/>
+   </rico:Proxy>
 </rdf:RDF>

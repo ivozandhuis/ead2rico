@@ -129,6 +129,10 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#1_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#1"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#2">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -149,6 +153,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#2_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#2"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#1_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#3">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -174,6 +183,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#3_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#3"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#2_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#4">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -199,6 +213,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#4_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#4"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#3_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#5">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -224,6 +243,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#5_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#5"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#4_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#6">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -244,6 +268,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#6_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#6"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#5_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#7">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -269,6 +298,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#7_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#7"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#6_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#8">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -289,6 +323,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#8_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#8"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#7_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#9">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -314,6 +353,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#9_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#9"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#8_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#10">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -334,6 +378,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#10_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#10"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#9_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#11">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -354,6 +403,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#11_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#11"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#10_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#12">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -374,6 +428,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#12_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#12"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#11_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#13">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -399,6 +458,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#13_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#13"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#12_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#14">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -424,6 +488,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#14_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#14"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#13_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#15">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -449,6 +518,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#15_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#15"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#14_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#16">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -474,6 +548,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#16_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#16"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#15_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#17">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -494,6 +573,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#17_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#17"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#16_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#18">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -519,6 +603,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#18_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#18"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#17_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#19">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -539,6 +628,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#19_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#19"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#18_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#20">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -559,6 +653,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#20_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#20"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#19_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#21">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -579,6 +678,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#21_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#21"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#20_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#22">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -599,6 +703,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#22_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#22"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#21_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#23">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -619,6 +728,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#23_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#23"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#22_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#24">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -639,6 +753,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#24_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#24"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#23_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#25">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -659,6 +778,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#25_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#25"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#24_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#26">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -679,6 +803,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#26_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#26"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#25_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#27">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -699,6 +828,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#27_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#27"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#26_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#28">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -719,6 +853,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#28_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#28"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#27_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#29">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -739,6 +878,11 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#29_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#29"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#28_proxy"/>
+   </rico:Proxy>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#30">
       <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
@@ -759,4 +903,9 @@
          </rico:Title>
       </rico:hasOrHadTitle>
    </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#30_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#30"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#29_proxy"/>
+   </rico:Proxy>
 </rdf:RDF>

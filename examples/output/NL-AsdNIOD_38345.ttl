@@ -1,8 +1,22 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
 
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-14_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-13_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-14> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#1_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .
+
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#1> a rico:RecordSet ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#1_proxy> a rico:Proxy ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#1> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-1> a rico:RecordSet ;
     rico:descriptiveNote """
@@ -45,6 +59,11 @@
          </html:div>
       """^^rdf:XMLLiteral .
 
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-10_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-9_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-10> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-11> a rico:RecordSet ;
     rico:descriptiveNote """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -62,6 +81,11 @@
             rico:textualValue "1946-1949" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-11_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-10_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-11> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-12> a rico:RecordSet ;
     rico:descriptiveNote """
@@ -81,6 +105,11 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-12_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-11_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-12> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-13> a rico:RecordSet ;
     rico:descriptiveNote """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -98,6 +127,11 @@
             rico:textualValue "1959-1991" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-13_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-12_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-13> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-14> a rico:RecordSet ;
     rico:descriptiveNote """
@@ -117,6 +151,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-1_proxy> a rico:Proxy ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-1> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-2> a rico:RecordSet ;
     rico:descriptiveNote """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -134,6 +172,11 @@
             rico:textualValue "1938" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-2_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-1_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-2> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-3> a rico:RecordSet ;
     rico:descriptiveNote """
@@ -153,6 +196,11 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-3_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-2_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-3> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-4> a rico:RecordSet ;
     rico:descriptiveNote """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -170,6 +218,11 @@
             rico:textualValue "1940" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-4_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-3_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-4> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-5> a rico:RecordSet ;
     rico:descriptiveNote """
@@ -189,6 +242,11 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-5_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-4_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-5> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-6> a rico:RecordSet ;
     rico:descriptiveNote """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -207,6 +265,11 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-6_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-5_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-6> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-7> a rico:RecordSet ;
     rico:descriptiveNote """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -224,6 +287,11 @@
             rico:textualValue "1943" ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-7_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-6_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-7> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-8> a rico:RecordSet ;
     rico:descriptiveNote """
@@ -248,6 +316,11 @@
          </html:div>
       """^^rdf:XMLLiteral .
 
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-8_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-7_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-8> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-9> a rico:RecordSet ;
     rico:descriptiveNote """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -270,6 +343,11 @@
             <html:p>Bevat tevens een dagboekje van Johanna de Beaufort, waarin zij schreef op de dag van haar huwelijk en in de bevrijdingsperiode</html:p>
          </html:div>
       """^^rdf:XMLLiteral .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-9_proxy> a rico:Proxy ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-8_proxy> ;
+    rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-9> ;
+    rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822> a rico:RecordSet ;
     rico:conditionsOfAccess """
