@@ -119,7 +119,7 @@
         <xsl:apply-templates select="ead:phystech"/>
         <xsl:apply-templates select="ead:prefercite"/>
         <xsl:apply-templates select="ead:processinfo"/>
-        <xsl:apply-templates select="ead:relatedmaterial"/>
+        <xsl:apply-templates select="ead:relatedmaterial"/>            
         <xsl:apply-templates select="ead:scopecontent"/>
         <xsl:apply-templates select="ead:separatedmaterial"/>
         <xsl:apply-templates select="ead:userestrict"/>
@@ -154,7 +154,7 @@
                             <xsl:value-of select="concat(concat($archnr, '-'), position()-1)"/>
                         </xsl:otherwise>
                     </xsl:choose>
-                                <xsl:text>_proxy</xsl:text>
+                    <xsl:text>_proxy</xsl:text>
                 </xsl:attribute>
             </rico:followsOrFollowed>  
         </xsl:if>

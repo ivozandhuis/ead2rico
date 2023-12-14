@@ -12488,23 +12488,23 @@
 
 <https://hdl.handle.net/10622/COLL00321> a rico:RecordSet ;
     rico:conditionsOfAccess """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Raadpleging</html:head>
-            <html:p>Vrij</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral ;
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Raadpleging</html:head>
+        <html:p>Vrij</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
     rico:descriptiveNote """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Aanbevolen citeerwijze</html:head>
-            <html:p>Fonds Marxisme Uitgeverij Pegasus, inventory number ..., International Institute of Social History, Amsterdam</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral,
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Aanbevolen citeerwijze</html:head>
+        <html:p>Fonds Marxisme Uitgeverij Pegasus, inventory number ..., International Institute of Social History, Amsterdam</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
         """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Geschiedenis</html:head>
-            <html:p>Opgericht als de uitgeverij van de Communistische Partij van Nederland. Tegenwoordig is gespecialiseerd op het gebied van Oost- en Midden-Europese taal &amp; cultuur in Nederland.</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral ;
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Geschiedenis</html:head>
+        <html:p>Opgericht als de uitgeverij van de Communistische Partij van Nederland. Tegenwoordig is gespecialiseerd op het gebied van Oost- en Midden-Europese taal &amp; cultuur in Nederland.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
     rico:hasCreationDate [ a rico:Date ;
             rico:expressedDate "1935-1991" ;
             rico:normalizedDateValue "1935/1991" ] ;
@@ -12520,6 +12520,12 @@
     rico:hasOrHasSubject [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Communist movements and parties" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Books" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
         [ a rico:Place ;
             rico:hasOrHadPlaceName [ a rico:PlaceName ;
                     rico:textualValue "Netherlands" ] ],
@@ -12528,13 +12534,7 @@
                     rico:textualValue "USSR (former)" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Books" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Culture, media and arts" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadAgentName [ a rico:AgentName ;
                     rico:textualValue "CPN" ] ],
@@ -12546,25 +12546,25 @@
     rico:hasProvenance <http://viaf.org/viaf/310686989> ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
     rico:history """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Bewerking</html:head>
-            <html:p>Lijst gemaakt door Eric Pap in 2018.</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral ;
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Bewerking</html:head>
+        <html:p>Lijst gemaakt door Eric Pap in 2018.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
     rico:recordResourceStructure """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Ordening</html:head>
-            <html:p>De indeling is aangehouden van de oorspronkelijke inventarislijsten van Pegasus. Deze categorieën zijn: politiek, belletrie en taalkunde. Tevens een aantal in het Nederlands vertaalde kinderboeken. Hierin ook door Pegasus geïmporteerde boeken in het Nederlands, waarvan Pegasus zich mede-uitgever beschouwt.</html:p>
-            <html:p>Alfabetisch geordend op auteur of, indien geen auteur, op eerste titelwoord.</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral ;
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Ordening</html:head>
+        <html:p>De indeling is aangehouden van de oorspronkelijke inventarislijsten van Pegasus. Deze categorieën zijn: politiek, belletrie en taalkunde. Tevens een aantal in het Nederlands vertaalde kinderboeken. Hierin ook door Pegasus geïmporteerde boeken in het Nederlands, waarvan Pegasus zich mede-uitgever beschouwt.</html:p>
+        <html:p>Alfabetisch geordend op auteur of, indien geen auteur, op eerste titelwoord.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
     rico:scopeAndContent """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Inhoud</html:head>
-            <html:p>Publicaties van de Uitgeverij Pegasus voornamelijk over marxisme en communisme.</html:p>
-            <html:p>De oorspronkelijke lijsten van Pegasus zijn ook toegevoegd aan de collectie.</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral,
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Inhoud</html:head>
+        <html:p>Publicaties van de Uitgeverij Pegasus voornamelijk over marxisme en communisme.</html:p>
+        <html:p>De oorspronkelijke lijsten van Pegasus zijn ook toegevoegd aan de collectie.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
         "Publicaties van de Uitgeverij Pegasus voornamelijk over marxisme en communisme" .
 
 <https://hdl.handle.net/10622/COLL00321#3> a rico:RecordSet ;
