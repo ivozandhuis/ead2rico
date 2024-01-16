@@ -506,24 +506,24 @@
 
 <https://hdl.handle.net/10622/ARCH03404> a rico:RecordSet ;
     rico:conditionsOfAccess """
-      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-        <html:head>Raadpleging</html:head>
-        <html:p>Beperkt</html:p>
-        <html:p>Voor raadpleging is toestemming nodig van het IHLIA</html:p>
-      </html:div>
-    """^^rdf:XMLLiteral ;
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Raadpleging</html:head>
+            <html:p>Beperkt</html:p>
+            <html:p>Voor raadpleging is toestemming nodig van het IHLIA</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral ;
     rico:descriptiveNote """
-      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-        <html:head>Aanbevolen citeerwijze</html:head>
-        <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute of Social History, Amsterdam</html:p>
-      </html:div>
-    """^^rdf:XMLLiteral,
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Aanbevolen citeerwijze</html:head>
+            <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute of Social History, Amsterdam</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
         """
-      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-        <html:head>Biografie</html:head>
-        <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
-      </html:div>
-    """^^rdf:XMLLiteral ;
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Biografie</html:head>
+            <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral ;
     rico:hasCreationDate [ a rico:Date ;
             rico:expressedDate "1982-1985" ;
             rico:normalizedDateValue "1982/1985" ] ;
@@ -538,24 +538,24 @@
             rico:textualValue "Archief Lesbisch Archief Utrecht" ] ;
     rico:hasOrHasSubject [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Archival material" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Feminist movements/Women's movements" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Sexualities/LGBT movements" ] ],
         [ a rico:Place ;
             rico:hasOrHadPlaceName [ a rico:PlaceName ;
-                    rico:textualValue "Netherlands" ] ] ;
+                    rico:textualValue "Netherlands" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Archival material" ] ] ;
     rico:hasProvenance [ a rico:CorporateBody ;
             rico:hasOrHadAgentName [ a rico:AgentName ;
                     rico:textualValue "Lesbisch Archief Utrecht" ] ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
     rico:recordResourceStructure """
-      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-        <html:head>Ordening</html:head>
-        <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).</html:p>
-      </html:div>
-    """^^rdf:XMLLiteral .
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Ordening</html:head>
+            <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral .
 

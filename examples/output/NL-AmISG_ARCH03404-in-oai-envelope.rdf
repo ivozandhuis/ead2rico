@@ -1,905 +1,911 @@
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rico="https://www.ica.org/standards/RiC/ontology#" xmlns:premis="http://www.loc.gov/premis/rdf/v3/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml/">
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404">
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>ARCH03404</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#02"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasOrHadSomeMembersWithLanguage>
-      <rico:Language rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut"/>
-    </rico:hasOrHadSomeMembersWithLanguage>
-    <rico:hasProvenance>
-      <rico:CorporateBody>
-        <rico:hasOrHadAgentName>
-          <rico:AgentName>
-            <rico:textualValue>Lesbisch Archief Utrecht</rico:textualValue>
-          </rico:AgentName>
-        </rico:hasOrHadAgentName>
-      </rico:CorporateBody>
-    </rico:hasProvenance>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>0.72 Meters</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadHolder>IISG (Collectie IHLIA)</rico:hasOrHadHolder>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1982-1985</rico:expressedDate>
-        <rico:normalizedDateValue>1982/1985</rico:normalizedDateValue>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Archief Lesbisch Archief Utrecht</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-    <rico:conditionsOfAccess rdf:parseType="XMLLiteral">
-      <html:div>
-        <html:head>Raadpleging</html:head>
-        <html:p>Beperkt</html:p>
-        <html:p>Voor raadpleging is toestemming nodig van het IHLIA</html:p>
-      </html:div>
-    </rico:conditionsOfAccess>
-    <rico:recordResourceStructure rdf:parseType="XMLLiteral">
-      <html:div>
-        <html:head>Ordening</html:head>
-        <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).</html:p>
-      </html:div>
-    </rico:recordResourceStructure>
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
-      <html:div>
-        <html:head>Biografie</html:head>
-        <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
-      </html:div>
-    </rico:descriptiveNote>
-    <rico:hasOrHasSubject>
-      <rico:Place>
-        <rico:hasOrHadPlaceName>
-          <rico:PlaceName>
-            <rico:textualValue>Netherlands</rico:textualValue>
-          </rico:PlaceName>
-        </rico:hasOrHadPlaceName>
-      </rico:Place>
-    </rico:hasOrHasSubject>
-    <rico:hasOrHasSubject>
-      <rico:Thing>
-        <rico:hasOrHadName>
-          <rico:Name>
-            <rico:textualValue>Feminist movements/Women's movements</rico:textualValue>
-          </rico:Name>
-        </rico:hasOrHadName>
-      </rico:Thing>
-    </rico:hasOrHasSubject>
-    <rico:hasOrHasSubject>
-      <rico:Thing>
-        <rico:hasOrHadName>
-          <rico:Name>
-            <rico:textualValue>Sexualities/LGBT movements</rico:textualValue>
-          </rico:Name>
-        </rico:hasOrHadName>
-      </rico:Thing>
-    </rico:hasOrHasSubject>
-    <rico:hasOrHasSubject>
-      <rico:Thing>
-        <rico:hasOrHadName>
-          <rico:Name>
-            <rico:textualValue>Archival material</rico:textualValue>
-          </rico:Name>
-        </rico:hasOrHadName>
-      </rico:Thing>
-    </rico:hasOrHasSubject>
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
-      <html:div>
-        <html:head>Aanbevolen citeerwijze</html:head>
-        <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute of Social History, Amsterdam</html:p>
-      </html:div>
-    </rico:descriptiveNote>
-  </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#1">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 1 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1982-1985.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Correspondentie.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#1_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#1"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#2">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 1 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Subsidie Gemeente Utrecht.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#2_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#2"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#1_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#3">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 1 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1982-1985.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Statuten en financiele correspondentie.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#3_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#3"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#2_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#4">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 1 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1984.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Subsidie provincie Utrecht 1985-1986. Kasboek 1982. Tentoonstellingscatalogus Betje Wolff en Aagje Deken.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#4_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#4"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#3_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#5">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 2 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1983.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Correspondentie.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#5_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#5"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#4_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#6">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 2 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Subsidie landelijk.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#6_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#6"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#5_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#7">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 2 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1983.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Kantoor en publiciteit.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#7_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#7"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#6_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#8">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 2 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Lola (landelijk overleg).</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#8_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#8"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#7_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#9">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 2 Map 5</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1983.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Fondsen Logboek 1982. id. 1984-1986. Agenda.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#9_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#9"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#8_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#10">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 3 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Knipsels 1981. /'82.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#10_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#10"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#9_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#11">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 3 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Moedervellen stencils.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#11_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#11"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#10_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#12">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 3 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Diversen 1972-1978. (van Selma Coppers).</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#12_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#12"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#11_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#13">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 3 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1982-1986.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Notulen c.a.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#13_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#13"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#12_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#14">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 3 Map 5</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1982.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Subsidie.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#14_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#14"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#13_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#15">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 3 Map 6</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1982-1984.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Diversen.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#15_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#15"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#14_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#16">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 4 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 doos</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1982.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>los in de doos: Kasboek 1982-1984. 2x Logboek 1982-1984. Agenda 1982. , 1984-1986. Barboek 1977. (?) Adresboek Receptieboek Benefietfeest Kladschrift Nieuwsschrift Vrouwenstaking.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#16_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#16"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#15_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#17">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 5 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 doos</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Lesbische Boekhandels en Nederlandse Archieven Discussieflappen (&amp;gt; 1981. ) Boeken: - Sprekend (teksten Lezingencyclus "Vrouwen en letteren" 1979. /'80) - De tweede golf 1973. ) - Beeld evenbeeld zelfbeeld (na 1976. ) - Peter Jaspers: De Enkeling 1985. ).</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#17_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#17"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#16_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#18">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 6 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasCreationDate>
-      <rico:Date>
-        <rico:expressedDate>1981.</rico:expressedDate>
-      </rico:Date>
-    </rico:hasCreationDate>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Vrouwenstaking.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#18_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#18"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#17_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#19">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 6 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Bibliotheek.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#19_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#19"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#18_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#20">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 6 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Diversen.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#20_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#20"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#19_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#21">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 6 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Vrouwenhuizen.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#21_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#21"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#20_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#22">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 7 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Diversen.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#22_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#22"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#21_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#23">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 7 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Lezingen e.d.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#23_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#23"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#22_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#24">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 7 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Bestuursstukken.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#24_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#24"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#23_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#25">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 7 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>foto's.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#25_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#25"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#24_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#26">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 8 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Literatuur e.d.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#26_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#26"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#25_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#27">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 8 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Nieuwsbrief.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#27_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#27"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#26_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#28">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 8 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Post.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#28_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#28"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#27_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#29">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 8 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>Diversen.</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#29_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#29"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#28_proxy"/>
-  </rico:Proxy>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#30">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
-    <rico:hasOrHadIdentifier>
-      <rico:Identifier>
-        <rico:textualValue>Doos 8 Map 5</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
-      </rico:Identifier>
-    </rico:hasOrHadIdentifier>
-    <rico:hasExtent>
-      <rico:Extent>
-        <rico:textualValue>1 map</rico:textualValue>
-      </rico:Extent>
-    </rico:hasExtent>
-    <rico:hasOrHadTitle>
-      <rico:Title>
-        <rico:textualValue>HOMOSOL 1985/19. 86 (lerarenopleiding).</rico:textualValue>
-      </rico:Title>
-    </rico:hasOrHadTitle>
-  </rico:RecordSet>
-  <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#30_proxy">
-    <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#30"/>
-    <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#29_proxy"/>
-  </rico:Proxy>
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:html="http://www.w3.org/1999/xhtml/"
+          xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+          xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404">
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>ARCH03404</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#02"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasOrHadSomeMembersWithLanguage>
+         <rico:Language rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      </rico:hasOrHadSomeMembersWithLanguage>
+      <rico:hasProvenance>
+         <rico:CorporateBody>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>Lesbisch Archief Utrecht</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:CorporateBody>
+      </rico:hasProvenance>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>0.72 Meters</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadHolder>IISG (Collectie IHLIA)</rico:hasOrHadHolder>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1982-1985</rico:expressedDate>
+            <rico:normalizedDateValue>1982/1985</rico:normalizedDateValue>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Archief Lesbisch Archief Utrecht</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:conditionsOfAccess rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Raadpleging</html:head>
+            <html:p>Beperkt</html:p>
+            <html:p>Voor raadpleging is toestemming nodig van het IHLIA</html:p>
+         </html:div>
+      </rico:conditionsOfAccess>
+      <rico:recordResourceStructure rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Ordening</html:head>
+            <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).</html:p>
+         </html:div>
+      </rico:recordResourceStructure>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Biografie</html:head>
+            <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+      <rico:hasOrHasSubject>
+         <rico:Place>
+            <rico:hasOrHadPlaceName>
+               <rico:PlaceName>
+                  <rico:textualValue>Netherlands</rico:textualValue>
+               </rico:PlaceName>
+            </rico:hasOrHadPlaceName>
+         </rico:Place>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:Thing>
+            <rico:hasOrHadName>
+               <rico:Name>
+                  <rico:textualValue>Feminist movements/Women's movements</rico:textualValue>
+               </rico:Name>
+            </rico:hasOrHadName>
+         </rico:Thing>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:Thing>
+            <rico:hasOrHadName>
+               <rico:Name>
+                  <rico:textualValue>Sexualities/LGBT movements</rico:textualValue>
+               </rico:Name>
+            </rico:hasOrHadName>
+         </rico:Thing>
+      </rico:hasOrHasSubject>
+      <rico:hasOrHasSubject>
+         <rico:Thing>
+            <rico:hasOrHadName>
+               <rico:Name>
+                  <rico:textualValue>Archival material</rico:textualValue>
+               </rico:Name>
+            </rico:hasOrHadName>
+         </rico:Thing>
+      </rico:hasOrHasSubject>
+      <rico:descriptiveNote rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Aanbevolen citeerwijze</html:head>
+            <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute of Social History, Amsterdam</html:p>
+         </html:div>
+      </rico:descriptiveNote>
+   </rico:RecordSet>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#1">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 1 Map 1</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1982-1985.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Correspondentie.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#1_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#1"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#2">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 1 Map 2</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Subsidie Gemeente Utrecht.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#2_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#2"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#1_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#3">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 1 Map 3</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1982-1985.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Statuten en financiele correspondentie.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#3_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#3"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#2_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#4">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 1 Map 4</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1984.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Subsidie provincie Utrecht 1985-1986. Kasboek 1982. Tentoonstellingscatalogus Betje Wolff en Aagje Deken.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#4_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#4"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#3_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#5">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 2 Map 1</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1983.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Correspondentie.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#5_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#5"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#4_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#6">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 2 Map 2</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Subsidie landelijk.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#6_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#6"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#5_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#7">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 2 Map 3</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1983.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Kantoor en publiciteit.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#7_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#7"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#6_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#8">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 2 Map 4</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Lola (landelijk overleg).</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#8_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#8"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#7_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#9">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 2 Map 5</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1983.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Fondsen Logboek 1982. id. 1984-1986. Agenda.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#9_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#9"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#8_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#10">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 3 Map 1</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Knipsels 1981. /'82.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#10_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#10"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#9_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#11">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 3 Map 2</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Moedervellen stencils.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#11_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#11"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#10_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#12">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 3 Map 3</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Diversen 1972-1978. (van Selma Coppers).</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#12_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#12"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#11_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#13">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 3 Map 4</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1982-1986.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Notulen c.a.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#13_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#13"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#12_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#14">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 3 Map 5</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1982.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Subsidie.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#14_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#14"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#13_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#15">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 3 Map 6</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1982-1984.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Diversen.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#15_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#15"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#14_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#16">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 4 Map 1</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 doos</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1982.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>los in de doos: Kasboek 1982-1984. 2x Logboek 1982-1984. Agenda 1982. , 1984-1986. Barboek 1977. (?) Adresboek Receptieboek Benefietfeest Kladschrift Nieuwsschrift Vrouwenstaking.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#16_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#16"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#15_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#17">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 5 Map 1</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 doos</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Lesbische Boekhandels en Nederlandse Archieven Discussieflappen (&amp;gt; 1981. ) Boeken: - Sprekend (teksten Lezingencyclus "Vrouwen en letteren" 1979. /'80) - De tweede golf 1973. ) - Beeld evenbeeld zelfbeeld (na 1976. ) - Peter Jaspers: De Enkeling 1985. ).</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#17_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#17"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#16_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#18">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 6 Map 1</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasCreationDate>
+         <rico:Date>
+            <rico:expressedDate>1981.</rico:expressedDate>
+         </rico:Date>
+      </rico:hasCreationDate>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Vrouwenstaking.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#18_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#18"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#17_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#19">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 6 Map 2</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Bibliotheek.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#19_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#19"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#18_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#20">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 6 Map 3</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Diversen.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#20_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#20"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#19_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#21">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 6 Map 4</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Vrouwenhuizen.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#21_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#21"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#20_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#22">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 7 Map 1</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Diversen.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#22_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#22"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#21_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#23">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 7 Map 2</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Lezingen e.d.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#23_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#23"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#22_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#24">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 7 Map 3</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Bestuursstukken.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#24_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#24"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#23_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#25">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 7 Map 4</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>foto's.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#25_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#25"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#24_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#26">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 8 Map 1</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Literatuur e.d.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#26_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#26"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#25_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#27">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 8 Map 2</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Nieuwsbrief.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#27_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#27"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#26_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#28">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 8 Map 3</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Post.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#28_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#28"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#27_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#29">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 8 Map 4</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Diversen.</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#29_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#29"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#28_proxy"/>
+   </rico:Proxy>
+   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#30">
+      <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <rico:hasOrHadIdentifier>
+         <rico:Identifier>
+            <rico:textualValue>Doos 8 Map 5</rico:textualValue>
+            <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+         </rico:Identifier>
+      </rico:hasOrHadIdentifier>
+      <rico:hasExtent>
+         <rico:Extent>
+            <rico:textualValue>1 map</rico:textualValue>
+         </rico:Extent>
+      </rico:hasExtent>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>HOMOSOL 1985/19. 86 (lerarenopleiding).</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:RecordSet>
+   <rico:Proxy rdf:about="https://hdl.handle.net/10622/ARCH03404#30_proxy">
+      <rico:proxyFor rdf:resource="https://hdl.handle.net/10622/ARCH03404#30"/>
+      <rico:proxyIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#29_proxy"/>
+   </rico:Proxy>
 </rdf:RDF>
