@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- Endocoded Archival Description 2002 (EAD) into Records in Contexts Ontology (RiC-O) 0.2-->
+<!-- Endocoded Archival Description 2002 (EAD) into Records in Contexts Ontology (RiC-O) -->
 <!-- Ivo Zandhuis (ivo@zandhuis.nl) -->
 
 <xsl:stylesheet version="1.0"

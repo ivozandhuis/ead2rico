@@ -255,6 +255,12 @@
     rico:proxyFor <https://samh.nl/bronnen/archives/details/0003#2> ;
     rico:proxyIn <https://samh.nl/bronnen/archives/details/0003> .
 
+<https://samh.nl/bronnen/archives/details/0003#findingaid> a rico:Record ;
+    rico:describesOrDescribed <https://samh.nl/bronnen/archives/details/0003> ;
+    rico:hasDocumentaryFormType <https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid> ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Archief van de weeskamer van Gouda, 1557-1858" ] .
+
 <https://samh.nl/bronnen/archives/details/0003#1-1-1> a rico:RecordSet ;
     rico:conditionsOfAccess """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">

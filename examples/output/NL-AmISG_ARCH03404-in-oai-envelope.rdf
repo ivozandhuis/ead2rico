@@ -5,6 +5,24 @@
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
           xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
           xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rico:Record rdf:about="https://hdl.handle.net/10622/ARCH03404#findingaid">
+      <rico:describesOrDescribed rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+      <rico:hasDocumentaryFormType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid"/>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Archief Lesbisch Archief Utrecht ARCH.03404</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+      <rico:hasPublisher>
+         <rico:Agent>
+            <rico:hasOrHadAgentName>
+               <rico:AgentName>
+                  <rico:textualValue>IISG (Collectie IHLIA)</rico:textualValue>
+               </rico:AgentName>
+            </rico:hasOrHadAgentName>
+         </rico:Agent>
+      </rico:hasPublisher>
+   </rico:Record>
    <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404">
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
       <rico:hasOrHadIdentifier>

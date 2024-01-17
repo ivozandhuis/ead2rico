@@ -11,6 +11,18 @@
     rico:proxyFor <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:proxyIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .
 
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#findingaid> a rico:Record ;
+    rico:describesOrDescribed <https://www.archieven.nl/mi/298/?mivast=298&micode=822> ;
+    rico:hasDocumentaryFormType <https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid> ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Van Voerst van Lynden, S.W.A." ] ;
+    rico:hasPublicationDate [ a rico:Date ;
+            rico:expressedDate "2016" ;
+            rico:normalizedDateValue "2016" ] ;
+    rico:hasPublisher [ a rico:Agent ;
+            rico:hasOrHadAgentName [ a rico:AgentName ;
+                    rico:textualValue "NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies" ] ] .
+
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#1> a rico:RecordSet ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .
 

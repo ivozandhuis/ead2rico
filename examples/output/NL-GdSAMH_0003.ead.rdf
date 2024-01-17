@@ -5,6 +5,15 @@
           xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
           xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
           xmlns:xlink="http://www.w3.org/1999/xlink">
+   <rico:Record rdf:about="https://samh.nl/bronnen/archives/details/0003#findingaid">
+      <rico:describesOrDescribed rdf:resource="https://samh.nl/bronnen/archives/details/0003"/>
+      <rico:hasDocumentaryFormType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid"/>
+      <rico:hasOrHadTitle>
+         <rico:Title>
+            <rico:textualValue>Archief van de weeskamer van Gouda, 1557-1858</rico:textualValue>
+         </rico:Title>
+      </rico:hasOrHadTitle>
+   </rico:Record>
    <rico:RecordSet rdf:about="https://samh.nl/bronnen/archives/details/0003">
       <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds"/>
       <rico:hasOrHadIdentifier>
