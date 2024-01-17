@@ -35,6 +35,7 @@
          <rico:Date>
             <rico:expressedDate>1891-1972</rico:expressedDate>
             <rico:normalizedDateValue>1891/1972</rico:normalizedDateValue>
+            <rico:hasDateType rdf:resource="https://example.com/standards/RiC/vocabularies/dateTypes#inclusive"/>
          </rico:Date>
       </rico:hasCreationDate>
       <rico:hasOrHadTitle>

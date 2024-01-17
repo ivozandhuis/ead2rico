@@ -114,6 +114,13 @@
                     <xsl:value-of select="@normal"/>
                 </rico:normalizedDateValue>
             </xsl:if>
+            <xsl:if test="@type">
+                <xsl:call-template name="set-datetype">
+                    <xsl:with-param name="type">
+                        <xsl:value-of select="@type"/>
+                    </xsl:with-param>            
+                </xsl:call-template>
+            </xsl:if>
         </rico:Date>
     </rico:hasCreationDate>
 </xsl:template>

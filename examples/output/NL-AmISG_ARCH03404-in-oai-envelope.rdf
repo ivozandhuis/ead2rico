@@ -35,6 +35,7 @@
          <rico:Date>
             <rico:expressedDate>1982-1985</rico:expressedDate>
             <rico:normalizedDateValue>1982/1985</rico:normalizedDateValue>
+            <rico:hasDateType rdf:resource="https://example.com/standards/RiC/vocabularies/dateTypes#inclusive"/>
          </rico:Date>
       </rico:hasCreationDate>
       <rico:hasOrHadTitle>
