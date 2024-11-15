@@ -28,8 +28,10 @@ The stylesheets are intended to work with any XSLT 1.0 engine.
 ## Documentation
 The file mapping.md gives an overview of all EAD-elements and in which imported sub-stylesheet the element is transformed.
 
-## Status
-Not all elements are implemented yet, especially the difficult but important mixed-content elements (inline, names) need attention.
+## Some remarks
+I tried to keep the RiC-O mapping simple. This means 
+- I do not distinguish various Type-s (IdentifierType, RecordSetType, etc.)
+- I do not distinguish various Name-s (AgentName, etc.)
 
 ## Acknowledgement
 Part of this work was commissioned and paid for by:
