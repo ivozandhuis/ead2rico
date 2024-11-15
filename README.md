@@ -3,7 +3,7 @@
 Transforms 
 * Encoded Archival Description (EAD) 2002 XML format 
 into 
-* Records in Contexts Ontology 0.2 RDF/XML 
+* Records in Contexts Ontology 1.1 RDF/XML (1.1 is not yet released!)
 with the 
 * XML Stylesheet Language Transformation (XSLT) 1.0.
 
