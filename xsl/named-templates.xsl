@@ -136,7 +136,7 @@
         </xsl:when>
         <xsl:when test="$type = 'handle'">
             <rico:hasOrHadType>
-                <rico:Type rdf:resource="http://vocab.getty.edu/aat/300417435"/>
+                <rico:Type rdf:about="http://vocab.getty.edu/aat/300417435"/>
             </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'guid'">

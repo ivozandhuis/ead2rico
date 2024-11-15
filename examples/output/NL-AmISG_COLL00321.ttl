@@ -10941,9 +10941,6 @@
     rico:hasOrHasSubject [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Culture, media and arts" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
         [ a rico:Place ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "USSR (former)" ] ],
@@ -10952,10 +10949,13 @@
                     rico:textualValue "Books" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Communist movements and parties" ] ],
+                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
         [ a rico:Place ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Netherlands" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Communist movements and parties" ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "CPN" ] ],
