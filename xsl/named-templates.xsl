@@ -136,13 +136,7 @@
         </xsl:when>
         <xsl:when test="$type = 'handle'">
             <rico:hasOrHadType>
-                <rico:Type>
-                    <rico:hasOrHadName>
-                        <rico:Name>
-                            <rico:textualValue>Handle</rico:textualValue>
-                        </rico:Name>
-                    </rico:hasOrHadName>
-                </rico:Type>
+                <rico:Type rdf:resource="http://vocab.getty.edu/aat/300417435"/>
             </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'guid'">
