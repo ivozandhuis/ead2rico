@@ -50,7 +50,7 @@ eadid;EAD Identifier;eadheader;;;
 edition;Edition;eadheader;;;
 editionstmt;Edition Statement;eadheader;;;
 filedesc;File Description;eadheader;structural element, no mapping;;
-langusage;Language Usage;eadheader;;;
+langusage;Language Usage;eadheader;;;hasOrHadLanguage
 notestmt;Note Statement;eadheader;;;
 profiledesc;Profile Description;eadheader;;;
 publicationstmt;Publication Statement;eadheader;structural element, no mapping;;
@@ -60,7 +60,7 @@ sponsor;Sponsor;eadheader;;;
 subtitle;Subtitle;eadheader;;;
 titleproper;Title Proper of the Finding Aid;eadheader;;Title;hasOrHadTitle + textualValue
 titlestmt;Title Statement;eadheader;structural element, no mapping;;
-language;Language;eadheader + did ;;;
+language;Language;eadheader + did ;;Language;
 frontmatter;Front Matter;frontmatter;;;
 titlepage;Title Page;frontmatter;;;
 abbr;Abbreviation;inline;;;

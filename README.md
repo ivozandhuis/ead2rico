@@ -30,8 +30,78 @@ The file mapping.md gives an overview of all EAD-elements and in which imported 
 
 ## Some remarks
 I tried to keep the RiC-O mapping simple. This means 
+- I do not use Proxy-s
 - I do not distinguish various Type-s (IdentifierType, RecordSetType, etc.)
 - I do not distinguish various Name-s (AgentName, etc.)
+
+## RiC-O classes and properties used
+
+### Basic archival structure
+- RecordSet
+    - [relates to URI]
+        - hasOrHadType
+        - isOrWasIncludedIn
+        - followsOrFollowed
+        - hasOrHadInstantiation
+    - [relates to BNODE]
+        - hasOrHadIdentifier
+        - hasOrHadTitle
+        - hasExtent
+        - hasAccumulationDate
+        - hasOrHadMostMembersWithAccumulationDate
+        - hasOrHadAllMembersWithAccumulationDate
+        - hasOrHadSomeMembersWithLanguage
+        - hasOrganicProvenance
+        - hasOrHadLocation
+        - hasOrHadHolder
+        - hasOrHadSubject
+    - [relates to Literal]
+        - generalDescription
+        - scopeAndContent
+        - history
+        - conditionsOfAccess
+        - conditionsOfUse
+        - recordResourceStructure
+  
+- Record
+    - [relates to URI]
+        - hasOrHadType [= Finding Aid]
+        - describesOrDescribed
+    - [relates to BNODE]
+        - hasCreator
+        - hasOrHadTitle
+        - hasPublisher
+        - hasPublicationDate
+        - hasOrHadLanguage
+
+- Instantiation
+    - [relates to URI]
+        - storedAt
+    - [relates to Literal]
+        - generalDescription
+
+### Context
+- Thing
+- Agent
+- Place
+- CorporateBody
+- Family
+- Type
+
+All might have the same property:
+- hasOrHadName
+
+### "Appellations"
+- Identifier
+- Name
+- Title
+- Extent
+- Date
+- Language
+
+All might have the same properties:
+- textualValue
+- normalizedValue
 
 ## Acknowledgement
 Part of this work was commissioned and paid for by:
