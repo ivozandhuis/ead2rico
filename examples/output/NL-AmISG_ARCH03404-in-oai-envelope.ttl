@@ -6,11 +6,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 8 Map 5" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "HOMOSOL 1985/19. 86 (lerarenopleiding)." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#findingaid> a rico:Record ;
@@ -30,11 +32,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 1 Map 1" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Correspondentie." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#10> a rico:RecordSet ;
@@ -42,11 +46,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 3 Map 1" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Knipsels 1981. /'82." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#11> a rico:RecordSet ;
@@ -54,11 +60,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 3 Map 2" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Moedervellen stencils." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#12> a rico:RecordSet ;
@@ -66,11 +74,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 3 Map 3" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Diversen 1972-1978. (van Selma Coppers)." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#13> a rico:RecordSet ;
@@ -80,11 +90,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 3 Map 4" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Notulen c.a." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#14> a rico:RecordSet ;
@@ -94,11 +106,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 3 Map 5" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Subsidie." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#15> a rico:RecordSet ;
@@ -108,11 +122,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 3 Map 6" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Diversen." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#16> a rico:RecordSet ;
@@ -122,11 +138,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 doos" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 4 Map 1" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "los in de doos: Kasboek 1982-1984. 2x Logboek 1982-1984. Agenda 1982. , 1984-1986. Barboek 1977. (?) Adresboek Receptieboek Benefietfeest Kladschrift Nieuwsschrift Vrouwenstaking." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#17> a rico:RecordSet ;
@@ -134,11 +152,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 doos" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 5 Map 1" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Lesbische Boekhandels en Nederlandse Archieven Discussieflappen (&gt; 1981. ) Boeken: - Sprekend (teksten Lezingencyclus \"Vrouwen en letteren\" 1979. /'80) - De tweede golf 1973. ) - Beeld evenbeeld zelfbeeld (na 1976. ) - Peter Jaspers: De Enkeling 1985. )." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#18> a rico:RecordSet ;
@@ -148,11 +168,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 6 Map 1" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Vrouwenstaking." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#19> a rico:RecordSet ;
@@ -160,11 +182,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 6 Map 2" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Bibliotheek." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#2> a rico:RecordSet ;
@@ -172,11 +196,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 1 Map 2" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Subsidie Gemeente Utrecht." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#20> a rico:RecordSet ;
@@ -184,11 +210,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 6 Map 3" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Diversen." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#21> a rico:RecordSet ;
@@ -196,11 +224,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 6 Map 4" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Vrouwenhuizen." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#22> a rico:RecordSet ;
@@ -208,11 +238,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 7 Map 1" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Diversen." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#23> a rico:RecordSet ;
@@ -220,11 +252,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 7 Map 2" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Lezingen e.d." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#24> a rico:RecordSet ;
@@ -232,11 +266,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 7 Map 3" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Bestuursstukken." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#25> a rico:RecordSet ;
@@ -244,11 +280,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 7 Map 4" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "foto's." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#26> a rico:RecordSet ;
@@ -256,11 +294,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 8 Map 1" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Literatuur e.d." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#27> a rico:RecordSet ;
@@ -268,11 +308,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 8 Map 2" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Nieuwsbrief." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#28> a rico:RecordSet ;
@@ -280,11 +322,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 8 Map 3" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Post." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#29> a rico:RecordSet ;
@@ -292,11 +336,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 8 Map 4" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Diversen." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#3> a rico:RecordSet ;
@@ -306,11 +352,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 1 Map 3" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Statuten en financiele correspondentie." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#4> a rico:RecordSet ;
@@ -320,11 +368,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 1 Map 4" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Subsidie provincie Utrecht 1985-1986. Kasboek 1982. Tentoonstellingscatalogus Betje Wolff en Aagje Deken." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#5> a rico:RecordSet ;
@@ -334,11 +384,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 2 Map 1" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Correspondentie." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#6> a rico:RecordSet ;
@@ -346,11 +398,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 2 Map 2" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Subsidie landelijk." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#7> a rico:RecordSet ;
@@ -360,11 +414,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 2 Map 3" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Kantoor en publiciteit." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#8> a rico:RecordSet ;
@@ -372,11 +428,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 2 Map 4" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Lola (landelijk overleg)." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#9> a rico:RecordSet ;
@@ -386,11 +444,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "Doos 2 Map 5" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Fondsen Logboek 1982. id. 1984-1986. Agenda." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404> a rico:RecordSet ;
@@ -421,27 +481,29 @@
             rico:textualValue "0.72 Meters" ] ;
     rico:hasOrHadHolder "IISG (Collectie IHLIA)" ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#02> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Collectienummer" ] ] ;
             rico:textualValue "ARCH03404" ] ;
     rico:hasOrHadSomeMembersWithLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Archief Lesbisch Archief Utrecht" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
     rico:hasOrHasSubject [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Archival material" ] ],
+                    rico:textualValue "Feminist movements/Women's movements" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sexualities/LGBT movements" ] ],
         [ a rico:Place ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Netherlands" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sexualities/LGBT movements" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Feminist movements/Women's movements" ] ] ;
+                    rico:textualValue "Archival material" ] ] ;
     rico:hasOrganicProvenance [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Lesbisch Archief Utrecht" ] ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
     rico:recordResourceStructure """
       <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
         <html:head>Ordening</html:head>

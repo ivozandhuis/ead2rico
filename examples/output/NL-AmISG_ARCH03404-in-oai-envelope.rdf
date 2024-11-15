@@ -18,11 +18,19 @@
     </rico:hasPublisher>
   </rico:Record>
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404">
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>ARCH03404</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#02"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Collectienummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasOrHadSomeMembersWithLanguage>
@@ -119,11 +127,19 @@
   </rico:RecordSet>
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#1">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 1 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -145,11 +161,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#2">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#1"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 1 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -166,11 +190,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#3">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#2"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 1 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -192,11 +224,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#4">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#3"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 1 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -218,11 +258,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#5">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#4"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 2 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -244,11 +292,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#6">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#5"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 2 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -265,11 +321,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#7">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#6"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 2 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -291,11 +355,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#8">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#7"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 2 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -312,11 +384,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#9">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#8"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 2 Map 5</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -338,11 +418,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#10">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#9"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 3 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -359,11 +447,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#11">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#10"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 3 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -380,11 +476,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#12">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#11"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 3 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -401,11 +505,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#13">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#12"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 3 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -427,11 +539,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#14">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#13"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 3 Map 5</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -453,11 +573,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#15">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#14"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 3 Map 6</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -479,11 +607,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#16">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#15"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 4 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -505,11 +641,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#17">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#16"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 5 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -526,11 +670,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#18">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#17"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 6 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -552,11 +704,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#19">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#18"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 6 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -573,11 +733,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#20">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#19"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 6 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -594,11 +762,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#21">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#20"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 6 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -615,11 +791,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#22">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#21"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 7 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -636,11 +820,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#23">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#22"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 7 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -657,11 +849,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#24">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#23"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 7 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -678,11 +878,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#25">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#24"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 7 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -699,11 +907,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#26">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#25"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 8 Map 1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -720,11 +936,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#27">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#26"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 8 Map 2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -741,11 +965,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#28">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#27"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 8 Map 3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -762,11 +994,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#29">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#28"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 8 Map 4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -783,11 +1023,19 @@
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#30">
     <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
     <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#29"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>Doos 8 Map 5</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>

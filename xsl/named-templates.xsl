@@ -17,39 +17,39 @@
     <xsl:param name="type"/>
     <xsl:choose>
         <xsl:when test="$type = 'fonds'">
-            <rico:hasRecordSetType>
+            <rico:hasOrHadType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds</xsl:text>
                 </xsl:attribute>
-            </rico:hasRecordSetType>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'collection'">
-            <rico:hasRecordSetType>
+            <rico:hasOrHadType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection</xsl:text>
                 </xsl:attribute>
-            </rico:hasRecordSetType>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'series'">
-            <rico:hasRecordSetType>
+            <rico:hasOrHadType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Series</xsl:text>
                 </xsl:attribute>
-            </rico:hasRecordSetType>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'subseries'">
-            <rico:hasRecordSetType>
+            <rico:hasOrHadType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Subseries</xsl:text>
                 </xsl:attribute>
-            </rico:hasRecordSetType>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'file'">
-            <rico:hasRecordSetType>
+            <rico:hasOrHadType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File</xsl:text>
                 </xsl:attribute>
-            </rico:hasRecordSetType>
+            </rico:hasOrHadType>
         </xsl:when>
     </xsl:choose>
 </xsl:template>
@@ -58,67 +58,103 @@
     <xsl:param name="type"/>
     <xsl:choose>
         <xsl:when test="$type = 'fonds'">
-            <rico:hasIdentifierType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/identifierTypes#01</xsl:text>
-                </xsl:attribute>
-            </rico:hasIdentifierType>
+            <rico:hasOrHadType>
+                <rico:Type>
+                    <rico:hasOrHadName>
+                        <rico:Name>
+                            <rico:textualValue>Archiefnummer</rico:textualValue>
+                        </rico:Name>
+                    </rico:hasOrHadName>
+                </rico:Type>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'collection'">
-            <rico:hasIdentifierType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/identifierTypes#02</xsl:text>
-                </xsl:attribute>
-            </rico:hasIdentifierType>
+            <rico:hasOrHadType>
+                <rico:Type>
+                    <rico:hasOrHadName>
+                        <rico:Name>
+                            <rico:textualValue>Collectienummer</rico:textualValue>
+                        </rico:Name>
+                    </rico:hasOrHadName>
+                </rico:Type>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'series'">
-            <rico:hasIdentifierType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/identifierTypes#03</xsl:text>
-                </xsl:attribute>
-            </rico:hasIdentifierType>
+            <rico:hasOrHadType>
+                <rico:Type>
+                    <rico:hasOrHadName>
+                        <rico:Name>
+                            <rico:textualValue>Serienummer</rico:textualValue>
+                        </rico:Name>
+                    </rico:hasOrHadName>
+                </rico:Type>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'series_code'">
-            <rico:hasIdentifierType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/identifierTypes#03</xsl:text>
-                </xsl:attribute>
-            </rico:hasIdentifierType>
+            <rico:hasOrHadType>
+                <rico:Type>
+                    <rico:hasOrHadName>
+                        <rico:Name>
+                            <rico:textualValue>Serienummer</rico:textualValue>
+                        </rico:Name>
+                    </rico:hasOrHadName>
+                </rico:Type>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'subseries'">
-            <rico:hasIdentifierType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/identifierTypes#03</xsl:text>
-                </xsl:attribute>
-            </rico:hasIdentifierType>
+            <rico:hasOrHadType>
+                <rico:Type>
+                    <rico:hasOrHadName>
+                        <rico:Name>
+                            <rico:textualValue>Serienummer</rico:textualValue>
+                        </rico:Name>
+                    </rico:hasOrHadName>
+                </rico:Type>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'otherlevel'">
-            <rico:hasIdentifierType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/identifierTypes#04</xsl:text>
-                </xsl:attribute>
-            </rico:hasIdentifierType>
+            <rico:hasOrHadType>
+                <rico:Type>
+                    <rico:hasOrHadName>
+                        <rico:Name>
+                            <rico:textualValue>Inventarisnummers (van een verzamelbeschrijving)</rico:textualValue>
+                        </rico:Name>
+                    </rico:hasOrHadName>
+                </rico:Type>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'file'">
-            <rico:hasIdentifierType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/identifierTypes#05</xsl:text>
-                </xsl:attribute>
-            </rico:hasIdentifierType>
+            <rico:hasOrHadType>
+                <rico:Type>
+                    <rico:hasOrHadName>
+                        <rico:Name>
+                            <rico:textualValue>Inventarisnummer</rico:textualValue>
+                        </rico:Name>
+                    </rico:hasOrHadName>
+                </rico:Type>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'handle'">
-            <rico:hasIdentifierType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/identifierTypes#06</xsl:text>
-                </xsl:attribute>
-            </rico:hasIdentifierType>
+            <rico:hasOrHadType>
+                <rico:Type>
+                    <rico:hasOrHadName>
+                        <rico:Name>
+                            <rico:textualValue>Handle</rico:textualValue>
+                        </rico:Name>
+                    </rico:hasOrHadName>
+                </rico:Type>
+            </rico:hasOrHadType>
         </xsl:when>
         <xsl:when test="$type = 'guid'">
-            <rico:hasIdentifierType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/identifierTypes#07</xsl:text>
-                </xsl:attribute>
-            </rico:hasIdentifierType>
+            <rico:hasOrHadType>
+                <rico:Type>
+                    <rico:hasOrHadName>
+                        <rico:Name>
+                            <rico:textualValue>GUID</rico:textualValue>
+                        </rico:Name>
+                    </rico:hasOrHadName>
+                </rico:Type>
+            </rico:hasOrHadType>
         </xsl:when>
     </xsl:choose>
 </xsl:template>

@@ -24,11 +24,19 @@
     </rico:hasPublicationDate>
   </rico:Record>
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822">
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>822</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#01"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Archiefnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -172,7 +180,15 @@
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>1-14</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#04"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummers (van een verzamelbeschrijving)</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasAccumulationDate>
@@ -194,11 +210,19 @@
   </rico:RecordSet>
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-1">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>1</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -225,11 +249,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-2">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-1"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>2</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -256,11 +288,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-3">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-2"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>3</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -287,11 +327,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-4">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-3"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>4</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -318,11 +366,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-5">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-4"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>5</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -349,11 +405,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-6">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-5"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>6</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -380,11 +444,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-7">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-6"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>7</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -411,11 +483,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-8">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-7"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>8</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -447,11 +527,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-9">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-8"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>9</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -483,11 +571,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-10">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-9"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>10</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -519,11 +615,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-11">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-10"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>11</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -550,11 +654,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-12">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-11"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>12</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -581,11 +693,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-13">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-12"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>13</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>
@@ -612,11 +732,19 @@
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-14">
     <rico:isOrWasIncludedIn rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2"/>
     <rico:followsOrFollowed rdf:resource="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822#2-13"/>
-    <rico:hasRecordSetType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
         <rico:textualValue>14</rico:textualValue>
-        <rico:hasIdentifierType rdf:resource="https://example.com/standards/RiC/vocabularies/identifierTypes#05"/>
+        <rico:hasOrHadType>
+          <rico:Type>
+            <rico:hasOrHadName>
+              <rico:Name>
+                <rico:textualValue>Inventarisnummer</rico:textualValue>
+              </rico:Name>
+            </rico:hasOrHadName>
+          </rico:Type>
+        </rico:hasOrHadType>
       </rico:Identifier>
     </rico:hasOrHadIdentifier>
     <rico:hasExtent>

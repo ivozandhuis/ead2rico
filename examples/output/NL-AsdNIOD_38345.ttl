@@ -13,11 +13,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "14" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1989-2004" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#findingaid> a rico:Record ;
@@ -46,11 +48,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "1" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1937" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-10> a rico:RecordSet ;
@@ -65,11 +69,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "10" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1945, september - december" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:scopeAndContent """
       <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -89,11 +95,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "11" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1946-1949" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-12> a rico:RecordSet ;
@@ -108,11 +116,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "12" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1950-1959" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-13> a rico:RecordSet ;
@@ -127,11 +137,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "13" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1959-1991" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-2> a rico:RecordSet ;
@@ -146,11 +158,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "2" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1938" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-3> a rico:RecordSet ;
@@ -165,11 +179,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "3" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1939" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-4> a rico:RecordSet ;
@@ -184,11 +200,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "4" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1940" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-5> a rico:RecordSet ;
@@ -203,11 +221,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "5" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1941" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-6> a rico:RecordSet ;
@@ -222,11 +242,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "6" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1942" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-7> a rico:RecordSet ;
@@ -241,11 +263,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "7" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1943" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-8> a rico:RecordSet ;
@@ -260,11 +284,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "8" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1944" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:scopeAndContent """
       <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -284,11 +310,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 omslag" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
             rico:textualValue "9" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "1945, januari - augustus" ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
     rico:scopeAndContent """
       <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -382,11 +410,13 @@
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "0.4 meter (14 nummers)" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#01> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Archiefnummer" ] ] ;
             rico:textualValue "822" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Van Voerst van Lynden, S.W.A." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds> ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds> ;
     rico:history """
       <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
         <html:head>beheersgeschiedenis/overbrenging naar het NIOD</html:head>
@@ -435,7 +465,9 @@
             rico:normalizedValue "1937/2004" ;
             rico:textualValue "1937-2004." ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#04> ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummers (van een verzamelbeschrijving)" ] ] ;
             rico:textualValue "1-14" ] ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Correspondentie" ] ;
