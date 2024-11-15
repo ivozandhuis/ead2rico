@@ -52,13 +52,12 @@
       </rico:Extent>
     </rico:hasExtent>
     <rico:hasOrHadHolder>International Institute of Social History</rico:hasOrHadHolder>
-    <rico:hasAccumulationDate>
+    <rico:hasOrHadAllMembersWithAccumulationDate>
       <rico:Date>
         <rico:textualValue>1935-1991</rico:textualValue>
         <rico:normalizedValue>1935/1991</rico:normalizedValue>
-        <rico:hasDateType rdf:resource="https://example.com/standards/RiC/vocabularies/dateTypes#inclusive"/>
       </rico:Date>
-    </rico:hasAccumulationDate>
+    </rico:hasOrHadAllMembersWithAccumulationDate>
     <rico:hasOrHadTitle>
       <rico:Title>
         <rico:textualValue>Fonds Marxisme Uitgeverij Pegasus</rico:textualValue>

@@ -10923,12 +10923,11 @@
         <html:p>Opgericht als de uitgeverij van de Communistische Partij van Nederland. Tegenwoordig is gespecialiseerd op het gebied van Oost- en Midden-Europese taal &amp; cultuur in Nederland.</html:p>
       </html:div>
     """^^rdf:XMLLiteral ;
-    rico:hasAccumulationDate [ a rico:Date ;
-            rico:hasDateType <https://example.com/standards/RiC/vocabularies/dateTypes#inclusive> ;
-            rico:normalizedValue "1935/1991" ;
-            rico:textualValue "1935-1991" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "771 Books" ] ;
+    rico:hasOrHadAllMembersWithAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1935/1991" ;
+            rico:textualValue "1935-1991" ] ;
     rico:hasOrHadHolder "International Institute of Social History" ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
             rico:hasOrHadType [ a rico:Type ;
@@ -10939,27 +10938,27 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Fonds Marxisme Uitgeverij Pegasus" ] ;
     rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
-    rico:hasOrHasSubject [ a rico:CorporateBody ;
+    rico:hasOrHasSubject [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "CPN" ] ],
+                    rico:textualValue "Culture, media and arts" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Communist movements and parties" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Culture, media and arts" ] ],
-        [ a rico:Place ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Netherlands" ] ],
         [ a rico:Place ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "USSR (former)" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Books" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Communist movements and parties" ] ],
+        [ a rico:Place ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Netherlands" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "CPN" ] ],
         <http://viaf.org/viaf/101787139>,
         <http://viaf.org/viaf/49228757>,
         <http://viaf.org/viaf/68928644>,

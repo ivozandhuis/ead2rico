@@ -473,12 +473,11 @@
         <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
       </html:div>
     """^^rdf:XMLLiteral ;
-    rico:hasAccumulationDate [ a rico:Date ;
-            rico:hasDateType <https://example.com/standards/RiC/vocabularies/dateTypes#inclusive> ;
-            rico:normalizedValue "1982/1985" ;
-            rico:textualValue "1982-1985" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "0.72 Meters" ] ;
+    rico:hasOrHadAllMembersWithAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1982/1985" ;
+            rico:textualValue "1982-1985" ] ;
     rico:hasOrHadHolder "IISG (Collectie IHLIA)" ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
             rico:hasOrHadType [ a rico:Type ;
@@ -489,15 +488,15 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Archief Lesbisch Archief Utrecht" ] ;
     rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
-    rico:hasOrHasSubject [ a rico:Thing ;
+    rico:hasOrHasSubject [ a rico:Place ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Netherlands" ] ],
+        [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Feminist movements/Women's movements" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Sexualities/LGBT movements" ] ],
-        [ a rico:Place ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Netherlands" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Archival material" ] ] ;

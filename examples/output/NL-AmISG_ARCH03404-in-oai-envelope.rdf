@@ -51,13 +51,12 @@
       </rico:Extent>
     </rico:hasExtent>
     <rico:hasOrHadHolder>IISG (Collectie IHLIA)</rico:hasOrHadHolder>
-    <rico:hasAccumulationDate>
+    <rico:hasOrHadAllMembersWithAccumulationDate>
       <rico:Date>
         <rico:textualValue>1982-1985</rico:textualValue>
         <rico:normalizedValue>1982/1985</rico:normalizedValue>
-        <rico:hasDateType rdf:resource="https://example.com/standards/RiC/vocabularies/dateTypes#inclusive"/>
       </rico:Date>
-    </rico:hasAccumulationDate>
+    </rico:hasOrHadAllMembersWithAccumulationDate>
     <rico:hasOrHadTitle>
       <rico:Title>
         <rico:textualValue>Archief Lesbisch Archief Utrecht</rico:textualValue>

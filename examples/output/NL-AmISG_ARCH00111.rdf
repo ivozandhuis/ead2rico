@@ -51,13 +51,12 @@
       </rico:Extent>
     </rico:hasExtent>
     <rico:hasOrHadHolder>International Institute of Social History</rico:hasOrHadHolder>
-    <rico:hasAccumulationDate>
+    <rico:hasOrHadAllMembersWithAccumulationDate>
       <rico:Date>
         <rico:textualValue>1891-1972</rico:textualValue>
         <rico:normalizedValue>1891/1972</rico:normalizedValue>
-        <rico:hasDateType rdf:resource="https://example.com/standards/RiC/vocabularies/dateTypes#inclusive"/>
       </rico:Date>
-    </rico:hasAccumulationDate>
+    </rico:hasOrHadAllMembersWithAccumulationDate>
     <rico:hasOrHadTitle>
       <rico:Title>
         <rico:textualValue>Julius Braunthal Papers</rico:textualValue>

@@ -102,27 +102,44 @@
 </xsl:template>
 
 <xsl:template match="ead:unitdate">
-    <rico:hasAccumulationDate>
-        <rico:Date>
-            <xsl:if test="text()">
-                <rico:textualValue>
-                    <xsl:value-of select="normalize-space(.)"/>
-                </rico:textualValue>
-            </xsl:if>
-            <xsl:if test="@normal">
-                <rico:normalizedValue>
-                    <xsl:value-of select="@normal"/>
-                </rico:normalizedValue>
-            </xsl:if>
-            <xsl:if test="@type">
-                <xsl:call-template name="set-datetype">
-                    <xsl:with-param name="type">
-                        <xsl:value-of select="@type"/>
+    <xsl:choose>
+        <xsl:when test="@type = 'bulk'">
+            <rico:hasOrHadMostMembersWithAccumulationDate>
+                <xsl:call-template name="build-date">
+                    <xsl:with-param name="text">
+                        <xsl:value-of select="text()"/>
+                    </xsl:with-param>            
+                    <xsl:with-param name="normal">
+                        <xsl:value-of select="@normal"/>
                     </xsl:with-param>            
                 </xsl:call-template>
-            </xsl:if>
-        </rico:Date>
-    </rico:hasAccumulationDate>
+            </rico:hasOrHadMostMembersWithAccumulationDate>
+        </xsl:when>
+        <xsl:when test="@type = 'inclusive'">
+            <rico:hasOrHadAllMembersWithAccumulationDate>
+                <xsl:call-template name="build-date">
+                    <xsl:with-param name="text">
+                        <xsl:value-of select="text()"/>
+                    </xsl:with-param>            
+                    <xsl:with-param name="normal">
+                        <xsl:value-of select="@normal"/>
+                    </xsl:with-param>            
+                </xsl:call-template>
+            </rico:hasOrHadAllMembersWithAccumulationDate>
+        </xsl:when>
+        <xsl:otherwise>
+            <rico:hasAccumulationDate>
+                <xsl:call-template name="build-date">
+                    <xsl:with-param name="text">
+                        <xsl:value-of select="text()"/>
+                    </xsl:with-param>            
+                    <xsl:with-param name="normal">
+                        <xsl:value-of select="@normal"/>
+                    </xsl:with-param>            
+                </xsl:call-template>
+            </rico:hasAccumulationDate>       
+        </xsl:otherwise>
+    </xsl:choose>
 </xsl:template>
 
 <xsl:template match="ead:unitid[string(.)]">

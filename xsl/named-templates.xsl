@@ -159,26 +159,22 @@
     </xsl:choose>
 </xsl:template>
 
-<xsl:template name="set-datetype">
-    <xsl:param name="type"/>
-    <xsl:choose>
-        <xsl:when test="$type = 'bulk'">
-            <rico:hasDateType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/dateTypes#bulk</xsl:text>
-                </xsl:attribute>
-            </rico:hasDateType>
-        </xsl:when>
-        <xsl:when test="$type = 'inclusive'">
-            <rico:hasDateType>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:text>https://example.com/standards/RiC/vocabularies/dateTypes#inclusive</xsl:text>
-                </xsl:attribute>
-            </rico:hasDateType>
-        </xsl:when>
-    </xsl:choose>
+<xsl:template name="build-date">
+    <xsl:param name="text"/>
+    <xsl:param name="normal"/>
+    <rico:Date>
+        <xsl:if test="$text != ''">
+            <rico:textualValue>
+                <xsl:value-of select="$text"/>
+            </rico:textualValue>
+        </xsl:if>
+        <xsl:if test="$normal != ''">
+            <rico:normalizedValue>
+                <xsl:value-of select="$normal"/>
+            </rico:normalizedValue>
+        </xsl:if>
+    </rico:Date>
 </xsl:template>
-
 
 <xsl:template name="set-authorityURI">
     <xsl:param name="source"/>
