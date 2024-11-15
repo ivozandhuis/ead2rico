@@ -28,7 +28,7 @@ CONSTRUCT {
 WHERE
 {
 
-     BIND(<https://hdl.handle.net/10622/ARCH00860#3-6> AS ?resource)
+    # BIND(<https://hdl.handle.net/10622/ARCH00860#3-6> AS ?resource)
 
     ?resource a rico:RecordSet ;
         rico:hasOrHadType ?type .
