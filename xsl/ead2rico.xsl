@@ -17,6 +17,7 @@
 <xsl:import href="eadheader.xsl"/>
 <xsl:import href="frontmatter.xsl"/>
 <xsl:import href="archdesc.xsl"/>
+<!--xsl:import href="archdesc_withproxy.xsl"/-->
 <xsl:import href="did.xsl"/>
 <xsl:import href="non-did.xsl"/>
 <xsl:import href="dao.xsl"/>

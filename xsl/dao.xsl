@@ -13,11 +13,11 @@
 
 
 <xsl:template match="ead:daodesc">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>
+    </rico:generalDescription>
 </xsl:template>
 
 <xsl:template match="ead:daogrp">
@@ -25,7 +25,7 @@
 </xsl:template>
 
 <xsl:template match="ead:dao | ead:daoloc">
-    <rico:hasInstantiation>
+    <rico:hasOrHadInstantiation>
         <rico:Instantiation>
             <xsl:apply-templates select="ead:daodesc | ../ead:daodesc"/>
             <premis:storedAt>
@@ -41,7 +41,7 @@
                 </xsl:attribute>
             </premis:storedAt>
         </rico:Instantiation>
-    </rico:hasInstantiation>
+    </rico:hasOrHadInstantiation>
 </xsl:template>
 
 </xsl:stylesheet>

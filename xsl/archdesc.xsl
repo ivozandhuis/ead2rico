@@ -91,6 +91,21 @@
                 <xsl:value-of select="$archnr"/>
             </xsl:attribute>
         </rico:isOrWasIncludedIn>
+        <xsl:if test="not(position() = 1)">
+            <rico:followsOrFollowed>
+                <xsl:attribute name="rdf:resource">
+                    <xsl:value-of select="$baseUri"/>
+                    <xsl:choose>
+                        <xsl:when test="$level = 'first'">
+                            <xsl:value-of select="concat(concat($archnr, '#'), position()-1)"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="concat(concat($archnr, '-'), position()-1)"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:attribute>
+            </rico:followsOrFollowed>  
+        </xsl:if>
         <xsl:call-template name="set-recordsettype">
             <xsl:with-param name="type" select="@level"/>
         </xsl:call-template>
@@ -124,41 +139,6 @@
         <xsl:apply-templates select="ead:separatedmaterial"/>
         <xsl:apply-templates select="ead:userestrict"/>
     </rico:RecordSet>
-    <rico:Proxy>
-        <xsl:attribute name="rdf:about">
-            <xsl:value-of select="$baseUri"/>
-            <xsl:value-of select="$id"/>
-            <xsl:text>_proxy</xsl:text>
-        </xsl:attribute>
-        <rico:proxyFor>
-            <xsl:attribute name="rdf:resource">
-                <xsl:value-of select="$baseUri"/>
-                <xsl:value-of select="$id"/>
-            </xsl:attribute>  
-        </rico:proxyFor>
-        <rico:proxyIn>
-            <xsl:attribute name="rdf:resource">
-                <xsl:value-of select="$baseUri"/>
-                <xsl:value-of select="$archnr"/>
-            </xsl:attribute>       
-        </rico:proxyIn>
-        <xsl:if test="not(position() = 1)">
-            <rico:followsOrFollowed>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:value-of select="$baseUri"/>
-                    <xsl:choose>
-                        <xsl:when test="$level = 'first'">
-                            <xsl:value-of select="concat(concat($archnr, '#'), position()-1)"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="concat(concat($archnr, '-'), position()-1)"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                    <xsl:text>_proxy</xsl:text>
-                </xsl:attribute>
-            </rico:followsOrFollowed>  
-        </xsl:if>
-    </rico:Proxy>
     <xsl:apply-templates select="ead:c | ead:c01 | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12">
         <xsl:with-param name="archnr" select="$id"/>
     </xsl:apply-templates>

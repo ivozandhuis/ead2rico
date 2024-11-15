@@ -58,17 +58,17 @@
 <xsl:template match="ead:materialspec"/>
 
 <xsl:template match="ead:did/ead:note">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>
+    </rico:generalDescription>
 </xsl:template>
 
 <xsl:template match="ead:origination[text()]">
-    <rico:hasProvenance>
+    <rico:hasOrganicProvenance>
         <xsl:value-of select="normalize-space(.)"/>
-    </rico:hasProvenance>
+    </rico:hasOrganicProvenance>
 </xsl:template>
 
 <xsl:template match="ead:physdesc">
@@ -86,11 +86,11 @@
 <xsl:template match="ead:physloc">
     <rico:hasOrHadLocation>
         <rico:Place>
-            <rico:hasOrHadPlaceName>
+            <rico:hasOrHadName>
                 <rico:textualValue>
                     <xsl:value-of select="normalize-space(.)"/>
                 </rico:textualValue>
-            </rico:hasOrHadPlaceName>
+            </rico:hasOrHadName>
         </rico:Place>
     </rico:hasOrHadLocation>
 </xsl:template>
@@ -102,17 +102,17 @@
 </xsl:template>
 
 <xsl:template match="ead:unitdate">
-    <rico:hasCreationDate>
+    <rico:hasAccumulationDate>
         <rico:Date>
             <xsl:if test="text()">
-                <rico:expressedDate>
+                <rico:textualValue>
                     <xsl:value-of select="normalize-space(.)"/>
-                </rico:expressedDate>
+                </rico:textualValue>
             </xsl:if>
             <xsl:if test="@normal">
-                <rico:normalizedDateValue>
+                <rico:normalizedValue>
                     <xsl:value-of select="@normal"/>
-                </rico:normalizedDateValue>
+                </rico:normalizedValue>
             </xsl:if>
             <xsl:if test="@type">
                 <xsl:call-template name="set-datetype">
@@ -122,7 +122,7 @@
                 </xsl:call-template>
             </xsl:if>
         </rico:Date>
-    </rico:hasCreationDate>
+    </rico:hasAccumulationDate>
 </xsl:template>
 
 <xsl:template match="ead:unitid[string(.)]">

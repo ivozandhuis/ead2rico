@@ -23,19 +23,19 @@
                     <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
                 </xsl:call-template>
             </xsl:if>
-            <rico:hasOrHadAgentName>
-                <rico:AgentName>
+            <rico:hasOrHadName>
+                <rico:Name>
                     <rico:textualValue>
                         <xsl:value-of select="normalize-space(.)"/>
                     </rico:textualValue>
-                </rico:AgentName>
-            </rico:hasOrHadAgentName>
+                </rico:Name>
+            </rico:hasOrHadName>
         </rico:CorporateBody>
     </rico:hasOrHasSubject>
 </xsl:template>
 
 <xsl:template match="ead:origination/ead:corpname">
-    <rico:hasProvenance>
+    <rico:hasOrganicProvenance>
         <rico:CorporateBody>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -43,15 +43,15 @@
                     <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
                 </xsl:call-template>
             </xsl:if>
-            <rico:hasOrHadAgentName>
-                <rico:AgentName>
+            <rico:hasOrHadName>
+                <rico:Name>
                     <rico:textualValue>
                         <xsl:value-of select="normalize-space(.)"/>
                     </rico:textualValue>
-                </rico:AgentName>
-            </rico:hasOrHadAgentName>
+                </rico:Name>
+            </rico:hasOrHadName>
         </rico:CorporateBody>
-    </rico:hasProvenance>
+    </rico:hasOrganicProvenance>
 </xsl:template>
 
 
@@ -64,20 +64,20 @@
                     <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
                 </xsl:call-template>
             </xsl:if>
-            <rico:hasOrHadAgentName>
-                <rico:AgentName>
+            <rico:hasOrHadName>
+                <rico:Name>
                     <rico:textualValue>
                         <xsl:value-of select="normalize-space(.)"/>
                     </rico:textualValue>
-                </rico:AgentName>
-            </rico:hasOrHadAgentName>
+                </rico:Name>
+            </rico:hasOrHadName>
         </rico:Family>
     </rico:hasOrHasSubject>
 </xsl:template>
 
 
 <xsl:template match="ead:origination/ead:famname">
-    <rico:hasProvenance>
+    <rico:hasOrganicProvenance>
         <rico:Family>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -85,15 +85,15 @@
                     <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
                 </xsl:call-template>
             </xsl:if>
-            <rico:hasOrHadAgentName>
-                <rico:AgentName>
+            <rico:hasOrHadName>
+                <rico:Name>
                     <rico:textualValue>
                         <xsl:value-of select="normalize-space(.)"/>
                     </rico:textualValue>
-                </rico:AgentName>
-            </rico:hasOrHadAgentName>
+                </rico:Name>
+            </rico:hasOrHadName>
         </rico:Family>
-    </rico:hasProvenance>
+    </rico:hasOrganicProvenance>
 </xsl:template>
 
 <xsl:template match="ead:function">
@@ -129,13 +129,13 @@
                     <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
                 </xsl:call-template>
             </xsl:if>
-            <rico:hasOrHadPlaceName>
-                <rico:PlaceName>
+            <rico:hasOrHadName>
+                <rico:Name>
                     <rico:textualValue>
                         <xsl:value-of select="normalize-space(.)"/>
                     </rico:textualValue>
-                </rico:PlaceName>
-            </rico:hasOrHadPlaceName>
+                </rico:Name>
+            </rico:hasOrHadName>
         </rico:Place>
     </rico:hasOrHasSubject>
 </xsl:template>
@@ -173,19 +173,19 @@
                     <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
                 </xsl:call-template>
             </xsl:if>
-            <rico:hasOrHadAgentName>
-                <rico:AgentName>
+            <rico:hasOrHadName>
+                <rico:Name>
                     <rico:textualValue>
                         <xsl:value-of select="normalize-space(.)"/>
                     </rico:textualValue>
-                </rico:AgentName>
-            </rico:hasOrHadAgentName>
+                </rico:Name>
+            </rico:hasOrHadName>
         </rico:Person>
     </rico:hasOrHasSubject>
 </xsl:template>
 
 <xsl:template match="ead:origination/ead:persname">
-    <rico:hasProvenance>
+    <rico:hasOrganicProvenance>
         <rico:Person>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -193,15 +193,15 @@
                     <xsl:with-param name="authfilenumber" select="@authfilenumber"/>
                 </xsl:call-template>
             </xsl:if>
-            <rico:hasOrHadAgentName>
-                <rico:AgentName>
+            <rico:hasOrHadName>
+                <rico:Name>
                     <rico:textualValue>
                         <xsl:value-of select="normalize-space(.)"/>
                     </rico:textualValue>
-                </rico:AgentName>
-            </rico:hasOrHadAgentName>
+                </rico:Name>
+            </rico:hasOrHadName>
         </rico:Person>
-    </rico:hasProvenance>
+    </rico:hasOrganicProvenance>
 </xsl:template>
 
 <xsl:template match="ead:subarea">

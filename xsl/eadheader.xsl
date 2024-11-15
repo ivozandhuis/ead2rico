@@ -25,28 +25,28 @@
                 <xsl:value-of select="$archId"/>
             </xsl:attribute>    
         </rico:describesOrDescribed>
-        <rico:hasDocumentaryFormType>
+        <rico:hasOrHadType>
             <xsl:attribute name="rdf:resource">
                 <xsl:text>https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid</xsl:text>
             </xsl:attribute>    
-        </rico:hasDocumentaryFormType>
+        </rico:hasOrHadType>
         <xsl:apply-templates/>
     </rico:Record>
 </xsl:template>
 
 
 <xsl:template match="ead:author">
-    <rico:hasAuthor>
+    <rico:hasCreator>
         <rico:Agent>
-            <rico:hasOrHadAgentName>
-                <rico:AgentName>
+            <rico:hasOrHadName>
+                <rico:Name>
                     <rico:textualValue>
                         <xsl:value-of select="normalize-space(.)"/>
                     </rico:textualValue>
-                </rico:AgentName>
-            </rico:hasOrHadAgentName>
+                </rico:Name>
+            </rico:hasOrHadName>
         </rico:Agent>
-    </rico:hasAuthor>
+    </rico:hasCreator>
 </xsl:template>
 
 
@@ -72,13 +72,13 @@
 <xsl:template match="ead:publicationstmt/ead:publisher">
     <rico:hasPublisher>
         <rico:Agent>
-            <rico:hasOrHadAgentName>
-                <rico:AgentName>
+            <rico:hasOrHadName>
+                <rico:Name>
                     <rico:textualValue>
                         <xsl:value-of select="normalize-space(.)"/>
                     </rico:textualValue>
-                </rico:AgentName>
-            </rico:hasOrHadAgentName>
+                </rico:Name>
+            </rico:hasOrHadName>
         </rico:Agent>
     </rico:hasPublisher>
 </xsl:template>
@@ -87,14 +87,14 @@
     <rico:hasPublicationDate>
         <rico:Date>
             <xsl:if test="text()">
-                <rico:expressedDate>
+                <rico:textualValue>
                     <xsl:value-of select="normalize-space(.)"/>
-                </rico:expressedDate>
+                </rico:textualValue>
             </xsl:if>
             <xsl:if test="@normal">
-                <rico:normalizedDateValue>
+                <rico:normalizedValue>
                     <xsl:value-of select="@normal"/>
-                </rico:normalizedDateValue>
+                </rico:normalizedValue>
             </xsl:if>
             <xsl:if test="@type">
                 <xsl:call-template name="set-datetype">

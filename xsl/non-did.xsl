@@ -89,11 +89,11 @@
                     ead:c10/ead:altformavail | 
                     ead:c11/ead:altformavail | 
                     ead:c12/ead:altformavail">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>
+    </rico:generalDescription>
 </xsl:template>
 
 <xsl:template match="ead:appraisal"/>
@@ -137,11 +137,11 @@
                     ead:c10/ead:bioghist | 
                     ead:c11/ead:bioghist | 
                     ead:c12/ead:bioghist">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>  
+    </rico:generalDescription>  
 </xsl:template>
 
 <xsl:template match="ead:controlaccess">
@@ -233,11 +233,11 @@
                     ead:c10/ead:odd | 
                     ead:c11/ead:odd | 
                     ead:c12/ead:odd">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>
+    </rico:generalDescription>
     <xsl:apply-templates select=".//ead:p/ead:corpname"/>
     <xsl:apply-templates select=".//ead:p/ead:famname"/>
     <xsl:apply-templates select=".//ead:p/ead:genreform"/>
@@ -284,11 +284,11 @@
                     ead:c10/ead:otherfindaid | 
                     ead:c11/ead:otherfindaid | 
                     ead:c12/ead:otherfindaid">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>
+    </rico:generalDescription>
 </xsl:template>
 
 <xsl:template match="ead:archdesc/ead:phystech | 
@@ -306,11 +306,11 @@
                     ead:c10/ead:phystech | 
                     ead:c11/ead:phystech | 
                     ead:c12/ead:phystech">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>
+    </rico:generalDescription>
 </xsl:template>
 
 <xsl:template match="ead:archdesc/ead:prefercite | 
@@ -328,11 +328,11 @@
                     ead:c10/ead:prefercite | 
                     ead:c11/ead:prefercite | 
                     ead:c12/ead:prefercite">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>
+    </rico:generalDescription>
 </xsl:template>
 
 <xsl:template match="ead:archdesc/ead:processinfo | 
@@ -379,11 +379,11 @@
                     ead:c10/ead:relatedmaterial | 
                     ead:c11/ead:relatedmaterial | 
                     ead:c12/ead:relatedmaterial">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>
+    </rico:generalDescription>
 </xsl:template>
 
 <xsl:template match="ead:archdesc/ead:scopecontent | 
@@ -430,11 +430,11 @@
                     ead:c10/ead:separatedmaterial | 
                     ead:c11/ead:separatedmaterial | 
                     ead:c12/ead:separatedmaterial">
-    <rico:descriptiveNote rdf:parseType="XMLLiteral">
+    <rico:generalDescription rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:descriptiveNote>
+    </rico:generalDescription>
 </xsl:template>
 
 <xsl:template match="ead:archdesc/ead:userestrict | 

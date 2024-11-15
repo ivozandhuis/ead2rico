@@ -1,25 +1,32 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
 
-<https://hdl.handle.net/10622/ARCH03404#30_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#29_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#30> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
+<https://hdl.handle.net/10622/ARCH03404#30> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#29> ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 map" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
+            rico:textualValue "Doos 8 Map 5" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "HOMOSOL 1985/19. 86 (lerarenopleiding)." ] ;
+    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#findingaid> a rico:Record ;
     rico:describesOrDescribed <https://hdl.handle.net/10622/ARCH03404> ;
-    rico:hasDocumentaryFormType <https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid> ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Archief Lesbisch Archief Utrecht ARCH.03404" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid> ;
     rico:hasPublisher [ a rico:Agent ;
-            rico:hasOrHadAgentName [ a rico:AgentName ;
+            rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "IISG (Collectie IHLIA)" ] ] .
 
 <http://id.loc.gov/vocabulary/iso639-2/dut> a rico:Language .
 
 <https://hdl.handle.net/10622/ARCH03404#1> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1982-1985." ] ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1982-1985." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -31,6 +38,7 @@
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#10> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#9> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -41,12 +49,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#10_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#9_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#10> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#11> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#10> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -57,12 +61,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#11_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#10_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#11> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#12> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#11> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -73,14 +73,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#12_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#11_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#12> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#13> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1982-1986." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#12> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1982-1986." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -91,14 +87,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#13_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#12_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#13> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#14> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1982." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#13> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1982." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -109,14 +101,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#14_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#13_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#14> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#15> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1982-1984." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#14> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1982-1984." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -127,14 +115,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#15_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#14_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#15> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#16> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1982." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#15> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1982." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 doos" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -145,12 +129,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#16_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#15_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#16> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#17> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#16> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 doos" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -161,14 +141,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#17_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#16_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#17> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#18> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1981." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#17> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1981." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -179,12 +155,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#18_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#17_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#18> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#19> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#18> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -195,16 +167,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#19_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#18_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#19> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
-<https://hdl.handle.net/10622/ARCH03404#1_proxy> a rico:Proxy ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#1> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#2> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#1> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -216,6 +180,7 @@
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
 <https://hdl.handle.net/10622/ARCH03404#20> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#19> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -226,12 +191,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#20_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#19_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#20> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#21> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#20> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -242,12 +203,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#21_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#20_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#21> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#22> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#21> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -258,12 +215,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#22_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#21_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#22> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#23> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#22> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -274,12 +227,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#23_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#22_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#23> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#24> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#23> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -290,12 +239,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#24_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#23_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#24> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#25> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#24> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -306,12 +251,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#25_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#24_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#25> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#26> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#25> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -322,12 +263,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#26_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#25_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#26> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#27> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#26> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -338,12 +275,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#27_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#26_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#27> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#28> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#27> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -354,12 +287,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#28_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#27_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#28> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#29> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#28> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -370,19 +299,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#29_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#28_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#29> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
-<https://hdl.handle.net/10622/ARCH03404#2_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#1_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#2> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#3> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1982-1985." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#2> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1982-1985." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -393,25 +313,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#30> a rico:RecordSet ;
-    rico:hasExtent [ a rico:Extent ;
-            rico:textualValue "1 map" ] ;
-    rico:hasOrHadIdentifier [ a rico:Identifier ;
-            rico:hasIdentifierType <https://example.com/standards/RiC/vocabularies/identifierTypes#05> ;
-            rico:textualValue "Doos 8 Map 5" ] ;
-    rico:hasOrHadTitle [ a rico:Title ;
-            rico:textualValue "HOMOSOL 1985/19. 86 (lerarenopleiding)." ] ;
-    rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
-    rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
-
-<https://hdl.handle.net/10622/ARCH03404#3_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#2_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#3> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#4> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1984." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#3> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1984." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -422,14 +327,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#4_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#3_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#4> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#5> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1983." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#4> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1983." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -440,12 +341,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#5_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#4_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#5> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#6> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#5> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -456,14 +353,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#6_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#5_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#6> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#7> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1983." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#6> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1983." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -474,12 +367,8 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#7_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#6_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#7> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#8> a rico:RecordSet ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#7> ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -490,14 +379,10 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#8_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#7_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#8> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404#9> a rico:RecordSet ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1983." ] ;
+    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#8> ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:textualValue "1983." ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "1 map" ] ;
     rico:hasOrHadIdentifier [ a rico:Identifier ;
@@ -508,35 +393,30 @@
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
-<https://hdl.handle.net/10622/ARCH03404#9_proxy> a rico:Proxy ;
-    rico:followsOrFollowed <https://hdl.handle.net/10622/ARCH03404#8_proxy> ;
-    rico:proxyFor <https://hdl.handle.net/10622/ARCH03404#9> ;
-    rico:proxyIn <https://hdl.handle.net/10622/ARCH03404> .
-
 <https://hdl.handle.net/10622/ARCH03404> a rico:RecordSet ;
     rico:conditionsOfAccess """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Raadpleging</html:head>
-            <html:p>Beperkt</html:p>
-            <html:p>Voor raadpleging is toestemming nodig van het IHLIA</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral ;
-    rico:descriptiveNote """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Aanbevolen citeerwijze</html:head>
-            <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute of Social History, Amsterdam</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral,
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Raadpleging</html:head>
+        <html:p>Beperkt</html:p>
+        <html:p>Voor raadpleging is toestemming nodig van het IHLIA</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Aanbevolen citeerwijze</html:head>
+        <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute of Social History, Amsterdam</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
         """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Biografie</html:head>
-            <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral ;
-    rico:hasCreationDate [ a rico:Date ;
-            rico:expressedDate "1982-1985" ;
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Biografie</html:head>
+        <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
             rico:hasDateType <https://example.com/standards/RiC/vocabularies/dateTypes#inclusive> ;
-            rico:normalizedDateValue "1982/1985" ] ;
+            rico:normalizedValue "1982/1985" ;
+            rico:textualValue "1982-1985" ] ;
     rico:hasExtent [ a rico:Extent ;
             rico:textualValue "0.72 Meters" ] ;
     rico:hasOrHadHolder "IISG (Collectie IHLIA)" ;
@@ -548,24 +428,24 @@
             rico:textualValue "Archief Lesbisch Archief Utrecht" ] ;
     rico:hasOrHasSubject [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Feminist movements/Women's movements" ] ],
+                    rico:textualValue "Archival material" ] ],
+        [ a rico:Place ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Netherlands" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Sexualities/LGBT movements" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Archival material" ] ],
-        [ a rico:Place ;
-            rico:hasOrHadPlaceName [ a rico:PlaceName ;
-                    rico:textualValue "Netherlands" ] ] ;
-    rico:hasProvenance [ a rico:CorporateBody ;
-            rico:hasOrHadAgentName [ a rico:AgentName ;
+                    rico:textualValue "Feminist movements/Women's movements" ] ] ;
+    rico:hasOrganicProvenance [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Lesbisch Archief Utrecht" ] ] ;
     rico:hasRecordSetType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
     rico:recordResourceStructure """
-         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
-            <html:head>Ordening</html:head>
-            <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).</html:p>
-         </html:div>
-      """^^rdf:XMLLiteral .
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Ordening</html:head>
+        <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral .
 
