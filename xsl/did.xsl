@@ -87,9 +87,11 @@
     <rico:hasOrHadLocation>
         <rico:Place>
             <rico:hasOrHadName>
-                <rico:textualValue>
-                    <xsl:value-of select="normalize-space(.)"/>
-                </rico:textualValue>
+                <rico:Name>
+                    <rico:textualValue>
+                        <xsl:value-of select="normalize-space(.)"/>
+                    </rico:textualValue>   
+                </rico:Name>
             </rico:hasOrHadName>
         </rico:Place>
     </rico:hasOrHadLocation>
