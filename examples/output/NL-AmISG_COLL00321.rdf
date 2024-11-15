@@ -1,7 +1,7 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rico="https://www.ica.org/standards/RiC/ontology#" xmlns:premis="http://www.loc.gov/premis/rdf/v3/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml/">
   <rico:Record rdf:about="https://hdl.handle.net/10622/COLL00321#findingaid">
     <rico:describesOrDescribed rdf:resource="https://hdl.handle.net/10622/COLL00321"/>
-    <rico:hasDocumentaryFormType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid"/>
+    <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid"/>
     <rico:hasOrHadTitle>
       <rico:Title>
         <rico:textualValue>Fonds Marxisme Uitgeverij Pegasus COLL.00321</rico:textualValue>
