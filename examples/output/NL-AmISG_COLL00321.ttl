@@ -10941,24 +10941,24 @@
     rico:hasOrHasSubject [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Culture, media and arts" ] ],
-        [ a rico:Place ;
+        [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "USSR (former)" ] ],
+                    rico:textualValue "Communist movements and parties" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Books" ] ],
-        [ a rico:Thing ;
+        [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
+                    rico:textualValue "CPN" ] ],
         [ a rico:Place ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Netherlands" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Communist movements and parties" ] ],
-        [ a rico:CorporateBody ;
+                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
+        [ a rico:Place ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "CPN" ] ],
+                    rico:textualValue "USSR (former)" ] ],
         <http://viaf.org/viaf/101787139>,
         <http://viaf.org/viaf/49228757>,
         <http://viaf.org/viaf/68928644>,

@@ -61,7 +61,17 @@
     <xsl:apply-templates/>
 </xsl:template>
 
-<xsl:template match="ead:langusage"/>
+<xsl:template match="ead:langusage">
+    <rico:hasOrHadLanguage>
+        <rico:Language>
+            <xsl:attribute name="rdf:about">
+                <xsl:text>http://id.loc.gov/vocabulary/iso639-2/</xsl:text>
+                <xsl:value-of select="ead:language/@langcode"/>
+            </xsl:attribute>            
+        </rico:Language>
+    </rico:hasOrHadLanguage>
+</xsl:template>
+
 <xsl:template match="ead:notestmt"/>
 <xsl:template match="ead:profiledesc"/>
 

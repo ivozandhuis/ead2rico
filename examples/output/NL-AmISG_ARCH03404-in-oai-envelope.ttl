@@ -488,15 +488,15 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Archief Lesbisch Archief Utrecht" ] ;
     rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
-    rico:hasOrHasSubject [ a rico:Thing ;
+    rico:hasOrHasSubject [ a rico:Place ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Netherlands" ] ],
+        [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Archival material" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Sexualities/LGBT movements" ] ],
-        [ a rico:Place ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Netherlands" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Feminist movements/Women's movements" ] ] ;

@@ -6467,2079 +6467,2079 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Julius Braunthal Papers" ] ;
     rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
-    rico:hasOrHasSubject [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Labor Committee to Release Imprisoned Trade Unionists and Democratic Socialists" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Krane, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Massee, J." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Poale Zion" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Brauer, M." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Verlag der Wiener Volksbuchhandlung" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Braunthal, Alfred" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Vogel, Hans" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hahner, J.E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Leighton, P." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Federation of Trade Unions" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ingersoll, F.J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lévy, Louis" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ernestine (Tini) Braunthal" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Silva, Colvin R. de" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Illner, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jemnitz, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Leichter, Otto" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Brandt, Willy" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hale, L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bruegel, J.W." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Children and Youth Aliyah Committee for Great Britain" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Brockway, Fenner" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "School of Slavonic and East European Studies" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Saran, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Solle, Z." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Battara, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Heinz, Karl" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Landauer, C." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Friedrich Adler" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wigham, J." ] ],
-        [ a rico:Person ;
+    rico:hasOrHasSubject [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Kluge, U." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sozialdemokratische Partei der Schweiz" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Partai Kommunist Indonesia" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Postal Telegraph and Telephone International" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Etudes et Documentation Internationales" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Reichenbach, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Steel, Anth." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Fondation del'Internationale Socialiste" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hannoversche Presse" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Centre for Contemporary Socialist Thought" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Watts, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Banning, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hentschel, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Stampfer, Friedrich" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "National Union of Tailors and Garment Workers" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Grimm, Robert" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Deutsche Akademie für Sprache und Dichtung" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hinden, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pontillon, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Schwarz, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Matteotti, Matteo" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Beier, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Aggarwala, R.N." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Levenberg, Sneier" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Schneider, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pinner, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Derndarsky, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hohenbalken, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sugar, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Natsir, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Middleton, L." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Socialist Forum" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Troy, Sam. Parker" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Tiden" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Janata" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jenschik, Ant." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nicolaevsky, Boris I." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Combate" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Dodge, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bung, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Neck, R." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Partha-Sarathi Gupta" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Praja Socialist Party" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jewish National Fund" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wheeler, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Schevenels, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mitchell, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Braun, I." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Deutscher, Isaak" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sokoll, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hill, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Weckerle-Geck, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Abramsky, C." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hrdlitschka, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Feuer, L.S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Holanbek, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Steiner, Senta G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Phillips, Morgan" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Yamaguchi, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Batelli, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Papanek, H." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Arani Verlags GmbH" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Perovic, P." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Institut Hjalmar Branting" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ausch, J." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Friedrich Ebert Stiftung" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gopalan, A.K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Strasser, Isa" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Internationaal Instituut voor Sociale Geschiedenis (I.I.S.G.)" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bush, S." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Movement for Colonial Freedom" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Misefari, Pia" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Löwe, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wagner, M." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialistische Internationale (S.I.)" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Levy, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gurland, A.R.L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rocker, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kautsky, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nebbot, A." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Verlag Jungbrunnen" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Haas, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kautsky, Benedikt" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jolis, A.E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sarkar, C." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Joint Palestine Appeal" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Blum, M.E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rothschild, J.A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sapir, Boris" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Suwirio" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Milford, Peter" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Papernik, O." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Eckert, Georg" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sjahruzak, Djohan" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Frederick Gustav Braunthal" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lazarsfeld, S." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Foreign Affairs" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "MacMillan and Co. Ltd." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Fromm, Erich" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Naphtali-Zarak, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Josephtal" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pogats, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Botz, G." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Editions du Seuil" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gleissberg, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Merchav, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Donneur, A.P." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Europe Left" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ulitz, E." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Labour and Socialist International (L.S.I.)" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "League for Industrial Democracy" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Thomas Otto Braunthal" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Halasi, A.B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ungar, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Zander, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pittermann, Bruno" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Vries, P. de" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Renner, Karl" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Daily Herald" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "S.P.Ö." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Voinea, Serban" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Naoroji, Khurshed A.D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "U Hla Aung" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Resampa, A." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Transport Workers' Federation" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jerusalem, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Goldschneider, P." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Confederation of Free Trade Unions" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gollancz, Victor" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Vannini, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Tougouchi, M." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mapai" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Riepl, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wodak, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Boberg, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bauer, Otto" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hannoversche Druck- und Verlags GmbH" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hacker, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kubowitzki, A. Leon" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Milton, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Koulisheff, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Weinroth, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Moratt, S.H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Seitz, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Koerner, Th." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bund Verlag GmbH" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Schroth, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bolle, M.C." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Eichler, Willi" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Institute of International Labor Research Inc." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Thomas Nelson and Sons Ltd." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Heine, Friedrich" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ackermann, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Montani, D. Ambrosio" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Anders, K." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sozialdemokratische Partei Deutschlands" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Aa, H." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Geist und Tat" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ernestine (Tini) Gernreich" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Probst, Otto" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Balabanoff, Angelica" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rosenbach, N." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nuffield College" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kautsky, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Spitz, L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Maisel, Karl" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Postgate, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nimal Karuwatillake" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Carlebach, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nedzynski, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Cole, Margaret" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Verlag Chmielorz GmbH" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hornik, L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hirsch, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ciolkosz, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lall, J." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Indian Committee for Cultural Freedom" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jaksch, Wenzel" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "National Council of Labour Colleges" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Europäische Perspektiven" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Azzaroni, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rosdolsky, Emmy" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Robert Grimm" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mann, Heinrich" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Erlander, Tage Fritjof" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Archival material" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Engle, J.B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bax, A." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Verlag J.H.W. Dietz GmbH" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hitachdut" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hannak, Jacques" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Braunthal, H." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "B.B.C." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Speiser, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Steiner, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gottfurcht, Hans" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Philipp, Hans" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bibliographia Judaica" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sun Pao - Kang" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "S.P.Ö. Frauen Zentral Komitee" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mösslinger, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mons, R." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "World Campaign for the Release of South African Political Prisoners" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Boudin, L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Maitron, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Aspling, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ramanathan, D.R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Koulischer, G." ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Political prisoners/Political trials" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wilhelm, K." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Otto Wels-Gesellschaft" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kautsky, L." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sveriges Socialdemokratiska Arbetareparti" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bienenfeld, F.R." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Labour Party of England" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sozialistische Partei Oesterreichs" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hagen, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bracke, Alexandre" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Oschilewski, Walther G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lauterbach, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Helmer, Oskar" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Breit, V." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Harcavi, I." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "National Planning Association" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Weltweite Partnerschaft" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nicolinacos, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Livny, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lakenbacher, Ernst" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Julius Deutsch" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Times" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Schmidt-Küster, Gustav" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ebel, C." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Menon, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ragaz, C." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jewish Agency for Israel" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kollman, E.C." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Stojakovic, Milan" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bourdet, Y." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Labelle, D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Stolz, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Collick, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Antonioletti, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Heinz, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Stolper, T." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Buset, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ba Than" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Grimm, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Steuermann, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Károly, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bönisch, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Weltsch, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Eastwood, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Seoung Soo Kim" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Tribune" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Klein, O.G." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Haluan" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bor, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rosenbach, D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jerusalem, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sutherland" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Evalenko, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Brailsford, Henry Noel" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kreisky, Bruno" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Halperin, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Frank, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Waterlow, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Porges, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kautsky, J.M." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "World Federation of Trade Unions" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Khalaf, Abbas M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Abramovitch, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lebzeltern, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Clark, R.W." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Socialist Forum" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sozialistischer Club Griechenland" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bahne, Siegfried" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kilpatrick, W.H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pucciani, O." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Klenner, Fritz" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Adler, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Oprecht, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Massiczek, A." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Norske Arbeiderparti" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Barents, Joseph" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Backer Verlag" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Llopis, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ledebour" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Williams, Ph. M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Andréas, Bert" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Martin, Kingsley" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lamm, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Brügel, W." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Fackelträger Verlag" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "New Leader" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Magaziner, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Scholz, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Reiss, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Valiani, Leo" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "U.N.E.S.C.O." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Louis de Brouckère" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Thomson Publications Ltd." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kreuzer, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Paul, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nordahl" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Oficina Internacional del Trabajo" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Meier, Gabrielle" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Brahm, Heinz" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Labor Zionist Organization of America \"Poale Zion\"" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Barrie Group of Publishers" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Papanek, Ernst" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jewish Vanguard" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lohia, Rammanohar" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Janitschek, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Weichmann, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Heuss, E.L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Trotnow, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Singer, M." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Verein für Geschichte der Arbeiterbewegung" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bush, J." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Forum" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Arbeit und Wirtschaft" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mollet, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Beales, H.L." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist Party of Japan" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Asian Socialist Conference" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pacheco" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lavon, P." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist International" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Warmisham, E." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Ferrari, V." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Huhn, Willy" ] ],
+                    rico:textualValue "Janitschek, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pontillon, R." ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Narmadeshawar Prasad" ] ],
+                    rico:textualValue "Bibliographia Judaica" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Neubauer, H." ] ],
+                    rico:textualValue "Labelle, D." ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Leo Baeck Institute" ] ],
+                    rico:textualValue "Bund Verlag GmbH" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pittermann, Bruno" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Archival material" ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Miners' International Federation" ] ],
+                    rico:textualValue "Verlag Chmielorz GmbH" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Corsi, A." ] ],
+                    rico:textualValue "Pinner, H." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kwashi, N.A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kandiah, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Seitz, E." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "National Committee for Labor Israel" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sudeten Social Democratic Association" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hofbauer, Josef" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mattmüller-Keller, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kautsky, Karl" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nobs, R." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Buckhurst Hill Labour Party" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Florence, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bauer, Otto" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pick, W.J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Carthy, Albert E." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "COMISCO" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Reconstructionist" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Beauclerck, C." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mendelsohn, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Marty, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Meynell, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lakenbacher, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Korakas, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Silone, Ignazio" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Waeger-Adler, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Treves, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Adler, Friedrich" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Horrabin, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Winkler, Ernst" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Knoeringen, Waldemar von" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nuselovici-Moldavanu" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Laidler, H.W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kot, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nenni, Pietro" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Cole, G.D.H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Haralambiev, I." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Paasivirta, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Herlitzka, E.K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Thonet, H.M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Heusmann, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Frei, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hermes, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rischin, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Thomas, N." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Dan, L." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Konzentration GmbH" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sinclair, L.J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lichtheim, George" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Zeisel, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Knöpfmacher, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Golan, C." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sidorsky, D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Luza, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Braunthal, Fred" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mayer, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Collins, H." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bund Archives of the Jewish Labor Movement" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Harold Laski" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gaitskell, Hugh" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hirsch, Hans en Bettina" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Maleta, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Weitzman, D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kandler, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mukkerji, Partha A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "U Kyaw Nyein" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Jochmann, Rosa" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hoegger, R." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "John Clark Memorial Fund" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Posch, Fr." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Goldmann, H.F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Cemach, Alexander I." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Waldbrunner, Karl" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Abramovič, Rafail" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Vereinigung Deutscher Sozialdemokraten in Grossbritannien" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Partai Nasional Indonesia" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kautsky, Bettina" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bauer, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bracht" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Schiavi, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Elliot, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Blase, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Baratz, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rosmer, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Narayan, Jayaprakash" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Day, Alan" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Israel Labour Party" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Proft, G." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Communist Party of India" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Healy, Denis" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Keller, F.O." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Thankin Chit Maung" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Price, H.H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hertz, Paul" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Treves, L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Blit, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Solari, J.A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Harper, O." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lemberger, Ernst" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Becu, O." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Richter, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Huysmans, Camille" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Fabian Society" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lanzer, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Eisner, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bellamy, J.M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Veitch, S.O." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Codignola, T." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "News of the World Ltd." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Frank, L." ] ],
-        [ a rico:Place ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Austria" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mayer, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sagher, Mobarak" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bargil, M." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Statesman" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Glagov, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Millar, Chr." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kommunistische Partei Oesterreichs" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Volman, S." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "National Union of Mineworkers" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Thank You Britain\" Fund" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Thomas, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Das, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hodges, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Watson, S." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nuova Italia Editrice" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Meier, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Flesch, F." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Social Democratic Party of Japan" ] ],
+                    rico:textualValue "Ba Than" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Grossmann, S." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "I.I.S.G." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist Courier" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Karnik, V.B." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist Union of Central Eastern Europe" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Deutsch, Julius" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Piperger, Alois" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gulick, Charles A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Adler, D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sweet, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Schwartz, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Cole, H.T.D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rüter, A.J.C." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Held, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Deutschkron, I." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rubel, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wiebe" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Scherer" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ford, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Miller, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nagy, B." ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Exiles/Political refugees" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Braunthal, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Szur, L." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "American Committee for Cultural Freedom" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Voinea, E." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Cambridge University Press" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Vladan, P.D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Waites, B.A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Koirala, B.P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Adler, Victor" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Maung Maung, U." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Humbert-Droz, J." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "British Museum" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Europa Verlags-AG" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Freeden, L.M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Norman Thomas" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Telegraf" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ellenbogen, Wilhelm" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Singhal, D.P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Møller, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ollenhauer, Erich" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Heidenheimer" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Barkatt, Reuven" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Plebs" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Andersen, Alsing" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rosenzweig, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Heuss, Theodor" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sturmthal, Adolf" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Union of Socialist Youth" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Internationaler Metallarbeiter Bund" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Otto Bauer" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Arbeiter Zeitung" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sprinzak, Joseph" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sozialgerichtsbarkeit" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Jewish Labor Bund" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Dekock, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ross Williamson, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Berlstein, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Adama van Scheltema, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Tober, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Löbe, Paul" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "New Socialist" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pollak, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Danneberg, Gertrud" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Beatrice Webb Trustees" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Saville, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Maier, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Naumann-Anders, H." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Internationale Graphische Föderation" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hoselitz, B.F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Larock, Victor" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Zofka, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gaitskell, D." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Partito Socialista Democratico Italiano" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Laski, F." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Blau, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Grumbach, Salomon" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Matoren, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sailer, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Damjanovic, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Vos, H." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Davar" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sharf, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pollak, Oskar" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Centre for Labour and Social Studies" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lewisohn, I." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Broido, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Estrin, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Braatoy, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Elias, A." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nest Verlag GmbH" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Körner, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lindbom, T." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "National Campaign for the Abolition of Capital Punishment" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Erben, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lie, Haakon" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kautsky Jr., Karl" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Faravelli, G." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rolland, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kawakami, T." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pollak, Marianne" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lévy, M.L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Speiser, Wolfgang" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Institut für Sozialgeschichte Braunschweig" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Younger, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Surrey Dane, W." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ausch, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Rosdolsky, Roman" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Marek, B." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Shils, Edward" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Neumann, F.L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Augsten, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kettler, E." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kleine Blatt" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wickremesinghe, C.E.L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pryce, R." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hoover Institution" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Cosmo Enterprises" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Haikar Haoved" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sastrosatomo, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Schiavi, L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Smejkal, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Haag, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Reventlow, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Lind, P." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Elstein, D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Korn, I." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hirsch, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Morsbach, A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gollancz, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Steinemann, E." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Middleton, James" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Social Democratic Federation of the U.S.A." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Mehta, Asoka" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Nobs, Ernst" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist International (S.I.)" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Ruijter, A. de" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Dokumentationsarchiv des Oesterreichischen Widerstandes" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Putzrath, Heinz" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Moortel, M. van de" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Allerdt, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Eggenberger, M." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist Affairs" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Parti Socialiste S.F.I.O." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wace, M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Segall, D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Stössinger, Felix" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sozialistische Jugend Deutschlands" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Harrison, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Joll, J." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Morgan, R." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Indian Council of World Affairs" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hook, S." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Millar, J.P.M." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wijono" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Adler, Victor" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Simecek, H." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Attlee, C.R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Adler, Friedrich" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Braun, Otto" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Victor Gollancz Ltd." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Adolph, H.J.L." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Leser, N." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Trade Secretariats" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sjahrir, Soetan" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist Party - Social Democratic Federation of New York City" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Segall, Fr." ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Society for Socialist Studies" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Pankhurst, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bruno Misèfari" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Freyh, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Costello, D." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Wirkner, R." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Loebar, K." ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Marold, P." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Almon, A." ] ],
+                    rico:textualValue "Wagner, M." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Schärf, Adolf" ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "International Federation of Textile Workers' Association" ] ],
+                    rico:textualValue "National Union of Tailors and Garment Workers" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mons, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gopalan, A.K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Cole, G.D.H." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Verlag Jungbrunnen" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mapai" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Parti Socialiste S.F.I.O." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Vogel, Hans" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bruegel, J.W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Halasi, A.B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sutherland" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lavon, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rüter, A.J.C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Surrey Dane, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Eichler, Willi" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Koulisheff, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Braunthal, Fred" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Livny, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rosdolsky, Roman" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Koerner, Th." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Forum" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Institut Hjalmar Branting" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Zofka, B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Trotnow, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Millar, J.P.M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kautsky, G." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Locker, Berl" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kandiah, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Smejkal, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sokoll, B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lebzeltern, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hirsch, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Codignola, T." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Thomas, F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lévy, M.L." ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "COMISCO" ] ],
-        [ a rico:Person ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gottschalk, A." ] ],
+                    rico:textualValue "Asian Socialist Conference" ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Trades Union Congress" ] ],
+                    rico:textualValue "Jewish Agency for Israel" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Kruk, J." ] ],
+                    rico:textualValue "Almon, A." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Bernard, Vilhelm" ] ],
+                    rico:textualValue "Mann, Heinrich" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "L'Etang, W.L." ] ],
+                    rico:textualValue "Wodak, W." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Gmür, F." ] ],
+                    rico:textualValue "Thomas, N." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Hine, R." ] ],
+                    rico:textualValue "Larock, Victor" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Werner, M.E." ] ],
+                    rico:textualValue "Faravelli, G." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist Courier" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Zoysa, M.P. de" ] ],
+                    rico:textualValue "Schiavi, A." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Schlossberg, J." ] ],
+                    rico:textualValue "Aspling, S." ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Thomas, T." ] ],
+                    rico:textualValue "Adler, Friedrich" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Blumenberg, Werner" ] ],
+                    rico:textualValue "Stojakovic, Milan" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Majdalani, N." ] ],
+                    rico:textualValue "Ruijter, A. de" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lind, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Grumbach, Salomon" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Eckert, Georg" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Korakas, M." ] ],
         [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Pedoman Perdjuangan Masjumi" ] ],
         [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Tofahrn, P." ] ] ;
+                    rico:textualValue "Papanek, H." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Cambridge University Press" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lazarsfeld, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Heinz, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Buset, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "U Kyaw Nyein" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Abramovič, Rafail" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Löbe, Paul" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hahner, J.E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lindbom, T." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Maisel, Karl" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Vries, P. de" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ellenbogen, Wilhelm" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mollet, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sjahruzak, Djohan" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Watson, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ragaz, C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sprinzak, Joseph" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lanzer, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hofbauer, Josef" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Reiss, A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Internationaler Metallarbeiter Bund" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist International" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Cole, Margaret" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Louis de Brouckère" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Communist Party of India" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Halperin, B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Adler, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Carlebach, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Treves, P." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "League for Industrial Democracy" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Freyh, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Middleton, James" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Thomas, T." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Laski, F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mayer, B." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Friedrich Ebert Stiftung" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "National Planning Association" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Marold, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Cole, H.T.D." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Leichter, Otto" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mukkerji, Partha A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Adler, Victor" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sozialgerichtsbarkeit" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nimal Karuwatillake" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Damjanovic, P." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Geist und Tat" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hoegger, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Naumann-Anders, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Posch, Fr." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Institute of International Labor Research Inc." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nebbot, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Singer, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Neubauer, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Spitz, L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Estrin, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Oprecht, H." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "John Clark Memorial Fund" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kot, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Reichenbach, B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Reventlow, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Etudes et Documentation Internationales" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kwashi, N.A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Knöpfmacher, H." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Partai Nasional Indonesia" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist Affairs" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Collick, P." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Miners' International Federation" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hirsch, H." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Joint Palestine Appeal" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Schevenels, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Neck, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "New Leader" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Labor Zionist Organization of America \"Poale Zion\"" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Helmer, Oskar" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sharf, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Leser, N." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Dodge, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Waldbrunner, Karl" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Klenner, Fritz" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sinclair, L.J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Collins, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Deutsch, Julius" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Segall, Fr." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Josephtal" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Probst, Otto" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sozialistischer Club Griechenland" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Shils, Edward" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Abramovitch, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bauer, Otto" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pryce, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Koulischer, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Eastwood, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Waites, B.A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Schwarz, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Movement for Colonial Freedom" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Miller, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Wickremesinghe, C.E.L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ciolkosz, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kautsky, J.M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Deutschkron, I." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Zoysa, M.P. de" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Weltsch, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hohenbalken, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Phillips, Morgan" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Segall, D." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ungar, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rischin, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Klein, O.G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bönisch, F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Blit, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bruno Misèfari" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Marty, A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "British Museum" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Huhn, Willy" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Thankin Chit Maung" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mösslinger, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Boudin, L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Silva, Colvin R. de" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sozialdemokratische Partei Deutschlands" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "U.N.E.S.C.O." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Blase, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "L'Etang, W.L." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Institut für Sozialgeschichte Braunschweig" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bellamy, J.M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Seitz, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lakenbacher, Ernst" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Harper, O." ] ],
+        [ a rico:Place ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Austria" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Montani, D. Ambrosio" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lakenbacher, P." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Federation of Trade Unions" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Blumenberg, Werner" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gleissberg, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Simecek, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Waterlow, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sarkar, C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Speiser, Wolfgang" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Fabian Society" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Jaksch, Wenzel" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Steinemann, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nobs, Ernst" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Landauer, C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Narayan, Jayaprakash" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Haag, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gottschalk, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Jerusalem, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Frei, B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ulitz, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Harrison, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Fondation del'Internationale Socialiste" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Konzentration GmbH" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kleine Blatt" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Andréas, Bert" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Brauer, M." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Europe Left" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Putzrath, Heinz" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "COMISCO" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Daily Herald" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Dekock, J." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Internationale Graphische Föderation" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Socialist Forum" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "News of the World Ltd." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Partha-Sarathi Gupta" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kruk, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ollenhauer, Erich" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Postal Telegraph and Telephone International" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Beier, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Saran, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Elias, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Freeden, L.M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Voinea, Serban" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gmür, F." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist Party - Social Democratic Federation of New York City" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Brockway, Fenner" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Boberg, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Clark, R.W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ernestine (Tini) Braunthal" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Steel, Anth." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Jerusalem, E." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Haikar Haoved" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Davar" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "U Hla Aung" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Reconstructionist" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Braunthal, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bauer, Otto" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Labour and Socialist International (L.S.I.)" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Society for Socialist Studies" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Steuermann, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nenni, Pietro" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sveriges Socialdemokratiska Arbetareparti" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ingersoll, F.J." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Statesman" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Horrabin, F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Stössinger, Felix" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Harold Laski" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Zander, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mayer, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pick, W.J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Costello, D." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Centre for Labour and Social Studies" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kautsky, M." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Praja Socialist Party" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Joll, J." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Thank You Britain\" Fund" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Florence, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Jewish National Fund" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rosenbach, N." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hannoversche Druck- und Verlags GmbH" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Maung Maung, U." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Indian Council of World Affairs" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Elliot, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Held, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Eisner, F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Azzaroni, B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Seitz, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ramanathan, D.R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Suwirio" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sapir, Boris" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Maleta, A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Arbeit und Wirtschaft" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Martin, Kingsley" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sugar, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kautsky, Benedikt" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pollak, W." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Combate" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sjahrir, Soetan" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Yamaguchi, F." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Internationaal Instituut voor Sociale Geschiedenis (I.I.S.G.)" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bor, M." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Tiden" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sozialistische Jugend Deutschlands" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Braatoy, B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Karnik, V.B." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Tribune" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Adler, Friedrich" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lie, Haakon" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "MacMillan and Co. Ltd." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Szur, L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Holanbek, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Werner, M.E." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "National Committee for Labor Israel" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bernard, Vilhelm" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Heuss, E.L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Berlstein, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kautsky, Karl" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pankhurst, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Warmisham, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mehta, Asoka" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gollancz, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Williams, Ph. M." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Plebs" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mattmüller-Keller, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Stampfer, Friedrich" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hill, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Anders, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Frank, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gurland, A.R.L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Vos, H." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Indian Committee for Cultural Freedom" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kreisky, Bruno" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "School of Slavonic and East European Studies" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ledebour" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Exiles/Political refugees" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Allerdt, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bracht" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gollancz, Victor" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ernestine (Tini) Gernreich" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Maitron, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Körner, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Wigham, J." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "American Committee for Cultural Freedom" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bax, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Breit, V." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Eggenberger, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Adolph, H.J.L." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Labour Party of England" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Herlitzka, E.K." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kommunistische Partei Oesterreichs" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Trade Secretariats" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Frank, L." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Federation of Textile Workers' Association" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Llopis, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Europa Verlags-AG" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Schlossberg, J." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Poale Zion" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Waeger-Adler, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Solari, J.A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Editions du Seuil" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Andersen, Alsing" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Brahm, Heinz" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Levy, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "New Socialist" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Natsir, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Watts, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ford, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Majdalani, N." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sastrosatomo, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hoselitz, B.F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lichtheim, George" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Banning, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Perovic, P." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Oficina Internacional del Trabajo" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kautsky Jr., Karl" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Feuer, L.S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Botz, G." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hitachdut" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Keller, F.O." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sailer, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bush, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ross Williamson, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Golan, C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hook, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Volman, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Solle, Z." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Milford, Peter" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Steiner, Senta G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gaitskell, D." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Magaziner, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Blau, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Papernik, O." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Singhal, D.P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gottfurcht, Hans" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Huysmans, Camille" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Laidler, H.W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Wijono" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Engle, J.B." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Jewish Vanguard" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Tober, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rubel, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nobs, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nicolinacos, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lohia, Rammanohar" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Union of Socialist Youth" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Merchav, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hentschel, F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Weinroth, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Erben, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Luza, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Vereinigung Deutscher Sozialdemokraten in Grossbritannien" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kautsky, Bettina" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Arbeiter Zeitung" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ackermann, M." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nest Verlag GmbH" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Janata" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Battara, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hine, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "World Campaign for the Release of South African Political Prisoners" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Evalenko, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hirsch, Hans en Bettina" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ebel, C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lauterbach, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Wilhelm, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Broido, E." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Buckhurst Hill Labour Party" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Otto Wels-Gesellschaft" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bargil, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pogats, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Grimm, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lall, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Speiser, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Proft, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hagen, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Philipp, Hans" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Meier, Gabrielle" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Valiani, Leo" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Postgate, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Goldschneider, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Schroth, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hodges, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rosmer, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nordahl" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Israel Labour Party" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Aa, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Zeisel, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Aggarwala, R.N." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Jolis, A.E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Oschilewski, Walther G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Balabanoff, Angelica" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "S.P.Ö." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Barkatt, Reuven" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bahne, Siegfried" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bourdet, Y." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "National Union of Mineworkers" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mitchell, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hertz, Paul" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Löwe, A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Beatrice Webb Trustees" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Fromm, Erich" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gulick, Charles A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "B.B.C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Wiebe" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Norman Thomas" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Weichmann, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bracke, Alexandre" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rosdolsky, Emmy" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Backer Verlag" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Telegraf" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Menon, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Millar, Chr." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ausch, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kawakami, T." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Socialist Forum" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Harcavi, I." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hoover Institution" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hannak, Jacques" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sun Pao - Kang" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Wace, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lévy, Louis" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Treves, L." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "I.I.S.G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Haralambiev, I." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Matteotti, Matteo" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Adler, Victor" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kollman, E.C." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Thomas Nelson and Sons Ltd." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lewisohn, I." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Paasivirta, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Adama van Scheltema, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Saville, J." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Victor Gollancz Ltd." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Milton, S." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sozialdemokratische Partei der Schweiz" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Troy, Sam. Parker" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Wirkner, R." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sozialistische Partei Oesterreichs" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Tofahrn, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Brandt, Willy" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Grimm, Robert" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Partai Kommunist Indonesia" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Dan, L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pucciani, O." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Strasser, Isa" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Haluan" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Price, H.H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Frederick Gustav Braunthal" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nedzynski, S." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Weltweite Partnerschaft" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "S.P.Ö. Frauen Zentral Komitee" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Julius Deutsch" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sudeten Social Democratic Association" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Levenberg, Sneier" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nuffield College" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Meynell, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Heuss, Theodor" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Veitch, S.O." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Deutsche Akademie für Sprache und Dichtung" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Steiner, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lemberger, Ernst" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Naoroji, Khurshed A.D." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Norske Arbeiderparti" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Batelli, F." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bund Archives of the Jewish Labor Movement" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Knoeringen, Waldemar von" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Naphtali-Zarak, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Braun, I." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Krane, J." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialistische Internationale (S.I.)" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Weitzman, D." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Winkler, Ernst" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Leo Baeck Institute" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Moratt, S.H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Day, Alan" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Brügel, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kautsky, L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Ausch, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Wheeler, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Khalaf, Abbas M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Lamm, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kreuzer, F." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Verein für Geschichte der Arbeiterbewegung" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sagher, Mobarak" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hrdlitschka, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Jenschik, Ant." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bolle, M.C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Massee, J." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist Union of Central Eastern Europe" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hannoversche Presse" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Becu, O." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Dokumentationsarchiv des Oesterreichischen Widerstandes" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nuselovici-Moldavanu" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Corsi, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Jochmann, Rosa" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Heusmann, R." ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Political prisoners/Political trials" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bung, H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Braun, Otto" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Danneberg, Gertrud" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Mendelsohn, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Leighton, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Resampa, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Otto Bauer" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Renner, Karl" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pollak, Marianne" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kandler, F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Seoung Soo Kim" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Tougouchi, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Weckerle-Geck, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kettler, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Riepl, H." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Fackelträger Verlag" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Illner, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Massiczek, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Schiavi, L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sidorsky, D." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Confederation of Free Trade Unions" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Misefari, Pia" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Verlag der Wiener Volksbuchhandlung" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hale, L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Schwartz, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Beales, H.L." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Times" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Flesch, F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hermes, G." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Social Democratic Party of Japan" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Stolper, T." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Koirala, B.P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Glagov, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Loebar, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Carthy, Albert E." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Europäische Perspektiven" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Voinea, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Heidenheimer" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Friedrich Adler" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Donneur, A.P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rosenzweig, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Younger, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Jemnitz, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Thomas Otto Braunthal" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Meier, E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Braunthal, Alfred" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Barrie Group of Publishers" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Matoren, S." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Károly, S." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Foreign Affairs" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Humbert-Droz, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Cemach, Alexander I." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Attlee, C.R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Baratz, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Neumann, F.L." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Thomson Publications Ltd." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Silone, Ignazio" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Robert Grimm" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Scholz, A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Children and Youth Aliyah Committee for Great Britain" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rocker, F." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Jewish Labor Bund" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Beauclerck, C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sweet, P." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hornik, L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Papanek, Ernst" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Antonioletti, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Møller, F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bush, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Vannini, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Marek, B." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "International Transport Workers' Federation" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nuova Italia Editrice" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Healy, Denis" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist Party of Japan" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist International (S.I.)" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Heine, Friedrich" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pacheco" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Narmadeshawar Prasad" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bienenfeld, F.R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Maier, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Porges, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Schmidt-Küster, Gustav" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Richter, A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Partito Socialista Democratico Italiano" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Piperger, Alois" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Vladan, P.D." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Labor Committee to Release Imprisoned Trade Unionists and Democratic Socialists" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Moortel, M. van de" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nagy, B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Deutscher, Isaak" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Trades Union Congress" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Stolz, G." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Heinz, Karl" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Abramsky, C." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Das, B." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Barents, Joseph" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Brailsford, Henry Noel" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Korn, I." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Verlag J.H.W. Dietz GmbH" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Braunthal, H." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Arani Verlags GmbH" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "COMISCO" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Middleton, L." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Thonet, H.M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kubowitzki, A. Leon" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Erlander, Tage Fritjof" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Haas, K." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rolland, H." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Cosmo Enterprises" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Bauer, J." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Elstein, D." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Pollak, Oskar" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sturmthal, Adolf" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rosenbach, D." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "National Campaign for the Abolition of Capital Punishment" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Social Democratic Federation of the U.S.A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Centre for Contemporary Socialist Thought" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "World Federation of Trade Unions" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Derndarsky, M." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Morgan, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Schneider, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Nicolaevsky, Boris I." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hinden, R." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Scherer" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Goldmann, H.F." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Blum, M.E." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Kilpatrick, W.H." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Gaitskell, Hugh" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Hacker, W." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Adler, D." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Augsten, A." ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "National Council of Labour Colleges" ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Rothschild, J.A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Morsbach, A." ] ],
+        [ a rico:Person ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Paul, E." ] ] ;
     rico:hasOrganicProvenance [ a rico:Person ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Braunthal, Julius" ] ] ;
