@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- patch: remove reference to nationaalarchief.nl-->
+<!--DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.nationaalarchief.nl/collectie/ead/ead.dtd"-->
+<ead audience="external" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="NL" mainagencycode="NL-AsdNIOD">822</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Van Voerst van Lynden, S.W.A.</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies</publisher>
+        <date calendar="gregorian" era="ce" normal="2016">2016</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>
+        <language langcode="dut">Nederlands</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds" type="inventory">
+    <did id="MF1154848">
+      <unittitle>Van Voerst van Lynden, S.W.A.</unittitle>
+      <unitid countrycode="NL" repositorycode="NL-AsdNIOD">822</unitid>
+      <note label="#guid">
+        <p/>
+      </note>
+      <unitdate calendar="gregorian" era="ce" normal="1937/2004">1937-2004</unitdate>
+      <note label="Over het archief">
+        <p>Samuel Willem Alexander baron van Voerst van Lynden (1904-?) was tijdens de bezetting burgemeester van Gramsbergen. Hij was betrokken bij diverse verzetsactiviteiten, zoals het vervalsen van persoonsbewijzen en verleende hij met zijn echtgenote onderdak aanj ontsnapte Franse krijgsgevangen. Na zijn arrestatie begin 1945 werd hij in maart op transport gesteld naar Neuengamme. Sindsdien is niets meer van hem vernomen.</p>
+      </note>
+      <note label="Openbaarheid">
+        <p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</p>
+      </note>
+      <physdesc>0.4 meter (14 nummers)</physdesc>
+    </did>
+    <controlaccess>
+      <controlaccess>
+        <head>Trefwoorden</head>
+        <subject>Tweede Wereldoorlog</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Categorie</head>
+        <subject>Families en Personen</subject>
+      </controlaccess>
+    </controlaccess>
+    <odd>
+      <odd>
+        <head><![CDATA[Literatuur]]></head>
+        <p><![CDATA[Voor vervolgonderzoek raadplege men de volgende literatuur.]]></p>
+        <odd>
+          <head><![CDATA[Literatuur]]></head>
+          <p><![CDATA[Quarles van Ufford, Jacqueline, ]]><![CDATA[Liefste, wij zijn op reis]]><![CDATA[ (Zutphen 2005) blz. 286]]></p>
+        </odd>
+        <odd>
+          <head><![CDATA[Verwante literatuur]]></head>
+          <p><![CDATA[Benz, Wolfgang; Distel, Barbara; Königseder, Angelika, ]]><![CDATA[Der Ort des Terrors: Geschichte der nationalsozialistischen Konzentrationslager]]><![CDATA[ deel V: Hinzert, Auschwitz, Neuengamme (München 2007) blz. 591]]></p>
+          <p><![CDATA[Kaienburg, Hermann, ]]><![CDATA[Das Konzentrationslager Neuengamme 1938-1945 ]]><![CDATA[ (Bonn 1997) blz. 368]]></p>
+          <p><![CDATA[Schuyf, Judith; Brinks, Monique, ]]><![CDATA[Nederlanders in Neuengamme: de ervaringen van ruim 5500 Nederlanders in een Duits concentratiekamp, 1940-1945]]><![CDATA[ (Zaltbommel 2005) blz. 464]]></p>
+        </odd>
+      </odd>
+    </odd>
+    <descgrp type="context">
+      <head><![CDATA[Inleiding]]></head>
+      <odd type="unittitle">
+        <head><![CDATA[titel archief]]></head>
+        <p><![CDATA[Archief van S.W.A. van Voerst van Lynden]]></p>
+      </odd>
+      <odd type="origination">
+        <head><![CDATA[archiefvormer]]></head>
+        <p><![CDATA[Het archief gevormd door mr. S.W.A. baron van Voerst van Lynden, zijn echtgenote jonkvrouwe Johanna de Beaufort en hun kinderen en een van hun kleindochters.]]></p>
+      </odd>
+      <odd type="physdesc">
+        <head><![CDATA[omvang]]></head>
+        <p><![CDATA[0.4 meter (14 nummers)]]></p>
+      </odd>
+      <prefercite>
+        <head><![CDATA[citeer en aanvraaginstructie]]></head>
+        <p><![CDATA[Archiefstukken uit dit archief kunnen in de studiezaal van het NIOD worden aangevraagd onder vermelding van: archief 822, inv.no. ...]]></p>
+        <p><![CDATA[Bij het citeren in annotatie en verantwoording dient het archief tenminste eenmaal volledig en zonder afkortingen te worden vermeld. Daarna volstaat een verkorte aanhaling:]]></p>
+        <p>
+          <emph render="underline"><![CDATA[volledig:]]></emph><![CDATA[ Nederlands Instituut voor Oorlogsdocumentatie, Amsterdam, archief van S.W.A. van Voerst van Lynden, inv.no. ...]]>
+        </p>
+        <p>
+          <emph render="underline"><![CDATA[verkort:]]></emph><![CDATA[ NIOD, archief 822, Voerst van Lynden, inv.no. ...]]>
+        </p>
+      </prefercite>
+      <custodhist>
+        <head><![CDATA[periode van ontstaan]]></head>
+        <p><![CDATA[Het archief is gevormd in de periode 1937-2004.]]></p>
+      </custodhist>
+      <custodhist>
+        <head><![CDATA[beheersgeschiedenis/overbrenging naar het NIOD]]></head>
+        <p><![CDATA[Het archief is in 2007 geschonken aan het NIOD.]]></p>
+      </custodhist>
+      <scopecontent>
+        <head><![CDATA[aard van de archiefbestanddelen]]></head>
+        <p><![CDATA[Het archief bestaat voornamelijk uit correspondentie. Dit zijn in de eerste plaats de brieven die Van Voerst van Lynden en zijn vrouw De Beaufort aan elkaar schreven. Verder is er in het archief ook correspondentie te vinden tussen hun beider familieleden, vrienden en kennissen, alsmede de briefwisselingen die De Beaufort had met ex-gevangenen en opsporingsinstanties na de oorlog. Het archief bevat tevens documentatie die de beschreven gebeurtenissen in de correspondentie ondersteunt. Tot slot bevat het archief vanaf 1988, het jaar dat De Beaufort kwam te overlijden, correspondentie en onderzoeksmateriaal van de dochters en een van de kleindochters van Van Voerst van Lynden.]]></p>
+      </scopecontent>
+      <arrangement>
+        <head><![CDATA[ordening van de archiefbestanddelen]]></head>
+        <p><![CDATA[Het materiaal is chronologisch geordend.]]></p>
+      </arrangement>
+      <appraisal>
+        <head><![CDATA[selectie, vernietiging en bewerking]]></head>
+        <p><![CDATA[Na ontvangst door het NIOD zijn de doubletten vernietigd tijdens de bewerking van het archief.]]></p>
+      </appraisal>
+      <accruals>
+        <head><![CDATA[aanvullingen]]></head>
+        <p><![CDATA[Aanvullingen worden niet verwacht.]]></p>
+      </accruals>
+      <acqinfo>
+        <head><![CDATA[wettelijke status]]></head>
+        <p><![CDATA[Het archief is eigendom van het NIOD.]]></p>
+      </acqinfo>
+      <userestrict>
+        <head><![CDATA[reproductiebeperkingen]]></head>
+        <p><![CDATA[Behoudens de algemene regels die gelden voor het vermenigvuldigen van stukken gelden geen beperkingen voor de reproductie.]]></p>
+      </userestrict>
+      <odd type="langmaterial">
+        <head><![CDATA[taal van de archiefbescheiden]]></head>
+        <p><![CDATA[Het merendeel van de archiefstukken is Nederlandstalig.]]></p>
+      </odd>
+      <phystech>
+        <head><![CDATA[materiële staat]]></head>
+        <p><![CDATA[De materiële toestand van de archiefstukken verzet zich niet tegen gebruikelijke raadpleging van de originelen in de studiezaal van het NIOD.]]></p>
+      </phystech>
+      <processinfo>
+        <head><![CDATA[bewerking]]></head>
+        <p><![CDATA[De inventaris is in 2007 vervaardigd door Petra Links.]]></p>
+      </processinfo>
+    </descgrp>
+    <accessrestrict>
+      <head><![CDATA[Openbaarheid]]></head>
+      <p><![CDATA[Het archief is tot 2040 in zijn geheel beperkt openbaar. Het is slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. Vanaf 2040 is het archief in zijn geheel openbaar.]]></p>
+    </accessrestrict>
+    <bioghist>
+      <head><![CDATA[Levensloop]]></head>
+      <p><![CDATA[Mr. Samuel Willem Alexander baron van Voerst van Lynden werd geboren op 29 augustus 1904 te Ubbergen als zoon van Alexander Willem Frederik baron van Voerst van Lynden en jonkvrouwe Anna Bregitta van Westervelt Sandberg. Op 14 juni 1934 trad hij in het huwelijk met jonkvrouwe Johanna de Beaufort (1908-1988) en drie jaar later werd hun eerste van drie dochters geboren. Het gezin was woonachtig op het landgoed de Groote Scheere in Holthone, slechts enkele kilometers verwijderd van de stad Gramsbergen, waar Van Voerst van Lynden in 1939 een betrekking kreeg als burgemeester.]]></p>
+      <p><![CDATA[In zijn functie als burgemeester was Van Voerst van Lynden tijdens de Duitse bezetting betrokken bij diverse verzetsactiviteiten, zoals bijvoorbeeld het vervalsen van persoonsbewijzen. Daarnaast verleende het burgemeestersechtpaar hulp aan verschillende onderduikers. Zo hielpen zij ontsnapte Franse krijgsgevangen door hen onderdak te bieden op het landgoed. Op 14 oktober 1943 wordt Van Voerst van Lynden echter in de vroege morgen van zijn bed gelicht en meegenomen naar de gevangenis in Scheveningen. Na anderhalve maand van lange verhoren en vernederingen komt hij plotseling weer vrij en kan hij gewoon weer als burgemeester aan het werk. Over de aanleiding voor zijn arrestatie is nooit iets bekend geworden. In januari van 1945 gaat het weer fout. Er vindt een inval plaats op het gemeentehuis en Van Voerst van Lynden wordt samen met enkele andere medewerkers overgebracht naar de gevangenis in Zwolle. Ook ditmaal is de aanleiding voor zijn arrestatie niet bekend. Zijn vrouw doet verwoede pogingen om de Duitsers te bewegen hem ook dit keer weer vrij te laten, maar tevergeefs: op 17 maart wordt hij getransporteerd naar het concentratiekamp Neuengamme bij Hamburg. Vanaf dat moment heeft de familie nooit meer iets van hem gehoord.]]></p>
+      <p><![CDATA[Het leven van jonkvrouwe De Beaufort heeft sinds 1945 altijd in het teken gestaan van de zoektocht naar haar man. Vele instanties heeft zij aangeschreven en veel heeft zij gecorrespondeerd en gesproken met overlevenden uit Neuengamme die haar echtgenoot nog hebben gezien. Ook de drie dochters van Van Voerst van Lynden, en later ook hun kleindochter Jacqueline Quarles van Ufford, hebben veel onderzoek gedaan naar de verdwijning van hun vader c.q. grootvader. De correspondentie die uit deze zoektocht is voortgekomen vormt de kern van het archief.]]></p>
+    </bioghist>
+    <dsc type="combined">
+      <c01>
+        <did id="MF1154894">
+          <unitid type="guid"/>
+        </did>
+        <dsc type="othertype">
+          <p><![CDATA[<b>aanvraaginstructie</b><br/><br/>Archiefstukken uit dit archief kunnen in de studiezaal van het NIOD worden aangevraagd<br/>onder vermelding van: archief 822, inv.no. ...<br/>Het inventarisnummer is vermeld in numeriek oplopende volgorde,<br/>links naast de beschrijving van de stukken<br/>]]></p>
+        </dsc>
+      </c01>
+      <c01 level="otherlevel" otherlevel="filegrp">
+        <did id="MF1154921">
+          <unitid>1-14</unitid>
+          <unitid audience="internal" type="handle"/>
+          <unitid type="guid"/>
+          <unittitle>Correspondentie</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1937/2004">1937-2004.</unitdate>
+        </did>
+        <odd type="OPENBAARHEID">
+          <p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</p>
+        </odd>
+        <c02 level="file">
+          <did id="MF1154901">
+            <unitid>1</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1937</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1937"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154902">
+            <unitid>2</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1938</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1938"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154903">
+            <unitid>3</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1939</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1939"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154904">
+            <unitid>4</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1940</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1940"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154905">
+            <unitid>5</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1941</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1941"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154906">
+            <unitid>6</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1942</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1942"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154907">
+            <unitid>7</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1943</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1943"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154908">
+            <unitid>8</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1944</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1944"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+          <scopecontent>
+            <p>Bevat tevens een agenda van Agnès van Boetzelaer de Beaufort, de zus van Johanna de Beaufort</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154909">
+            <unitid>9</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1945, januari - augustus</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1945"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+          <scopecontent>
+            <p>Bevat tevens een dagboekje van Johanna de Beaufort, waarin zij schreef op de dag van haar huwelijk en in de bevrijdingsperiode</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154910">
+            <unitid>10</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1945, september - december</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1945"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+          <scopecontent>
+            <p>Bevat tevens  een ongedateerd rapport getiteld &apos;Report about the special mission of exploration concerning the concentration camp Neuengamme near Hamburg&apos;, opgesteld door de police-officer at Oostende</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154911">
+            <unitid>11</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1946-1949</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1946/1949"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154912">
+            <unitid>12</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1950-1959</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1950/1959"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154913">
+            <unitid>13</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1959-1991</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1959/1991"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p><![CDATA[Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. <br/>]]></p>
+          </odd>
+        </c02>
+        <c02 level="file">
+          <did id="MF1154914">
+            <unitid>14</unitid>
+            <unitid audience="internal" type="handle"/>
+            <unitid type="guid"/>
+            <unittitle>1989-2004</unittitle>
+            <unitdate calendar="gregorian" era="ce" normal="1989/2004"/>
+            <physdesc>1 omslag</physdesc>
+          </did>
+          <odd type="OPENBAARHEID">
+            <p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</p>
+          </odd>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

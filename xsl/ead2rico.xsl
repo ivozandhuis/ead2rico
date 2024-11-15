@@ -20,7 +20,8 @@
 <!--xsl:import href="archdesc_withproxy.xsl"/-->
 <xsl:import href="did.xsl"/>
 <xsl:import href="non-did.xsl"/>
-<xsl:import href="dao.xsl"/>
+<!--xsl:import href="dao.xsl"/-->
+<xsl:import href="dao-iish.xsl"/>
 <xsl:import href="names.xsl"/>
 <xsl:import href="textstruct.xsl"/>
 <xsl:import href="named-templates.xsl"/>

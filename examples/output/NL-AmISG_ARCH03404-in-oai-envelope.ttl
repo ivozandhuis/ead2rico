@@ -497,10 +497,10 @@
                     rico:textualValue "Netherlands" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Feminist movements/Women's movements" ] ],
+                    rico:textualValue "Archival material" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Archival material" ] ] ;
+                    rico:textualValue "Feminist movements/Women's movements" ] ] ;
     rico:hasOrganicProvenance [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Lesbisch Archief Utrecht" ] ] ;
