@@ -22,6 +22,9 @@
         <rico:normalizedValue>2016</rico:normalizedValue>
       </rico:Date>
     </rico:hasPublicationDate>
+    <rico:hasOrHadLanguage>
+      <rico:Language rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+    </rico:hasOrHadLanguage>
   </rico:Record>
   <rico:RecordSet rdf:about="https://www.archieven.nl/mi/298/?mivast=298&amp;micode=822">
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds"/>

@@ -73,7 +73,10 @@
 </xsl:template>
 
 <xsl:template match="ead:notestmt"/>
-<xsl:template match="ead:profiledesc"/>
+
+<xsl:template match="ead:profiledesc">
+    <xsl:apply-templates/>
+</xsl:template>
 
 <xsl:template match="ead:publicationstmt">
     <xsl:apply-templates/>

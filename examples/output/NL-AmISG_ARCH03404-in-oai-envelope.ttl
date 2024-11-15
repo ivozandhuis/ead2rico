@@ -17,14 +17,13 @@
 
 <https://hdl.handle.net/10622/ARCH03404#findingaid> a rico:Record ;
     rico:describesOrDescribed <https://hdl.handle.net/10622/ARCH03404> ;
+    rico:hasOrHadLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Archief Lesbisch Archief Utrecht ARCH.03404" ] ;
     rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid> ;
     rico:hasPublisher [ a rico:Agent ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "IISG (Collectie IHLIA)" ] ] .
-
-<http://id.loc.gov/vocabulary/iso639-2/dut> a rico:Language .
 
 <https://hdl.handle.net/10622/ARCH03404#1> a rico:RecordSet ;
     rico:hasAccumulationDate [ a rico:Date ;
@@ -453,6 +452,8 @@
     rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
     rico:isOrWasIncludedIn <https://hdl.handle.net/10622/ARCH03404> .
 
+<http://id.loc.gov/vocabulary/iso639-2/dut> a rico:Language .
+
 <https://hdl.handle.net/10622/ARCH03404> a rico:RecordSet ;
     rico:conditionsOfAccess """
       <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
@@ -488,18 +489,18 @@
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Archief Lesbisch Archief Utrecht" ] ;
     rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
-    rico:hasOrHasSubject [ a rico:Place ;
+    rico:hasOrHasSubject [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Sexualities/LGBT movements" ] ],
+        [ a rico:Place ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Netherlands" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Archival material" ] ],
+                    rico:textualValue "Feminist movements/Women's movements" ] ],
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Sexualities/LGBT movements" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Feminist movements/Women's movements" ] ] ;
+                    rico:textualValue "Archival material" ] ] ;
     rico:hasOrganicProvenance [ a rico:CorporateBody ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Lesbisch Archief Utrecht" ] ] ;

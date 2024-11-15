@@ -24,6 +24,7 @@
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#findingaid> a rico:Record ;
     rico:describesOrDescribed <https://www.archieven.nl/mi/298/?mivast=298&micode=822> ;
+    rico:hasOrHadLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
     rico:hasOrHadTitle [ a rico:Title ;
             rico:textualValue "Van Voerst van Lynden, S.W.A." ] ;
     rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid> ;
@@ -33,6 +34,8 @@
     rico:hasPublisher [ a rico:Agent ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies" ] ] .
+
+<http://id.loc.gov/vocabulary/iso639-2/dut> a rico:Language .
 
 <https://www.archieven.nl/mi/298/?mivast=298&micode=822#1> a rico:RecordSet ;
     rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .

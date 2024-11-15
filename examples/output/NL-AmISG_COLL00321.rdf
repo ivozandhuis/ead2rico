@@ -16,6 +16,9 @@
         </rico:hasOrHadName>
       </rico:Agent>
     </rico:hasPublisher>
+    <rico:hasOrHadLanguage>
+      <rico:Language rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+    </rico:hasOrHadLanguage>
   </rico:Record>
   <rico:RecordSet rdf:about="https://hdl.handle.net/10622/COLL00321">
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
