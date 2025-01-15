@@ -15,7 +15,7 @@
 <!-- templates for names of agents, places, subjects -->
 
 <xsl:template match="ead:controlaccess/ead:corpname | ead:p/ead:corpname | ead:unittitle/ead:corpname">
-    <rico:hasOrHasSubject>
+    <rico:hasOrHadSubject>
         <rico:CorporateBody>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -31,7 +31,7 @@
                 </rico:Name>
             </rico:hasOrHadName>
         </rico:CorporateBody>
-    </rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
 </xsl:template>
 
 <xsl:template match="ead:origination/ead:corpname">
@@ -56,7 +56,7 @@
 
 
 <xsl:template match="ead:controlaccess/ead:famname | ead:p/ead:famname | ead:unittitle/ead:famname">
-    <rico:hasOrHasSubject>
+    <rico:hasOrHadSubject>
         <rico:Family>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -72,7 +72,7 @@
                 </rico:Name>
             </rico:hasOrHadName>
         </rico:Family>
-    </rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
 </xsl:template>
 
 
@@ -101,7 +101,7 @@
 </xsl:template>
 
 <xsl:template match="ead:controlaccess/ead:genreform | ead:p/ead:genreform | ead:unittitle/ead:genreform">
-    <rico:hasOrHasSubject>
+    <rico:hasOrHadSubject>
         <rico:Thing>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -117,11 +117,11 @@
                 </rico:Name>
             </rico:hasOrHadName>
         </rico:Thing>
-    </rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
 </xsl:template>
 
 <xsl:template match="ead:controlaccess/ead:geogname | ead:p/ead:geogname | ead:unittitle/ead:geogname">
-    <rico:hasOrHasSubject>
+    <rico:hasOrHadSubject>
         <rico:Place>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -137,11 +137,11 @@
                 </rico:Name>
             </rico:hasOrHadName>
         </rico:Place>
-    </rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
 </xsl:template>
 
 <xsl:template match="ead:controlaccess/ead:name | ead:p/ead:name | ead:unittitle/ead:name">
-    <rico:hasOrHasSubject>
+    <rico:hasOrHadSubject>
         <rico:Thing>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -157,7 +157,7 @@
                 </rico:Name>
             </rico:hasOrHadName>
         </rico:Thing>
-    </rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
 </xsl:template>
 
 <xsl:template match="ead:occupation">
@@ -165,7 +165,7 @@
 </xsl:template>
 
 <xsl:template match="ead:controlaccess/ead:persname | ead:p/ead:persname | ead:unittitle/ead:persname">
-    <rico:hasOrHasSubject>
+    <rico:hasOrHadSubject>
         <rico:Person>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -181,7 +181,7 @@
                 </rico:Name>
             </rico:hasOrHadName>
         </rico:Person>
-    </rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
 </xsl:template>
 
 <xsl:template match="ead:origination/ead:persname">
@@ -209,7 +209,7 @@
 </xsl:template>
 
 <xsl:template match="ead:controlaccess/ead:subject | ead:p/ead:subject">
-    <rico:hasOrHasSubject>
+    <rico:hasOrHadSubject>
         <rico:Thing>
             <xsl:if test="@source and @authfilenumber">
                 <xsl:call-template name="set-authorityURI">
@@ -225,7 +225,7 @@
                 </rico:Name>
             </rico:hasOrHadName>
         </rico:Thing>
-    </rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
 </xsl:template>
 
 <xsl:template match="ead:title">
