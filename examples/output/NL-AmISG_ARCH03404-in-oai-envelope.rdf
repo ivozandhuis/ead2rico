@@ -1,6 +1,6 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rico="https://www.ica.org/standards/RiC/ontology#" xmlns:premis="http://www.loc.gov/premis/rdf/v3/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml/">
-  <rico:Record rdf:about="https://hdl.handle.net/10622/ARCH03404#findingaid">
-    <rico:describesOrDescribed rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+  <rico:Record rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#findingaid">
+    <rico:describesOrDescribed rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid"/>
     <rico:hasOrHadTitle>
       <rico:Title>
@@ -20,7 +20,7 @@
       <rico:Language rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut"/>
     </rico:hasOrHadLanguage>
   </rico:Record>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404">
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404">
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -84,7 +84,7 @@
         <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
       </html:div>
     </rico:generalDescription>
-    <rico:hasOrHasSubject>
+    <rico:hasOrHadSubject>
       <rico:Place>
         <rico:hasOrHadName>
           <rico:Name>
@@ -92,8 +92,8 @@
           </rico:Name>
         </rico:hasOrHadName>
       </rico:Place>
-    </rico:hasOrHasSubject>
-    <rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
+    <rico:hasOrHadSubject>
       <rico:Thing>
         <rico:hasOrHadName>
           <rico:Name>
@@ -101,8 +101,8 @@
           </rico:Name>
         </rico:hasOrHadName>
       </rico:Thing>
-    </rico:hasOrHasSubject>
-    <rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
+    <rico:hasOrHadSubject>
       <rico:Thing>
         <rico:hasOrHadName>
           <rico:Name>
@@ -110,8 +110,8 @@
           </rico:Name>
         </rico:hasOrHadName>
       </rico:Thing>
-    </rico:hasOrHasSubject>
-    <rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
+    <rico:hasOrHadSubject>
       <rico:Thing>
         <rico:hasOrHadName>
           <rico:Name>
@@ -119,7 +119,7 @@
           </rico:Name>
         </rico:hasOrHadName>
       </rico:Thing>
-    </rico:hasOrHasSubject>
+    </rico:hasOrHadSubject>
     <rico:generalDescription rdf:parseType="XMLLiteral">
       <html:div>
         <html:head>Aanbevolen citeerwijze</html:head>
@@ -127,8 +127,8 @@
       </html:div>
     </rico:generalDescription>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#1">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_1_Map_1">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -160,9 +160,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#2">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#1"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_1_Map_2">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -189,9 +189,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#3">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#2"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_1_Map_3">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -223,9 +223,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#4">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#3"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_1_Map_4">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -257,9 +257,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#5">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#4"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_2_Map_1">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -291,9 +291,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#6">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#5"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_2_Map_2">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -320,9 +320,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#7">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#6"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_2_Map_3">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -354,9 +354,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#8">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#7"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_2_Map_4">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -383,9 +383,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#9">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#8"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_2_Map_5">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -417,9 +417,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#10">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#9"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_3_Map_1">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -446,9 +446,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#11">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#10"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_3_Map_2">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -475,9 +475,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#12">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#11"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_3_Map_3">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -504,9 +504,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#13">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#12"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_3_Map_4">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -538,9 +538,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#14">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#13"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_3_Map_5">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -572,9 +572,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#15">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#14"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_3_Map_6">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -606,9 +606,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#16">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#15"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_4_Map_1">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -640,9 +640,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#17">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#16"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_5_Map_1">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -669,9 +669,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#18">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#17"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_6_Map_1">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -703,9 +703,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#19">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#18"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_6_Map_2">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -732,9 +732,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#20">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#19"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_6_Map_3">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -761,9 +761,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#21">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#20"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_6_Map_4">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -790,9 +790,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#22">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#21"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_7_Map_1">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -819,9 +819,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#23">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#22"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_7_Map_2">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -848,9 +848,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#24">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#23"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_7_Map_3">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -877,9 +877,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#25">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#24"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_7_Map_4">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -906,9 +906,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#26">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#25"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_8_Map_1">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -935,9 +935,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#27">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#26"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_8_Map_2">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -964,9 +964,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#28">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#27"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_8_Map_3">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -993,9 +993,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#29">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#28"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_8_Map_4">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>
@@ -1022,9 +1022,9 @@
       </rico:Title>
     </rico:hasOrHadTitle>
   </rico:RecordSet>
-  <rico:RecordSet rdf:about="https://hdl.handle.net/10622/ARCH03404#30">
-    <rico:isOrWasIncludedIn rdf:resource="https://hdl.handle.net/10622/ARCH03404"/>
-    <rico:followsOrFollowed rdf:resource="https://hdl.handle.net/10622/ARCH03404#29"/>
+  <rico:RecordSet rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404.Doos_8_Map_5">
+    <rico:isOrWasIncludedIn rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+    <rico:followsOrFollowed rdf:resource="https://iisg.amsterdam/id/recordresource/"/>
     <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
     <rico:hasOrHadIdentifier>
       <rico:Identifier>

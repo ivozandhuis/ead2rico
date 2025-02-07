@@ -4,10 +4,10 @@ from pathlib import Path
 import lxml.etree as etree
 import rdflib
 
-xslt = etree.parse("../xsl/ead2rico.xsl")
+xslt = etree.parse("../rico/xsl/ead2rico.xsl")
 executable = etree.XSLT(xslt)
 
-xsltOAI = etree.parse("../xsl/process-ead-in-oai-envelope.xsl")
+xsltOAI = etree.parse("../rico/xsl/process-ead-in-oai-envelope.xsl")
 executableOAI = etree.XSLT(xsltOAI)
 
 src_path = Path("input")

@@ -5,8 +5,8 @@ from saxonche import PySaxonProcessor
 import rdflib
 
 xsltproc = PySaxonProcessor(license=False).new_xslt30_processor()
-executable = xsltproc.compile_stylesheet(stylesheet_file="../xsl/ead2rico.xsl")
-executableOAI = xsltproc.compile_stylesheet(stylesheet_file="../xsl/process-ead-in-oai-envelope.xsl")
+executable = xsltproc.compile_stylesheet(stylesheet_file="../rico/xsl/ead2rico.xsl")
+executableOAI = xsltproc.compile_stylesheet(stylesheet_file="../rico/xsl/process-ead-in-oai-envelope.xsl")
 
 src_path = Path("input")
 for src_file in src_path.glob("**/*.xml"):
