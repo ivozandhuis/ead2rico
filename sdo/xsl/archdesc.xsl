@@ -4,8 +4,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-    xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
-    xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+    xmlns:sdo="https://schema.org/"
     xmlns:ead="urn:isbn:1-931666-22-9"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:html="http://www.w3.org/1999/xhtml/"
@@ -15,7 +14,7 @@
 <!-- templates for archdesc-components, looping hierarchy -->
 
 <xsl:template match="ead:archdesc | ead:archdescgrp">
-    <rico:RecordSet>
+    <sdo:ArchiveComponent>
         <xsl:attribute name="rdf:about">
             <xsl:value-of select="$baseUri"/>
             <xsl:value-of select="$archId"/>
@@ -52,7 +51,7 @@
         <xsl:apply-templates select="ead:scopecontent"/>
         <xsl:apply-templates select="ead:separatedmaterial"/>
         <xsl:apply-templates select="ead:userestrict"/>
-    </rico:RecordSet>
+    </sdo:ArchiveComponent>
     <xsl:apply-templates select="ead:dsc | ead:dscgrp"/>
 </xsl:template>
 
@@ -80,32 +79,20 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:variable>
-    <rico:RecordSet>
+    <sdo:ArchiveComponent>
         <xsl:attribute name="rdf:about">
             <xsl:value-of select="$baseUri"/>
             <xsl:value-of select="$id"/>
         </xsl:attribute>
-        <rico:isOrWasIncludedIn>
+        <sdo:isPartOf>
             <xsl:attribute name="rdf:resource">
                 <xsl:value-of select="$baseUri"/>
                 <xsl:value-of select="$archnr"/>
             </xsl:attribute>
-        </rico:isOrWasIncludedIn>
-        <xsl:if test="not(position() = 1)">
-            <rico:followsOrFollowed>
-                <xsl:attribute name="rdf:resource">
-                    <xsl:value-of select="$baseUri"/>
-                    <xsl:choose>
-                        <xsl:when test="$level = 'first'">
-                            <xsl:value-of select="concat(concat($archnr, '#'), position()-1)"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="concat(concat($archnr, '-'), position()-1)"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </xsl:attribute>
-            </rico:followsOrFollowed>  
-        </xsl:if>
+        </sdo:isPartOf>
+        <sdo:position>
+            <xsl:value-of select="position()"/>
+        </sdo:position>
         <xsl:call-template name="set-recordsettype">
             <xsl:with-param name="type" select="@level"/>
         </xsl:call-template>
@@ -138,7 +125,7 @@
         <xsl:apply-templates select="ead:scopecontent"/>
         <xsl:apply-templates select="ead:separatedmaterial"/>
         <xsl:apply-templates select="ead:userestrict"/>
-    </rico:RecordSet>
+    </sdo:ArchiveComponent>
     <xsl:apply-templates select="ead:c | ead:c01 | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12">
         <xsl:with-param name="archnr" select="$id"/>
     </xsl:apply-templates>

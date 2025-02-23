@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:html="http://www.w3.org/1999/xhtml/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+          xmlns:sdo="https://schema.org/"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404">
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">ARCH03404</sdo:identifier>
+      <sdo:inLanguage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+         <sdo:Language rdf:about="http://id.loc.gov/vocabulary/iso639-2/dut"/>
+      </sdo:inLanguage>
+      <sdo:creator>
+         <sdo:Organization>
+            <sdo:name>Lesbisch Archief Utrecht</sdo:name>
+         </sdo:Organization>
+      </sdo:creator>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">0.72 Meters</sdo:materialExtent>
+      <sdo:holdingArchive xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">IISG (Collectie IHLIA)</sdo:holdingArchive>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1982-1985</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Archief Lesbisch Archief Utrecht</sdo:name>
+      <sdo:conditionsOfAccess rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Raadpleging</html:head>
+            <html:p>Beperkt</html:p>
+            <html:p>Voor raadpleging is toestemming nodig van het IHLIA</html:p>
+         </html:div>
+      </sdo:conditionsOfAccess>
+      <sdo:description rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Ordening</html:head>
+            <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).</html:p>
+         </html:div>
+      </sdo:description>
+      <sdo:description rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Biografie</html:head>
+            <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
+         </html:div>
+      </sdo:description>
+      <sdo:about>
+         <sdo:Place>
+            <sdo:name>Netherlands</sdo:name>
+         </sdo:Place>
+      </sdo:about>
+      <sdo:about>
+         <sdo:Thing>
+            <sdo:name>Feminist movements/Women's movements</sdo:name>
+         </sdo:Thing>
+      </sdo:about>
+      <sdo:about>
+         <sdo:Thing>
+            <sdo:name>Sexualities/LGBT movements</sdo:name>
+         </sdo:Thing>
+      </sdo:about>
+      <sdo:about>
+         <sdo:Thing>
+            <sdo:name>Archival material</sdo:name>
+         </sdo:Thing>
+      </sdo:about>
+      <sdo:description rdf:parseType="XMLLiteral">
+         <html:div>
+            <html:head>Aanbevolen citeerwijze</html:head>
+            <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute of Social History, Amsterdam</html:p>
+         </html:div>
+      </sdo:description>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#1">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>1</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 1 Map 1</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1982-1985.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Correspondentie.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#2">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>2</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 1 Map 2</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Subsidie Gemeente Utrecht.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#3">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>3</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 1 Map 3</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1982-1985.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Statuten en financiele correspondentie.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#4">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>4</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 1 Map 4</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1984.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Subsidie provincie Utrecht 1985-1986. Kasboek 1982. Tentoonstellingscatalogus Betje Wolff en Aagje Deken.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#5">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>5</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 2 Map 1</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1983.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Correspondentie.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#6">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>6</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 2 Map 2</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Subsidie landelijk.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#7">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>7</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 2 Map 3</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1983.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Kantoor en publiciteit.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#8">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>8</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 2 Map 4</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Lola (landelijk overleg).</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#9">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>9</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 2 Map 5</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1983.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Fondsen Logboek 1982. id. 1984-1986. Agenda.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#10">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>10</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 3 Map 1</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Knipsels 1981. /'82.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#11">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>11</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 3 Map 2</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Moedervellen stencils.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#12">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>12</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 3 Map 3</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Diversen 1972-1978. (van Selma Coppers).</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#13">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>13</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 3 Map 4</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1982-1986.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Notulen c.a.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#14">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>14</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 3 Map 5</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1982.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Subsidie.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#15">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>15</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 3 Map 6</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1982-1984.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Diversen.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#16">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>16</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 4 Map 1</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 doos</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1982.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">los in de doos: Kasboek 1982-1984. 2x Logboek 1982-1984. Agenda 1982. , 1984-1986. Barboek 1977. (?) Adresboek Receptieboek Benefietfeest Kladschrift Nieuwsschrift Vrouwenstaking.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#17">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>17</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 5 Map 1</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 doos</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Lesbische Boekhandels en Nederlandse Archieven Discussieflappen (&amp;gt; 1981. ) Boeken: - Sprekend (teksten Lezingencyclus "Vrouwen en letteren" 1979. /'80) - De tweede golf 1973. ) - Beeld evenbeeld zelfbeeld (na 1976. ) - Peter Jaspers: De Enkeling 1985. ).</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#18">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>18</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 6 Map 1</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:temporalCoverage xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                             xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1981.</sdo:temporalCoverage>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Vrouwenstaking.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#19">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>19</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 6 Map 2</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Bibliotheek.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#20">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>20</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 6 Map 3</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Diversen.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#21">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>21</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 6 Map 4</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Vrouwenhuizen.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#22">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>22</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 7 Map 1</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Diversen.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#23">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>23</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 7 Map 2</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Lezingen e.d.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#24">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>24</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 7 Map 3</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Bestuursstukken.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#25">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>25</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 7 Map 4</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">foto's.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#26">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>26</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 8 Map 1</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Literatuur e.d.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#27">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>27</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 8 Map 2</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Nieuwsbrief.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#28">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>28</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 8 Map 3</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Post.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#29">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>29</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 8 Map 4</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Diversen.</sdo:name>
+   </sdo:ArchiveComponent>
+   <sdo:ArchiveComponent rdf:about="https://iisg.amsterdam/id/recordresource/ARCH03404#30">
+      <sdo:isPartOf rdf:resource="https://iisg.amsterdam/id/recordresource/ARCH03404"/>
+      <sdo:position>30</sdo:position>
+      <sdo:additionalType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File"/>
+      <sdo:identifier xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">Doos 8 Map 5</sdo:identifier>
+      <sdo:materialExtent xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                           xmlns:rico="https://www.ica.org/standards/RiC/ontology#">1 map</sdo:materialExtent>
+      <sdo:name xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">HOMOSOL 1985/19. 86 (lerarenopleiding).</sdo:name>
+   </sdo:ArchiveComponent>
+</rdf:RDF>

@@ -1,0 +1,300 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sdo: <https://schema.org/> .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#1> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 1 Map 1" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Correspondentie." ;
+    sdo:position "1" ;
+    sdo:temporalCoverage "1982-1985." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#10> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 3 Map 1" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Knipsels 1981. /'82." ;
+    sdo:position "10" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#11> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 3 Map 2" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Moedervellen stencils." ;
+    sdo:position "11" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#12> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 3 Map 3" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Diversen 1972-1978. (van Selma Coppers)." ;
+    sdo:position "12" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#13> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 3 Map 4" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Notulen c.a." ;
+    sdo:position "13" ;
+    sdo:temporalCoverage "1982-1986." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#14> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 3 Map 5" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Subsidie." ;
+    sdo:position "14" ;
+    sdo:temporalCoverage "1982." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#15> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 3 Map 6" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Diversen." ;
+    sdo:position "15" ;
+    sdo:temporalCoverage "1982-1984." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#16> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 4 Map 1" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 doos" ;
+    sdo:name "los in de doos: Kasboek 1982-1984. 2x Logboek 1982-1984. Agenda 1982. , 1984-1986. Barboek 1977. (?) Adresboek Receptieboek Benefietfeest Kladschrift Nieuwsschrift Vrouwenstaking." ;
+    sdo:position "16" ;
+    sdo:temporalCoverage "1982." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#17> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 5 Map 1" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 doos" ;
+    sdo:name "Lesbische Boekhandels en Nederlandse Archieven Discussieflappen (&gt; 1981. ) Boeken: - Sprekend (teksten Lezingencyclus \"Vrouwen en letteren\" 1979. /'80) - De tweede golf 1973. ) - Beeld evenbeeld zelfbeeld (na 1976. ) - Peter Jaspers: De Enkeling 1985. )." ;
+    sdo:position "17" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#18> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 6 Map 1" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Vrouwenstaking." ;
+    sdo:position "18" ;
+    sdo:temporalCoverage "1981." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#19> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 6 Map 2" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Bibliotheek." ;
+    sdo:position "19" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#2> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 1 Map 2" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Subsidie Gemeente Utrecht." ;
+    sdo:position "2" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#20> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 6 Map 3" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Diversen." ;
+    sdo:position "20" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#21> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 6 Map 4" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Vrouwenhuizen." ;
+    sdo:position "21" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#22> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 7 Map 1" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Diversen." ;
+    sdo:position "22" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#23> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 7 Map 2" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Lezingen e.d." ;
+    sdo:position "23" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#24> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 7 Map 3" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Bestuursstukken." ;
+    sdo:position "24" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#25> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 7 Map 4" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "foto's." ;
+    sdo:position "25" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#26> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 8 Map 1" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Literatuur e.d." ;
+    sdo:position "26" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#27> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 8 Map 2" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Nieuwsbrief." ;
+    sdo:position "27" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#28> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 8 Map 3" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Post." ;
+    sdo:position "28" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#29> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 8 Map 4" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Diversen." ;
+    sdo:position "29" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#3> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 1 Map 3" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Statuten en financiele correspondentie." ;
+    sdo:position "3" ;
+    sdo:temporalCoverage "1982-1985." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#30> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 8 Map 5" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "HOMOSOL 1985/19. 86 (lerarenopleiding)." ;
+    sdo:position "30" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#4> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 1 Map 4" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Subsidie provincie Utrecht 1985-1986. Kasboek 1982. Tentoonstellingscatalogus Betje Wolff en Aagje Deken." ;
+    sdo:position "4" ;
+    sdo:temporalCoverage "1984." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#5> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 2 Map 1" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Correspondentie." ;
+    sdo:position "5" ;
+    sdo:temporalCoverage "1983." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#6> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 2 Map 2" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Subsidie landelijk." ;
+    sdo:position "6" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#7> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 2 Map 3" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Kantoor en publiciteit." ;
+    sdo:position "7" ;
+    sdo:temporalCoverage "1983." .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#8> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 2 Map 4" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Lola (landelijk overleg)." ;
+    sdo:position "8" .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404#9> a sdo:ArchiveComponent ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    sdo:identifier "Doos 2 Map 5" ;
+    sdo:isPartOf <https://iisg.amsterdam/id/recordresource/ARCH03404> ;
+    sdo:materialExtent "1 map" ;
+    sdo:name "Fondsen Logboek 1982. id. 1984-1986. Agenda." ;
+    sdo:position "9" ;
+    sdo:temporalCoverage "1983." .
+
+<http://id.loc.gov/vocabulary/iso639-2/dut> a sdo:Language .
+
+<https://iisg.amsterdam/id/recordresource/ARCH03404> a sdo:ArchiveComponent ;
+    sdo:about [ a sdo:Place ;
+            sdo:name "Netherlands" ],
+        [ a sdo:Thing ;
+            sdo:name "Sexualities/LGBT movements" ],
+        [ a sdo:Thing ;
+            sdo:name "Feminist movements/Women's movements" ],
+        [ a sdo:Thing ;
+            sdo:name "Archival material" ] ;
+    sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
+    sdo:conditionsOfAccess """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Raadpleging</html:head>
+            <html:p>Beperkt</html:p>
+            <html:p>Voor raadpleging is toestemming nodig van het IHLIA</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral ;
+    sdo:creator [ a sdo:Organization ;
+            sdo:name "Lesbisch Archief Utrecht" ] ;
+    sdo:description """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Aanbevolen citeerwijze</html:head>
+            <html:p>Archief Lesbisch Archief Utrecht, inventory number ..., International Institute of Social History, Amsterdam</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Biografie</html:head>
+            <html:p>Het Lesbisch Archief Utrecht werd opgericht in 1982 met als doel de geschiedenis van het lesbische leven te achterhalen en in kaart te brengen. Het archief werd in 1990 opgeheven na de laatste drie jaar als slapend archief te hebben gefungeerd.</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral,
+        """
+         <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+            <html:head>Ordening</html:head>
+            <html:p>De lijst van dit archief is gemaakt door het IHLIA. De beschrijvingen zijn in het jaar 2012 door het IISG geconverteerd uit een interne database van het IHLIA (in Cardbox). Op de verpakking staan ook nog oude collectie-nummers van het IHLIA vermeld, met de codes PA (Persoons Archieven), OA (Organisatie Archieven) of TA (Thema Archieven).</html:p>
+         </html:div>
+      """^^rdf:XMLLiteral ;
+    sdo:holdingArchive "IISG (Collectie IHLIA)" ;
+    sdo:identifier "ARCH03404" ;
+    sdo:inLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
+    sdo:materialExtent "0.72 Meters" ;
+    sdo:name "Archief Lesbisch Archief Utrecht" ;
+    sdo:temporalCoverage "1982-1985" .
+

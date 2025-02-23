@@ -4,6 +4,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:sdo="https://schema.org/"
     xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
     xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
     xmlns:ead="urn:isbn:1-931666-22-9"
@@ -35,9 +36,9 @@
 </xsl:template>
 
 <xsl:template match="ead:abstract">
-    <rico:scopeAndContent>
+    <sdo:abstract>
         <xsl:value-of select="normalize-space(.)"/>
-    </rico:scopeAndContent>
+    </sdo:abstract>
 </xsl:template>
 
 <xsl:template match="ead:container"/>
@@ -45,136 +46,69 @@
 <xsl:template match="ead:extent"/> <!-- part of physdesc-->
 
 <xsl:template match="ead:langmaterial">
-    <rico:hasOrHadSomeMembersWithLanguage>
-        <rico:Language>
+    <sdo:inLanguage>
+        <sdo:Language>
             <xsl:attribute name="rdf:about">
                 <xsl:text>http://id.loc.gov/vocabulary/iso639-2/</xsl:text>
                 <xsl:value-of select="ead:language/@langcode"/>
             </xsl:attribute>            
-        </rico:Language>
-    </rico:hasOrHadSomeMembersWithLanguage>
+        </sdo:Language>
+    </sdo:inLanguage>
 </xsl:template>
 
 <xsl:template match="ead:materialspec"/>
 
 <xsl:template match="ead:did/ead:note">
-    <rico:generalDescription rdf:parseType="XMLLiteral">
+    <sdo:description rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:generalDescription>
+    </sdo:description>
 </xsl:template>
 
 <xsl:template match="ead:origination[text()]">
-    <rico:hasOrganicProvenance>
+    <sdo:creator>
         <xsl:value-of select="normalize-space(.)"/>
-    </rico:hasOrganicProvenance>
+    </sdo:creator>
 </xsl:template>
 
 <xsl:template match="ead:physdesc">
-    <rico:hasExtent>
-        <rico:Extent>
-            <rico:textualValue>
-                <xsl:value-of select="normalize-space(.)"/>
-            </rico:textualValue>
-        </rico:Extent>    
-    </rico:hasExtent>
+    <sdo:materialExtent>
+        <xsl:value-of select="normalize-space(.)"/>
+    </sdo:materialExtent>
 </xsl:template>
 
 <xsl:template match="ead:physfacet"/> <!-- part of physdesc-->
 
 <xsl:template match="ead:physloc">
-    <rico:hasOrHadLocation>
-        <rico:Place>
-            <rico:hasOrHadName>
-                <rico:Name>
-                    <rico:textualValue>
-                        <xsl:value-of select="normalize-space(.)"/>
-                    </rico:textualValue>   
-                </rico:Name>
-            </rico:hasOrHadName>
-        </rico:Place>
-    </rico:hasOrHadLocation>
+    <sdo:itemLocation>
+        <xsl:value-of select="normalize-space(.)"/>
+    </sdo:itemLocation>
 </xsl:template>
 
 <xsl:template match="ead:repository">
-    <rico:hasOrHadHolder>
+    <sdo:holdingArchive>
         <xsl:apply-templates/>
-    </rico:hasOrHadHolder>
+    </sdo:holdingArchive>
 </xsl:template>
 
 <xsl:template match="ead:unitdate">
-    <xsl:choose>
-        <xsl:when test="@type = 'bulk'">
-            <rico:hasOrHadMostMembersWithAccumulationDate>
-                <xsl:call-template name="build-date">
-                    <xsl:with-param name="text">
-                        <xsl:value-of select="text()"/>
-                    </xsl:with-param>            
-                    <xsl:with-param name="normal">
-                        <xsl:value-of select="@normal"/>
-                    </xsl:with-param>            
-                </xsl:call-template>
-            </rico:hasOrHadMostMembersWithAccumulationDate>
-        </xsl:when>
-        <xsl:when test="@type = 'inclusive'">
-            <rico:hasOrHadAllMembersWithAccumulationDate>
-                <xsl:call-template name="build-date">
-                    <xsl:with-param name="text">
-                        <xsl:value-of select="text()"/>
-                    </xsl:with-param>            
-                    <xsl:with-param name="normal">
-                        <xsl:value-of select="@normal"/>
-                    </xsl:with-param>            
-                </xsl:call-template>
-            </rico:hasOrHadAllMembersWithAccumulationDate>
-        </xsl:when>
-        <xsl:otherwise>
-            <rico:hasAccumulationDate>
-                <xsl:call-template name="build-date">
-                    <xsl:with-param name="text">
-                        <xsl:value-of select="text()"/>
-                    </xsl:with-param>            
-                    <xsl:with-param name="normal">
-                        <xsl:value-of select="@normal"/>
-                    </xsl:with-param>            
-                </xsl:call-template>
-            </rico:hasAccumulationDate>       
-        </xsl:otherwise>
-    </xsl:choose>
+    <!-- What to do with @normal?-->
+    <sdo:temporalCoverage>
+        <xsl:value-of select="text()"/>
+    </sdo:temporalCoverage>
 </xsl:template>
 
 <xsl:template match="ead:unitid[string(.)]">
-    <xsl:param name="type"/> <!-- type of the description (=did/@level)-->
-    <rico:hasOrHadIdentifier>
-        <rico:Identifier>
-            <rico:textualValue>
-                <xsl:value-of select="."/>
-            </rico:textualValue>
-            <xsl:call-template name="set-identifiertype">
-                <xsl:with-param name="type">
-                    <xsl:choose>
-                        <xsl:when test="@type">
-                            <xsl:value-of select="@type"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="$type"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </xsl:with-param>            
-            </xsl:call-template>
-        </rico:Identifier>
-    </rico:hasOrHadIdentifier>
+    <sdo:identifier>
+        <xsl:value-of select="."/>
+    </sdo:identifier>
 </xsl:template>
 
 <xsl:template match="ead:unittitle">
-    <rico:hasOrHadTitle>
-        <rico:Title>
-            <rico:textualValue>
-                <xsl:value-of select="normalize-space(.)"/>
-            </rico:textualValue>
-        </rico:Title>
-    </rico:hasOrHadTitle>
+    <sdo:name>
+        <xsl:value-of select="normalize-space(.)"/>
+    </sdo:name>
 </xsl:template>
 
 </xsl:stylesheet>

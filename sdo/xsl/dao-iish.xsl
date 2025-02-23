@@ -4,8 +4,8 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-    xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
-    xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+    xmlns:sdo="https://schema.org/"
+    xmlns:iisgv="https://iisg.amsterdam/vocab/"
     xmlns:ead="urn:isbn:1-931666-22-9"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:html="http://www.w3.org/1999/xhtml/"
@@ -13,11 +13,11 @@
 
 
 <xsl:template match="ead:daodesc">
-    <rico:generalDescription rdf:parseType="XMLLiteral">
+    <sdo:description rdf:parseType="XMLLiteral">
         <html:div>
             <xsl:apply-templates mode="text"/>
         </html:div>
-    </rico:generalDescription>
+    </sdo:description>
 </xsl:template>
 
 <xsl:template match="ead:daogrp">
@@ -27,32 +27,25 @@
 <xsl:template match="ead:dao | ead:daoloc">
     <xsl:choose>
         <xsl:when test="@xlink:label = 'catalog'">
-            <rico:isOrWasDescribedBy>
-                <rico:Record>
-                    <xsl:attribute name="rdf:about">
-                        <xsl:value-of select="@xlink:href"/>
-                    </xsl:attribute>
-                    <xsl:apply-templates select="ead:daodesc | ../ead:daodesc"/>
-                    <rico:hasOrHadType>
-                        <rico:Type rdf:about="http://vocab.getty.edu/aat/300264578"/>
-                    </rico:hasOrHadType>                  
-                </rico:Record>
-            </rico:isOrWasDescribedBy>
+            <iisgv:nativeViewer>
+                <xsl:attribute name="rdf:resource">
+                    <xsl:value-of select="@xlink:href"/>
+                </xsl:attribute>
+            </iisgv:nativeViewer>
         </xsl:when>
         <xsl:when test="@xlink:label = 'manifest'">
-            <rico:hasOrHadInstantiation>
-                <rico:Instantiation>
-                    <rico:isOrWasDescribedBy>
-                        <rico:Record>
-                            <xsl:attribute name="rdf:about">
-                                <xsl:value-of select="@xlink:href"/>
-                            </xsl:attribute>
-                            <rico:hasOrHadType rdf:resource="https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#iiif-manifest"/>
-                            <xsl:apply-templates select="ead:daodesc | ../ead:daodesc"/>
-                        </rico:Record>
-                    </rico:isOrWasDescribedBy>      
-                </rico:Instantiation>
-            </rico:hasOrHadInstantiation>
+            <sdo:contentUrl>
+                <xsl:attribute name="rdf:resource">
+                    <xsl:choose>
+                        <xsl:when test="@xlink:href">
+                            <xsl:value-of select="@xlink:href"/>
+                        </xsl:when>
+                        <xsl:when test="@href">
+                            <xsl:value-of select="@href"/>
+                        </xsl:when>
+                    </xsl:choose>
+                </xsl:attribute>
+            </sdo:contentUrl>
         </xsl:when>
     </xsl:choose>
 </xsl:template>

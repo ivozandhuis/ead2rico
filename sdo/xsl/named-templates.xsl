@@ -4,8 +4,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-    xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
-    xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+    xmlns:sdo="https://schema.org/"
     xmlns:ead="urn:isbn:1-931666-22-9"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:html="http://www.w3.org/1999/xhtml/"
@@ -17,44 +16,44 @@
     <xsl:param name="type"/>
     <xsl:choose>
         <xsl:when test="$type = 'fonds'">
-            <rico:hasOrHadType>
+            <sdo:additionalType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds</xsl:text>
                 </xsl:attribute>
-            </rico:hasOrHadType>
+            </sdo:additionalType>
         </xsl:when>
         <xsl:when test="$type = 'collection'">
-            <rico:hasOrHadType>
+            <sdo:additionalType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection</xsl:text>
                 </xsl:attribute>
-            </rico:hasOrHadType>
+            </sdo:additionalType>
         </xsl:when>
         <xsl:when test="$type = 'series'">
-            <rico:hasOrHadType>
+            <sdo:additionalType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Series</xsl:text>
                 </xsl:attribute>
-            </rico:hasOrHadType>
+            </sdo:additionalType>
         </xsl:when>
         <xsl:when test="$type = 'subseries'">
-            <rico:hasOrHadType>
+            <sdo:additionalType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Subseries</xsl:text>
                 </xsl:attribute>
-            </rico:hasOrHadType>
+            </sdo:additionalType>
         </xsl:when>
         <xsl:when test="$type = 'file'">
-            <rico:hasOrHadType>
+            <sdo:additionalType>
                 <xsl:attribute name="rdf:resource">
                     <xsl:text>https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File</xsl:text>
                 </xsl:attribute>
-            </rico:hasOrHadType>
+            </sdo:additionalType>
         </xsl:when>
     </xsl:choose>
 </xsl:template>
 
-<xsl:template name="set-identifiertype">
+<!--xsl:template name="set-identifiertype">
     <xsl:param name="type"/>
     <xsl:choose>
         <xsl:when test="$type = 'fonds'">
@@ -151,9 +150,9 @@
             </rico:hasOrHadType>
         </xsl:when>
     </xsl:choose>
-</xsl:template>
+</xsl:template-->
 
-<xsl:template name="build-date">
+<!--xsl:template name="build-date">
     <xsl:param name="text"/>
     <xsl:param name="normal"/>
     <rico:Date>
@@ -168,7 +167,7 @@
             </rico:normalizedValue>
         </xsl:if>
     </rico:Date>
-</xsl:template>
+</xsl:template-->
 
 <xsl:template name="set-authorityURI">
     <xsl:param name="source"/>

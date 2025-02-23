@@ -4,16 +4,17 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-    xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
-    xmlns:premis="http://www.loc.gov/premis/rdf/v3/"
+    xmlns:sdo="https://schema.org/"
     xmlns:ead="urn:isbn:1-931666-22-9"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:html="http://www.w3.org/1999/xhtml/"
     exclude-result-prefixes="xsl ead">
 
 
+<!-- We do not need to transform the data about the finding aid into schema.org -->
+
 <xsl:template match="ead:eadheader">
-    <rico:Record>
+    <!--rico:Record>
         <xsl:attribute name="rdf:about">
             <xsl:value-of select="$baseUri"/>
             <xsl:value-of select="$archId"/>
@@ -31,12 +32,12 @@
             </xsl:attribute>    
         </rico:hasOrHadType>
         <xsl:apply-templates/>
-    </rico:Record>
+    </rico:Record-->
 </xsl:template>
 
 
 <xsl:template match="ead:author">
-    <rico:hasCreator>
+    <!--rico:hasCreator>
         <rico:Agent>
             <rico:hasOrHadName>
                 <rico:Name>
@@ -46,7 +47,7 @@
                 </rico:Name>
             </rico:hasOrHadName>
         </rico:Agent>
-    </rico:hasCreator>
+    </rico:hasCreator-->
 </xsl:template>
 
 
@@ -62,14 +63,14 @@
 </xsl:template>
 
 <xsl:template match="ead:langusage">
-    <rico:hasOrHadLanguage>
+    <!--rico:hasOrHadLanguage>
         <rico:Language>
             <xsl:attribute name="rdf:about">
                 <xsl:text>http://id.loc.gov/vocabulary/iso639-2/</xsl:text>
                 <xsl:value-of select="ead:language/@langcode"/>
             </xsl:attribute>            
         </rico:Language>
-    </rico:hasOrHadLanguage>
+    </rico:hasOrHadLanguage-->
 </xsl:template>
 
 <xsl:template match="ead:notestmt"/>
@@ -83,7 +84,7 @@
 </xsl:template>
 
 <xsl:template match="ead:publicationstmt/ead:publisher">
-    <rico:hasPublisher>
+    <!--rico:hasPublisher>
         <rico:Agent>
             <rico:hasOrHadName>
                 <rico:Name>
@@ -93,11 +94,11 @@
                 </rico:Name>
             </rico:hasOrHadName>
         </rico:Agent>
-    </rico:hasPublisher>
+    </rico:hasPublisher-->
 </xsl:template>
 
 <xsl:template match="ead:publicationstmt/ead:date">
-    <rico:hasPublicationDate>
+    <!--rico:hasPublicationDate>
         <xsl:call-template name="build-date">
             <xsl:with-param name="text">
                 <xsl:value-of select="text()"/>
@@ -106,7 +107,7 @@
                 <xsl:value-of select="@normal"/>
             </xsl:with-param>            
         </xsl:call-template>
-    </rico:hasPublicationDate>
+    </rico:hasPublicationDate-->
 </xsl:template>
 
 <xsl:template match="ead:revisiondesc"/>
@@ -115,13 +116,13 @@
 <xsl:template match="ead:subtitle"/>
 
 <xsl:template match="ead:titleproper">
-    <rico:hasOrHadTitle>
+    <!--rico:hasOrHadTitle>
         <rico:Title>
             <rico:textualValue>
                 <xsl:value-of select="normalize-space(.)"/>
             </rico:textualValue>
         </rico:Title>
-    </rico:hasOrHadTitle>
+    </rico:hasOrHadTitle-->
 </xsl:template>
 
 <xsl:template match="ead:titlestmt">

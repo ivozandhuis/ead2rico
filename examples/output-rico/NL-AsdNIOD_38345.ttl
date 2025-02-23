@@ -1,0 +1,478 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-14> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-13> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1989/2004" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "14" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1989-2004" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#findingaid> a rico:Record ;
+    rico:describesOrDescribed <https://www.archieven.nl/mi/298/?mivast=298&micode=822> ;
+    rico:hasOrHadLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Van Voerst van Lynden, S.W.A." ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/documentaryFormTypes#FindingAid> ;
+    rico:hasPublicationDate [ a rico:Date ;
+            rico:normalizedValue "2016" ;
+            rico:textualValue "2016" ] ;
+    rico:hasPublisher [ a rico:Agent ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies" ] ] .
+
+<http://id.loc.gov/vocabulary/iso639-2/dut> a rico:Language .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#1> a rico:RecordSet ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-1> a rico:RecordSet ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1937" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "1" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1937" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-10> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-9> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1945" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "10" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1945, september - december" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
+    rico:scopeAndContent """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Bevat tevens  een ongedateerd rapport getiteld 'Report about the special mission of exploration concerning the concentration camp Neuengamme near Hamburg', opgesteld door de police-officer at Oostende</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-11> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-10> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1946/1949" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "11" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1946-1949" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-12> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-11> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1950/1959" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "12" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1950-1959" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-13> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-12> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1959/1991" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "13" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1959-1991" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-2> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-1> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1938" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "2" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1938" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-3> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-2> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1939" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "3" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1939" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-4> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-3> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1940" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "4" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1940" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-5> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-4> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1941" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "5" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1941" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-6> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-5> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1942" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "6" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1942" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-7> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-6> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1943" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "7" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1943" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-8> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-7> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1944" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "8" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1944" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
+    rico:scopeAndContent """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Bevat tevens een agenda van Agnès van Boetzelaer de Beaufort, de zus van Johanna de Beaufort</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-9> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2-8> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. &lt;br/&gt;</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1945" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "1 omslag" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummer" ] ] ;
+            rico:textualValue "9" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "1945, januari - augustus" ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#File> ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> ;
+    rico:scopeAndContent """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Bevat tevens een dagboekje van Johanna de Beaufort, waarin zij schreef op de dag van haar huwelijk en in de bevrijdingsperiode</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822> a rico:RecordSet ;
+    rico:conditionsOfAccess """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Openbaarheid</html:head>
+        <html:p>Het archief is tot 2040 in zijn geheel beperkt openbaar. Het is slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD. Vanaf 2040 is het archief in zijn geheel openbaar.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:conditionsOfUse """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>reproductiebeperkingen</html:head>
+        <html:p>Behoudens de algemene regels die gelden voor het vermenigvuldigen van stukken gelden geen beperkingen voor de reproductie.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:div>
+          <html:head>Literatuur</html:head>
+          <html:p>Voor vervolgonderzoek raadplege men de volgende literatuur.</html:p>
+          <html:div>
+            <html:head>Literatuur</html:head>
+            <html:p>Quarles van Ufford, Jacqueline, Liefste, wij zijn op reis (Zutphen 2005) blz. 286</html:p>
+          </html:div>
+          <html:div>
+            <html:head>Verwante literatuur</html:head>
+            <html:p>Benz, Wolfgang; Distel, Barbara; Königseder, Angelika, Der Ort des Terrors: Geschichte der nationalsozialistischen Konzentrationslager deel V: Hinzert, Auschwitz, Neuengamme (München 2007) blz. 591</html:p>
+            <html:p>Kaienburg, Hermann, Das Konzentrationslager Neuengamme 1938-1945  (Bonn 1997) blz. 368</html:p>
+            <html:p>Schuyf, Judith; Brinks, Monique, Nederlanders in Neuengamme: de ervaringen van ruim 5500 Nederlanders in een Duits concentratiekamp, 1940-1945 (Zaltbommel 2005) blz. 464</html:p>
+          </html:div>
+        </html:div>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>Levensloop</html:head>
+        <html:p>Mr. Samuel Willem Alexander baron van Voerst van Lynden werd geboren op 29 augustus 1904 te Ubbergen als zoon van Alexander Willem Frederik baron van Voerst van Lynden en jonkvrouwe Anna Bregitta van Westervelt Sandberg. Op 14 juni 1934 trad hij in het huwelijk met jonkvrouwe Johanna de Beaufort (1908-1988) en drie jaar later werd hun eerste van drie dochters geboren. Het gezin was woonachtig op het landgoed de Groote Scheere in Holthone, slechts enkele kilometers verwijderd van de stad Gramsbergen, waar Van Voerst van Lynden in 1939 een betrekking kreeg als burgemeester.</html:p>
+        <html:p>In zijn functie als burgemeester was Van Voerst van Lynden tijdens de Duitse bezetting betrokken bij diverse verzetsactiviteiten, zoals bijvoorbeeld het vervalsen van persoonsbewijzen. Daarnaast verleende het burgemeestersechtpaar hulp aan verschillende onderduikers. Zo hielpen zij ontsnapte Franse krijgsgevangen door hen onderdak te bieden op het landgoed. Op 14 oktober 1943 wordt Van Voerst van Lynden echter in de vroege morgen van zijn bed gelicht en meegenomen naar de gevangenis in Scheveningen. Na anderhalve maand van lange verhoren en vernederingen komt hij plotseling weer vrij en kan hij gewoon weer als burgemeester aan het werk. Over de aanleiding voor zijn arrestatie is nooit iets bekend geworden. In januari van 1945 gaat het weer fout. Er vindt een inval plaats op het gemeentehuis en Van Voerst van Lynden wordt samen met enkele andere medewerkers overgebracht naar de gevangenis in Zwolle. Ook ditmaal is de aanleiding voor zijn arrestatie niet bekend. Zijn vrouw doet verwoede pogingen om de Duitsers te bewegen hem ook dit keer weer vrij te laten, maar tevergeefs: op 17 maart wordt hij getransporteerd naar het concentratiekamp Neuengamme bij Hamburg. Vanaf dat moment heeft de familie nooit meer iets van hem gehoord.</html:p>
+        <html:p>Het leven van jonkvrouwe De Beaufort heeft sinds 1945 altijd in het teken gestaan van de zoektocht naar haar man. Vele instanties heeft zij aangeschreven en veel heeft zij gecorrespondeerd en gesproken met overlevenden uit Neuengamme die haar echtgenoot nog hebben gezien. Ook de drie dochters van Van Voerst van Lynden, en later ook hun kleindochter Jacqueline Quarles van Ufford, hebben veel onderzoek gedaan naar de verdwijning van hun vader c.q. grootvader. De correspondentie die uit deze zoektocht is voortgekomen vormt de kern van het archief.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>archiefvormer</html:head>
+        <html:p>Het archief gevormd door mr. S.W.A. baron van Voerst van Lynden, zijn echtgenote jonkvrouwe Johanna de Beaufort en hun kinderen en een van hun kleindochters.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>citeer en aanvraaginstructie</html:head>
+        <html:p>Archiefstukken uit dit archief kunnen in de studiezaal van het NIOD worden aangevraagd onder vermelding van: archief 822, inv.no. ...</html:p>
+        <html:p>Bij het citeren in annotatie en verantwoording dient het archief tenminste eenmaal volledig en zonder afkortingen te worden vermeld. Daarna volstaat een verkorte aanhaling:</html:p>
+        <html:p>volledig: Nederlands Instituut voor Oorlogsdocumentatie, Amsterdam, archief van S.W.A. van Voerst van Lynden, inv.no. ...
+        </html:p>
+        <html:p>verkort: NIOD, archief 822, Voerst van Lynden, inv.no. ...
+        </html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>materiële staat</html:head>
+        <html:p>De materiële toestand van de archiefstukken verzet zich niet tegen gebruikelijke raadpleging van de originelen in de studiezaal van het NIOD.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>omvang</html:head>
+        <html:p>0.4 meter (14 nummers)</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>taal van de archiefbescheiden</html:head>
+        <html:p>Het merendeel van de archiefstukken is Nederlandstalig.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>titel archief</html:head>
+        <html:p>Archief van S.W.A. van Voerst van Lynden</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1937/2004" ;
+            rico:textualValue "1937-2004" ] ;
+    rico:hasExtent [ a rico:Extent ;
+            rico:textualValue "0.4 meter (14 nummers)" ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Archiefnummer" ] ] ;
+            rico:textualValue "822" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Van Voerst van Lynden, S.W.A." ] ;
+    rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Fonds> ;
+    rico:history """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>beheersgeschiedenis/overbrenging naar het NIOD</html:head>
+        <html:p>Het archief is in 2007 geschonken aan het NIOD.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>bewerking</html:head>
+        <html:p>De inventaris is in 2007 vervaardigd door Petra Links.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>periode van ontstaan</html:head>
+        <html:p>Het archief is gevormd in de periode 1937-2004.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral,
+        """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>wettelijke status</html:head>
+        <html:p>Het archief is eigendom van het NIOD.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:recordResourceStructure """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>ordening van de archiefbestanddelen</html:head>
+        <html:p>Het materiaal is chronologisch geordend.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:scopeAndContent """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:head>aard van de archiefbestanddelen</html:head>
+        <html:p>Het archief bestaat voornamelijk uit correspondentie. Dit zijn in de eerste plaats de brieven die Van Voerst van Lynden en zijn vrouw De Beaufort aan elkaar schreven. Verder is er in het archief ook correspondentie te vinden tussen hun beider familieleden, vrienden en kennissen, alsmede de briefwisselingen die De Beaufort had met ex-gevangenen en opsporingsinstanties na de oorlog. Het archief bevat tevens documentatie die de beschreven gebeurtenissen in de correspondentie ondersteunt. Tot slot bevat het archief vanaf 1988, het jaar dat De Beaufort kwam te overlijden, correspondentie en onderzoeksmateriaal van de dochters en een van de kleindochters van Van Voerst van Lynden.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral .
+
+<https://www.archieven.nl/mi/298/?mivast=298&micode=822#2> a rico:RecordSet ;
+    rico:followsOrFollowed <https://www.archieven.nl/mi/298/?mivast=298&micode=822#1> ;
+    rico:generalDescription """
+      <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
+        <html:p>Deze stukken zijn beperkt openbaar. Zij zijn slechts raadpleegbaar na verkregen toestemming van de directeur van het NIOD. Voor bezoekers die deze toestemming willen hebben, ligt een formulier bij de balie van de studiezaal van het NIOD.</html:p>
+      </html:div>
+    """^^rdf:XMLLiteral ;
+    rico:hasAccumulationDate [ a rico:Date ;
+            rico:normalizedValue "1937/2004" ;
+            rico:textualValue "1937-2004." ] ;
+    rico:hasOrHadIdentifier [ a rico:Identifier ;
+            rico:hasOrHadType [ a rico:Type ;
+                    rico:hasOrHadName [ a rico:Name ;
+                            rico:textualValue "Inventarisnummers (van een verzamelbeschrijving)" ] ] ;
+            rico:textualValue "1-14" ] ;
+    rico:hasOrHadTitle [ a rico:Title ;
+            rico:textualValue "Correspondentie" ] ;
+    rico:isOrWasIncludedIn <https://www.archieven.nl/mi/298/?mivast=298&micode=822> .
+
