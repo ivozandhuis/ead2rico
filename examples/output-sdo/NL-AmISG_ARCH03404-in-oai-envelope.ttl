@@ -255,14 +255,14 @@
 <http://id.loc.gov/vocabulary/iso639-2/dut> a sdo:Language .
 
 <https://iisg.amsterdam/id/recordresource/ARCH03404> a sdo:ArchiveComponent ;
-    sdo:about [ a sdo:Place ;
-            sdo:name "Netherlands" ],
-        [ a sdo:Thing ;
-            sdo:name "Sexualities/LGBT movements" ],
-        [ a sdo:Thing ;
+    sdo:about [ a sdo:Thing ;
             sdo:name "Feminist movements/Women's movements" ],
         [ a sdo:Thing ;
-            sdo:name "Archival material" ] ;
+            sdo:name "Archival material" ],
+        [ a sdo:Thing ;
+            sdo:name "Sexualities/LGBT movements" ],
+        [ a sdo:Place ;
+            sdo:name "Netherlands" ] ;
     sdo:additionalType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Collection> ;
     sdo:conditionsOfAccess """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">

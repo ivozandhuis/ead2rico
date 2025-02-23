@@ -3349,1388 +3349,1388 @@
     sdo:position "3" .
 
 <https://iisg.amsterdam/id/recordresource/ARCH00111> a sdo:ArchiveComponent ;
-    sdo:about [ a sdo:Person ;
-            sdo:name "Aggarwala, R.N." ],
-        [ a sdo:Person ;
-            sdo:name "Grumbach, Salomon" ],
-        [ a sdo:Person ;
-            sdo:name "Eastwood, R." ],
-        [ a sdo:Organization ;
-            sdo:name "Postal Telegraph and Telephone International" ],
-        [ a sdo:Person ;
-            sdo:name "Pryce, R." ],
-        [ a sdo:Person ;
-            sdo:name "Goldschneider, P." ],
-        [ a sdo:Person ;
-            sdo:name "Pittermann, Bruno" ],
-        [ a sdo:Person ;
-            sdo:name "Seitz, K." ],
-        [ a sdo:Organization ;
-            sdo:name "Leo Baeck Institute" ],
-        [ a sdo:Person ;
-            sdo:name "Pinner, H." ],
-        [ a sdo:Organization ;
-            sdo:name "Geist und Tat" ],
-        [ a sdo:Person ;
-            sdo:name "Gaitskell, Hugh" ],
-        [ a sdo:Person ;
-            sdo:name "Danneberg, Gertrud" ],
-        [ a sdo:Organization ;
-            sdo:name "Oficina Internacional del Trabajo" ],
-        [ a sdo:Person ;
-            sdo:name "Nobs, Ernst" ],
-        [ a sdo:Person ;
-            sdo:name "Schiavi, L." ],
-        [ a sdo:Person ;
-            sdo:name "Kautsky, Benedikt" ],
-        [ a sdo:Person ;
-            sdo:name "Ciolkosz, A." ],
-        [ a sdo:Person ;
-            sdo:name "Pick, W.J." ],
-        [ a sdo:Person ;
-            sdo:name "Scherer" ],
-        [ a sdo:Organization ;
-            sdo:name "Bund Archives of the Jewish Labor Movement" ],
-        [ a sdo:Person ;
-            sdo:name "Bauer, J." ],
-        [ a sdo:Person ;
-            sdo:name "Friedrich Adler" ],
-        [ a sdo:Person ;
-            sdo:name "Braunthal, Fred" ],
-        [ a sdo:Organization ;
-            sdo:name "News of the World Ltd." ],
-        [ a sdo:Person ;
-            sdo:name "Braun, Otto" ],
-        [ a sdo:Person ;
-            sdo:name "Kreisky, Bruno" ],
-        [ a sdo:Person ;
-            sdo:name "Azzaroni, B." ],
-        [ a sdo:Person ;
-            sdo:name "Weckerle-Geck, K." ],
-        [ a sdo:Person ;
-            sdo:name "Ledebour" ],
-        [ a sdo:Person ;
-            sdo:name "Ingersoll, F.J." ],
-        [ a sdo:Person ;
-            sdo:name "Rosdolsky, Emmy" ],
-        [ a sdo:Person ;
-            sdo:name "Beales, H.L." ],
-        [ a sdo:Person ;
-            sdo:name "Zander, W." ],
-        [ a sdo:Person ;
-            sdo:name "Papanek, Ernst" ],
-        [ a sdo:Person ;
-            sdo:name "Ernestine (Tini) Gernreich" ],
-        [ a sdo:Organization ;
-            sdo:name "League for Industrial Democracy" ],
-        [ a sdo:Person ;
-            sdo:name "Riepl, H." ],
-        [ a sdo:Organization ;
+    sdo:about [ a sdo:Organization ;
             sdo:name "Labour and Socialist International (L.S.I.)" ],
         [ a sdo:Person ;
-            sdo:name "Codignola, T." ],
-        [ a sdo:Person ;
-            sdo:name "Carthy, Albert E." ],
-        [ a sdo:Person ;
-            sdo:name "Mitchell, K." ],
-        [ a sdo:Person ;
-            sdo:name "Troy, Sam. Parker" ],
-        [ a sdo:Person ;
-            sdo:name "Surrey Dane, W." ],
-        [ a sdo:Organization ;
-            sdo:name "Backer Verlag" ],
-        [ a sdo:Person ;
-            sdo:name "Maung Maung, U." ],
-        [ a sdo:Organization ;
-            sdo:name "Thankin Chit Maung" ],
-        [ a sdo:Person ;
-            sdo:name "Bienenfeld, F.R." ],
-        [ a sdo:Person ;
-            sdo:name "Bellamy, J.M." ],
-        [ a sdo:Person ;
-            sdo:name "Blumenberg, Werner" ],
-        [ a sdo:Person ;
-            sdo:name "Waites, B.A." ],
-        [ a sdo:Person ;
-            sdo:name "Narayan, Jayaprakash" ],
-        [ a sdo:Person ;
-            sdo:name "Ernestine (Tini) Braunthal" ],
-        [ a sdo:Person ;
-            sdo:name "Miller, S." ],
-        [ a sdo:Person ;
-            sdo:name "Gulick, Charles A." ],
-        [ a sdo:Person ;
-            sdo:name "Rosenbach, N." ],
-        [ a sdo:Person ;
-            sdo:name "Levy, R." ],
-        [ a sdo:Person ;
-            sdo:name "Segall, Fr." ],
-        [ a sdo:Organization ;
-            sdo:name "Foreign Affairs" ],
-        [ a sdo:Person ;
-            sdo:name "Ackermann, M." ],
-        [ a sdo:Person ;
-            sdo:name "Barents, Joseph" ],
-        [ a sdo:Person ;
-            sdo:name "Blum, M.E." ],
-        [ a sdo:Person ;
-            sdo:name "Jerusalem, A." ],
-        [ a sdo:Organization ;
-            sdo:name "Beatrice Webb Trustees" ],
-        [ a sdo:Person ;
-            sdo:name "Heusmann, R." ],
-        [ a sdo:Organization ;
-            sdo:name "British Museum" ],
-        [ a sdo:Person ;
-            sdo:name "Shils, Edward" ],
-        [ a sdo:Person ;
-            sdo:name "Stolper, T." ],
-        [ a sdo:Organization ;
-            sdo:name "Partai Kommunist Indonesia" ],
-        [ a sdo:Organization ;
-            sdo:name "Centre for Contemporary Socialist Thought" ],
-        [ a sdo:Person ;
-            sdo:name "Rischin, M." ],
-        [ a sdo:Person ;
-            sdo:name "Levenberg, Sneier" ],
-        [ a sdo:Person ;
-            sdo:name "Derndarsky, M." ],
-        [ a sdo:Person ;
-            sdo:name "Wijono" ],
-        [ a sdo:Person ;
-            sdo:name "Bourdet, Y." ],
-        [ a sdo:Person ;
-            sdo:name "Mayer, B." ],
-        [ a sdo:Organization ;
-            sdo:name "Children and Youth Aliyah Committee for Great Britain" ],
-        [ a sdo:Person ;
-            sdo:name "Schneider, R." ],
-        [ a sdo:Person ;
-            sdo:name "Koerner, Th." ],
-        [ a sdo:Thing ;
-            sdo:name "Archival material" ],
-        [ a sdo:Person ;
-            sdo:name "Reventlow, R." ],
-        [ a sdo:Organization ;
-            sdo:name "Weltweite Partnerschaft" ],
-        [ a sdo:Organization ;
-            sdo:name "Internationaal Instituut voor Sociale Geschiedenis (I.I.S.G.)" ],
-        [ a sdo:Organization ;
-            sdo:name "International Federation of Trade Unions" ],
-        [ a sdo:Person ;
-            sdo:name "Sastrosatomo, S." ],
-        [ a sdo:Organization ;
-            sdo:name "International Federation of Textile Workers' Association" ],
-        [ a sdo:Person ;
-            sdo:name "Solari, J.A." ],
-        [ a sdo:Person ;
-            sdo:name "Piperger, Alois" ],
-        [ a sdo:Person ;
-            sdo:name "Hodges, S." ],
-        [ a sdo:Person ;
-            sdo:name "Goldmann, H.F." ],
-        [ a sdo:Person ;
-            sdo:name "Krane, J." ],
-        [ a sdo:Person ;
-            sdo:name "Bruno Misèfari" ],
-        [ a sdo:Person ;
-            sdo:name "Bönisch, F." ],
-        [ a sdo:Person ;
-            sdo:name "Kubowitzki, A. Leon" ],
-        [ a sdo:Person ;
-            sdo:name "Frederick Gustav Braunthal" ],
-        [ a sdo:Person ;
-            sdo:name "Mattmüller-Keller, M." ],
+            sdo:name "Rosdolsky, Roman" ],
         [ a sdo:Organization ;
             sdo:name "International Socialist Forum" ],
         [ a sdo:Person ;
-            sdo:name "Haralambiev, I." ],
+            sdo:name "Boudin, L." ],
         [ a sdo:Person ;
-            sdo:name "Dodge, P." ],
+            sdo:name "Sailer, E." ],
         [ a sdo:Person ;
-            sdo:name "Hoselitz, B.F." ],
+            sdo:name "Pryce, R." ],
         [ a sdo:Person ;
-            sdo:name "Mehta, Asoka" ],
-        [ a sdo:Person ;
-            sdo:name "Battara, P." ],
-        [ a sdo:Person ;
-            sdo:name "Engle, J.B." ],
-        [ a sdo:Person ;
-            sdo:name "Abramsky, C." ],
-        [ a sdo:Person ;
-            sdo:name "Mann, Heinrich" ],
-        [ a sdo:Person ;
-            sdo:name "Kreuzer, F." ],
-        [ a sdo:Organization ;
-            sdo:name "Europa Verlags-AG" ],
-        [ a sdo:Organization ;
-            sdo:name "Etudes et Documentation Internationales" ],
-        [ a sdo:Person ;
-            sdo:name "Vannini, G." ],
-        [ a sdo:Organization ;
-            sdo:name "National Campaign for the Abolition of Capital Punishment" ],
-        [ a sdo:Organization ;
-            sdo:name "Trades Union Congress" ],
-        [ a sdo:Person ;
-            sdo:name "Bung, H." ],
-        [ a sdo:Person ;
-            sdo:name "Steiner, H." ],
-        [ a sdo:Person ;
-            sdo:name "Carlebach, J." ],
-        [ a sdo:Person ;
-            sdo:name "Boberg, S." ],
-        [ a sdo:Person ;
-            sdo:name "Hertz, Paul" ],
-        [ a sdo:Person ;
-            sdo:name "Costello, D." ],
-        [ a sdo:Person ;
-            sdo:name "Renner, Karl" ],
-        [ a sdo:Organization ;
-            sdo:name "Joint Palestine Appeal" ],
-        [ a sdo:Person ;
-            sdo:name "Kautsky, M." ],
-        [ a sdo:Person ;
-            sdo:name "Cole, G.D.H." ],
-        [ a sdo:Person ;
-            sdo:name "Larock, Victor" ],
-        [ a sdo:Person ;
-            sdo:name "Speiser, Wolfgang" ],
-        [ a sdo:Organization ;
-            sdo:name "National Council of Labour Colleges" ],
-        [ a sdo:Organization ;
-            sdo:name "Victor Gollancz Ltd." ],
-        [ a sdo:Organization ;
-            sdo:name "International Confederation of Free Trade Unions" ],
-        [ a sdo:Person ;
-            sdo:name "Kandler, F." ],
-        [ a sdo:Person ;
-            sdo:name "Mayer, P." ],
-        [ a sdo:Person ;
-            sdo:name "Voinea, E." ],
-        [ a sdo:Organization ;
-            sdo:name "Communist Party of India" ],
-        [ a sdo:Person ;
-            sdo:name "Eckert, Georg" ],
-        [ a sdo:Person ;
-            sdo:name "Nedzynski, S." ],
-        [ a sdo:Person ;
-            sdo:name "Scholz, A." ],
-        [ a sdo:Person ;
-            sdo:name "Kilpatrick, W.H." ],
-        [ a sdo:Person ;
-            sdo:name "Sugar, W." ],
-        [ a sdo:Organization ;
-            sdo:name "Parti Socialiste S.F.I.O." ],
-        [ a sdo:Person ;
-            sdo:name "Wagner, M." ],
-        [ a sdo:Person ;
-            sdo:name "Gollancz, Victor" ],
-        [ a sdo:Person ;
-            sdo:name "Seitz, E." ],
-        [ a sdo:Organization ;
-            sdo:name "Fabian Society" ],
-        [ a sdo:Person ;
-            sdo:name "Löbe, Paul" ],
-        [ a sdo:Person ;
-            sdo:name "Bernard, Vilhelm" ],
-        [ a sdo:Person ;
-            sdo:name "Sharf, A." ],
-        [ a sdo:Person ;
-            sdo:name "Humbert-Droz, J." ],
-        [ a sdo:Person ;
-            sdo:name "Andersen, Alsing" ],
-        [ a sdo:Organization ;
-            sdo:name "Reconstructionist" ],
-        [ a sdo:Organization ;
-            sdo:name "Socialist International (S.I.)" ],
-        [ a sdo:Person ;
-            sdo:name "Nagy, B." ],
-        [ a sdo:Person ;
-            sdo:name "Kollman, E.C." ],
+            sdo:name "Heuss, E.L." ],
         [ a sdo:Person ;
             sdo:name "Cole, Margaret" ],
         [ a sdo:Organization ;
-            sdo:name "Hannoversche Presse" ],
+            sdo:name "Reconstructionist" ],
         [ a sdo:Person ;
-            sdo:name "Nobs, R." ],
-        [ a sdo:Organization ;
-            sdo:name "Pedoman Perdjuangan Masjumi" ],
-        [ a sdo:Organization ;
-            sdo:name "Verlag Jungbrunnen" ],
-        [ a sdo:Organization ;
-            sdo:name "Fackelträger Verlag" ],
+            sdo:name "Blase, A." ],
         [ a sdo:Person ;
-            sdo:name "Singer, M." ],
-        [ a sdo:Organization ;
-            sdo:name "Combate" ],
-        [ a sdo:Organization ;
-            sdo:name "Telegraf" ],
+            sdo:name "Watson, S." ],
         [ a sdo:Person ;
-            sdo:name "Boudin, L." ],
+            sdo:name "Brauer, M." ],
         [ a sdo:Person ;
-            sdo:name "Philipp, Hans" ],
+            sdo:name "Heinz, Karl" ],
+        [ a sdo:Person ;
+            sdo:name "Rothschild, J.A." ],
+        [ a sdo:Person ;
+            sdo:name "Banning, W." ],
+        [ a sdo:Person ;
+            sdo:name "Riepl, H." ],
+        [ a sdo:Person ;
+            sdo:name "Wickremesinghe, C.E.L." ],
+        [ a sdo:Person ;
+            sdo:name "Costello, D." ],
+        [ a sdo:Person ;
+            sdo:name "Elias, A." ],
+        [ a sdo:Person ;
+            sdo:name "Grossmann, S." ],
+        [ a sdo:Person ;
+            sdo:name "Blum, M.E." ],
+        [ a sdo:Person ;
+            sdo:name "Smejkal, P." ],
+        [ a sdo:Person ;
+            sdo:name "Krane, J." ],
+        [ a sdo:Organization ;
+            sdo:name "Tribune" ],
+        [ a sdo:Person ;
+            sdo:name "Segall, Fr." ],
+        [ a sdo:Person ;
+            sdo:name "Silone, Ignazio" ],
+        [ a sdo:Person ;
+            sdo:name "Heidenheimer" ],
+        [ a sdo:Person ;
+            sdo:name "Lazarsfeld, S." ],
+        [ a sdo:Person ;
+            sdo:name "Adler, Victor" ],
+        [ a sdo:Person ;
+            sdo:name "Weitzman, D." ],
+        [ a sdo:Person ;
+            sdo:name "Sun Pao - Kang" ],
+        [ a sdo:Person ;
+            sdo:name "Majdalani, N." ],
+        [ a sdo:Person ;
+            sdo:name "Ernestine (Tini) Gernreich" ],
+        [ a sdo:Person ;
+            sdo:name "Beauclerck, C." ],
+        [ a sdo:Person ;
+            sdo:name "Frank, L." ],
+        [ a sdo:Person ;
+            sdo:name "Koirala, B.P." ],
+        [ a sdo:Organization ;
+            sdo:name "Hitachdut" ],
+        [ a sdo:Organization ;
+            sdo:name "Foreign Affairs" ],
+        [ a sdo:Person ;
+            sdo:name "Middleton, L." ],
+        [ a sdo:Person ;
+            sdo:name "Elliot, S." ],
+        [ a sdo:Person ;
+            sdo:name "Wilhelm, K." ],
+        [ a sdo:Person ;
+            sdo:name "Bush, J." ],
+        [ a sdo:Person ;
+            sdo:name "Haas, K." ],
+        [ a sdo:Person ;
+            sdo:name "Livny, S." ],
+        [ a sdo:Person ;
+            sdo:name "Hoselitz, B.F." ],
+        [ a sdo:Person ;
+            sdo:name "Kollman, E.C." ],
+        [ a sdo:Person ;
+            sdo:name "Marty, A." ],
+        [ a sdo:Organization ;
+            sdo:name "Beatrice Webb Trustees" ],
+        [ a sdo:Person ;
+            sdo:name "Sarkar, C." ],
+        [ a sdo:Person ;
+            sdo:name "Maung Maung, U." ],
+        [ a sdo:Person ;
+            sdo:name "Berlstein, A." ],
+        [ a sdo:Person ;
+            sdo:name "Reventlow, R." ],
+        [ a sdo:Person ;
+            sdo:name "Posch, Fr." ],
+        [ a sdo:Person ;
+            sdo:name "Maisel, Karl" ],
+        [ a sdo:Person ;
+            sdo:name "Pankhurst, R." ],
+        [ a sdo:Person ;
+            sdo:name "Mukkerji, Partha A." ],
         [ a sdo:Person ;
             sdo:name "Bracht" ],
+        [ a sdo:Organization ;
+            sdo:name "Thomas Nelson and Sons Ltd." ],
+        [ a sdo:Person ;
+            sdo:name "Barkatt, Reuven" ],
+        [ a sdo:Person ;
+            sdo:name "Nebbot, A." ],
+        [ a sdo:Person ;
+            sdo:name "Karnik, V.B." ],
+        [ a sdo:Person ;
+            sdo:name "Stössinger, Felix" ],
+        [ a sdo:Organization ;
+            sdo:name "National Committee for Labor Israel" ],
+        [ a sdo:Organization ;
+            sdo:name "Combate" ],
+        [ a sdo:Person ;
+            sdo:name "Misefari, Pia" ],
+        [ a sdo:Organization ;
+            sdo:name "Narmadeshawar Prasad" ],
+        [ a sdo:Organization ;
+            sdo:name "Socialist Courier" ],
+        [ a sdo:Person ;
+            sdo:name "Grimm, J." ],
+        [ a sdo:Person ;
+            sdo:name "Ruijter, A. de" ],
+        [ a sdo:Person ;
+            sdo:name "Donneur, A.P." ],
+        [ a sdo:Organization ;
+            sdo:name "Children and Youth Aliyah Committee for Great Britain" ],
+        [ a sdo:Person ;
+            sdo:name "Neck, R." ],
+        [ a sdo:Organization ;
+            sdo:name "I.I.S.G." ],
+        [ a sdo:Organization ;
+            sdo:name "Internationale Graphische Föderation" ],
+        [ a sdo:Person ;
+            sdo:name "Zeisel, H." ],
+        [ a sdo:Person ;
+            sdo:name "Surrey Dane, W." ],
+        [ a sdo:Organization ;
+            sdo:name "International Jewish Labor Bund" ],
+        [ a sdo:Person ;
+            sdo:name "Ba Than" ],
+        [ a sdo:Person ;
+            sdo:name "Szur, L." ],
+        [ a sdo:Person ;
+            sdo:name "Naumann-Anders, H." ],
+        [ a sdo:Organization ;
+            sdo:name "Tiden" ],
+        [ a sdo:Person ;
+            sdo:name "Corsi, A." ],
+        [ a sdo:Person ;
+            sdo:name "Phillips, Morgan" ],
+        [ a sdo:Person ;
+            sdo:name "Andersen, Alsing" ],
+        [ a sdo:Organization ;
+            sdo:name "American Committee for Cultural Freedom" ],
+        [ a sdo:Person ;
+            sdo:name "Batelli, F." ],
+        [ a sdo:Person ;
+            sdo:name "Heine, Friedrich" ],
+        [ a sdo:Person ;
+            sdo:name "Kot, S." ],
+        [ a sdo:Person ;
+            sdo:name "Saran, M." ],
+        [ a sdo:Person ;
+            sdo:name "Thonet, H.M." ],
+        [ a sdo:Organization ;
+            sdo:name "Verlag J.H.W. Dietz GmbH" ],
+        [ a sdo:Person ;
+            sdo:name "Koulischer, G." ],
+        [ a sdo:Person ;
+            sdo:name "Keller, F.O." ],
+        [ a sdo:Person ;
+            sdo:name "Adler, Friedrich" ],
+        [ a sdo:Person ;
+            sdo:name "Voinea, E." ],
+        [ a sdo:Person ;
+            sdo:name "Shils, Edward" ],
+        [ a sdo:Person ;
+            sdo:name "Sjahrir, Soetan" ],
+        [ a sdo:Person ;
+            sdo:name "Kautsky, Benedikt" ],
+        [ a sdo:Person ;
+            sdo:name "Blau, P." ],
+        [ a sdo:Organization ;
+            sdo:name "Konzentration GmbH" ],
+        [ a sdo:Person ;
+            sdo:name "Narayan, Jayaprakash" ],
+        [ a sdo:Person ;
+            sdo:name "Kautsky, M." ],
         [ a sdo:Person ;
             sdo:name "Lakenbacher, Ernst" ],
         [ a sdo:Person ;
-            sdo:name "Brahm, Heinz" ],
+            sdo:name "Weichmann, H." ],
+        [ a sdo:Person ;
+            sdo:name "Gopalan, A.K." ],
+        [ a sdo:Person ;
+            sdo:name "Klenner, Fritz" ],
+        [ a sdo:Person ;
+            sdo:name "Waeger-Adler, A." ],
+        [ a sdo:Person ;
+            sdo:name "Antonioletti, G." ],
+        [ a sdo:Organization ;
+            sdo:name "International Transport Workers' Federation" ],
+        [ a sdo:Person ;
+            sdo:name "Hodges, S." ],
+        [ a sdo:Organization ;
+            sdo:name "Institut Hjalmar Branting" ],
+        [ a sdo:Person ;
+            sdo:name "Sugar, W." ],
+        [ a sdo:Person ;
+            sdo:name "Gollancz, Victor" ],
+        [ a sdo:Organization ;
+            sdo:name "Miners' International Federation" ],
+        [ a sdo:Person ;
+            sdo:name "Oprecht, H." ],
+        [ a sdo:Person ;
+            sdo:name "Hahner, J.E." ],
+        [ a sdo:Person ;
+            sdo:name "Ackermann, M." ],
+        [ a sdo:Organization ;
+            sdo:name "Jewish Agency for Israel" ],
+        [ a sdo:Person ;
+            sdo:name "Kreuzer, F." ],
+        [ a sdo:Person ;
+            sdo:name "Hermes, G." ],
+        [ a sdo:Person ;
+            sdo:name "Nuselovici-Moldavanu" ],
+        [ a sdo:Person ;
+            sdo:name "Segall, D." ],
+        [ a sdo:Person ;
+            sdo:name "Lewisohn, I." ],
+        [ a sdo:Person ;
+            sdo:name "Knoeringen, Waldemar von" ],
+        [ a sdo:Person ;
+            sdo:name "Knöpfmacher, H." ],
+        [ a sdo:Organization ;
+            sdo:name "School of Slavonic and East European Studies" ],
+        [ a sdo:Person ;
+            sdo:name "Hannak, Jacques" ],
+        [ a sdo:Organization ;
+            sdo:name "Nest Verlag GmbH" ],
+        [ a sdo:Person ;
+            sdo:name "Ciolkosz, A." ],
+        [ a sdo:Person ;
+            sdo:name "Kautsky Jr., Karl" ],
+        [ a sdo:Person ;
+            sdo:name "Braatoy, B." ],
+        [ a sdo:Person ;
+            sdo:name "Helmer, Oskar" ],
+        [ a sdo:Person ;
+            sdo:name "Wigham, J." ],
+        [ a sdo:Organization ;
+            sdo:name "Arani Verlags GmbH" ],
+        [ a sdo:Person ;
+            sdo:name "Dekock, J." ],
+        [ a sdo:Person ;
+            sdo:name "Weinroth, H." ],
+        [ a sdo:Organization ;
+            sdo:name "Arbeiter Zeitung" ],
+        [ a sdo:Person ;
+            sdo:name "Leser, N." ],
+        [ a sdo:Person ;
+            sdo:name "Schlossberg, J." ],
+        [ a sdo:Person ;
+            sdo:name "Bauer, Otto" ],
+        [ a sdo:Person ;
+            sdo:name "Marek, B." ],
+        [ a sdo:Organization ;
+            sdo:name "Daily Herald" ],
+        [ a sdo:Person ;
+            sdo:name "Hertz, Paul" ],
+        [ a sdo:Person ;
+            sdo:name "Bellamy, J.M." ],
+        [ a sdo:Organization ;
+            sdo:name "Trades Union Congress" ],
+        [ a sdo:Person ;
+            sdo:name "Silva, Colvin R. de" ],
+        [ a sdo:Person ;
+            sdo:name "Beales, H.L." ],
+        [ a sdo:Person ;
+            sdo:name "Landauer, C." ],
+        [ a sdo:Person ;
+            sdo:name "Nicolaevsky, Boris I." ],
+        [ a sdo:Person ;
+            sdo:name "Pollak, Marianne" ],
+        [ a sdo:Person ;
+            sdo:name "Gottschalk, A." ],
+        [ a sdo:Person ;
+            sdo:name "Werner, M.E." ],
+        [ a sdo:Person ;
+            sdo:name "Haag, J." ],
+        [ a sdo:Person ;
+            sdo:name "Gmür, F." ],
+        [ a sdo:Organization ;
+            sdo:name "Asian Socialist Conference" ],
+        [ a sdo:Person ;
+            sdo:name "Carthy, Albert E." ],
+        [ a sdo:Person ;
+            sdo:name "Mendelsohn, K." ],
+        [ a sdo:Person ;
+            sdo:name "Dan, L." ],
+        [ a sdo:Person ;
+            sdo:name "Sprinzak, Joseph" ],
+        [ a sdo:Person ;
+            sdo:name "Seitz, E." ],
+        [ a sdo:Person ;
+            sdo:name "Milton, S." ],
+        [ a sdo:Person ;
+            sdo:name "Sagher, Mobarak" ],
+        [ a sdo:Person ;
+            sdo:name "Wijono" ],
+        [ a sdo:Organization ;
+            sdo:name "Communist Party of India" ],
+        [ a sdo:Person ;
+            sdo:name "Hill, G." ],
+        [ a sdo:Person ;
+            sdo:name "Vladan, P.D." ],
+        [ a sdo:Organization ;
+            sdo:name "Fondation del'Internationale Socialiste" ],
+        [ a sdo:Person ;
+            sdo:name "Adler, D." ],
+        [ a sdo:Person ;
+            sdo:name "Gollancz, R." ],
+        [ a sdo:Person ;
+            sdo:name "Sinclair, L.J." ],
+        [ a sdo:Organization ;
+            sdo:name "Nuova Italia Editrice" ],
+        [ a sdo:Person ;
+            sdo:name "Rocker, F." ],
+        [ a sdo:Organization ;
+            sdo:name "Jewish Vanguard" ],
+        [ a sdo:Person ;
+            sdo:name "Kautsky, L." ],
+        [ a sdo:Person ;
+            sdo:name "Schiavi, A." ],
+        [ a sdo:Person ;
+            sdo:name "Warmisham, E." ],
+        [ a sdo:Person ;
+            sdo:name "Derndarsky, M." ],
+        [ a sdo:Person ;
+            sdo:name "Lohia, Rammanohar" ],
+        [ a sdo:Person ;
+            sdo:name "Milford, Peter" ],
+        [ a sdo:Thing ;
+            sdo:name "Socialist and social democrat parties/Socialist International" ],
+        [ a sdo:Organization ;
+            sdo:name "Kommunistische Partei Oesterreichs" ],
+        [ a sdo:Person ;
+            sdo:name "Larock, Victor" ],
+        [ a sdo:Person ;
+            sdo:name "Blumenberg, Werner" ],
+        [ a sdo:Organization ;
+            sdo:name "Mapai" ],
+        [ a sdo:Organization ;
+            sdo:name "Hannoversche Presse" ],
+        [ a sdo:Person ;
+            sdo:name "Ungar, R." ],
+        [ a sdo:Person ;
+            sdo:name "Jolis, A.E." ],
+        [ a sdo:Organization ;
+            sdo:name "Haikar Haoved" ],
+        [ a sdo:Organization ;
+            sdo:name "Europäische Perspektiven" ],
+        [ a sdo:Person ;
+            sdo:name "Rubel, M." ],
+        [ a sdo:Person ;
+            sdo:name "Kautsky, J.M." ],
+        [ a sdo:Person ;
+            sdo:name "Renner, Karl" ],
+        [ a sdo:Person ;
+            sdo:name "Younger, K." ],
+        [ a sdo:Person ;
+            sdo:name "Hacker, W." ],
+        [ a sdo:Organization ;
+            sdo:name "National Council of Labour Colleges" ],
+        [ a sdo:Organization ;
+            sdo:name "Sozialgerichtsbarkeit" ],
+        [ a sdo:Person ;
+            sdo:name "Blit, S." ],
+        [ a sdo:Organization ;
+            sdo:name "John Clark Memorial Fund" ],
+        [ a sdo:Person ;
+            sdo:name "Ramanathan, D.R." ],
+        [ a sdo:Organization ;
+            sdo:name "Sveriges Socialdemokratiska Arbetareparti" ],
+        [ a sdo:Person ;
+            sdo:name "Freyh, R." ],
+        [ a sdo:Person ;
+            sdo:name "Millar, Chr." ],
+        [ a sdo:Organization ;
+            sdo:name "Praja Socialist Party" ],
+        [ a sdo:Person ;
+            sdo:name "Adler, Victor" ],
+        [ a sdo:Person ;
+            sdo:name "Thomas, N." ],
+        [ a sdo:Person ;
+            sdo:name "Nimal Karuwatillake" ],
+        [ a sdo:Person ;
+            sdo:name "Halperin, B." ],
+        [ a sdo:Person ;
+            sdo:name "Waldbrunner, Karl" ],
+        [ a sdo:Person ;
+            sdo:name "Kreisky, Bruno" ],
+        [ a sdo:Organization ;
+            sdo:name "Leo Baeck Institute" ],
+        [ a sdo:Person ;
+            sdo:name "Ausch, K." ],
+        [ a sdo:Person ;
+            sdo:name "Weckerle-Geck, K." ],
+        [ a sdo:Organization ;
+            sdo:name "Labor Zionist Organization of America \"Poale Zion\"" ],
+        [ a sdo:Person ;
+            sdo:name "Solle, Z." ],
         [ a sdo:Person ;
             sdo:name "Feuer, L.S." ],
         [ a sdo:Person ;
-            sdo:name "Maitron, J." ],
+            sdo:name "Becu, O." ],
         [ a sdo:Person ;
-            sdo:name "Schiavi, A." ],
+            sdo:name "Brailsford, Henry Noel" ],
+        [ a sdo:Person ;
+            sdo:name "Freeden, L.M." ],
+        [ a sdo:Person ;
+            sdo:name "Laski, F." ],
+        [ a sdo:Person ;
+            sdo:name "Sastrosatomo, S." ],
+        [ a sdo:Person ;
+            sdo:name "Naoroji, Khurshed A.D." ],
+        [ a sdo:Person ;
+            sdo:name "Schärf, Adolf" ],
+        [ a sdo:Person ;
+            sdo:name "Singer, M." ],
+        [ a sdo:Person ;
+            sdo:name "Wodak, W." ],
+        [ a sdo:Person ;
+            sdo:name "Tougouchi, M." ],
+        [ a sdo:Person ;
+            sdo:name "Estrin, S." ],
+        [ a sdo:Organization ;
+            sdo:name "Bund Archives of the Jewish Labor Movement" ],
+        [ a sdo:Organization ;
+            sdo:name "Partito Socialista Democratico Italiano" ],
+        [ a sdo:Person ;
+            sdo:name "Richter, A." ],
+        [ a sdo:Person ;
+            sdo:name "Harrison, R." ],
+        [ a sdo:Organization ;
+            sdo:name "Thomson Publications Ltd." ],
+        [ a sdo:Person ;
+            sdo:name "Augsten, A." ],
+        [ a sdo:Person ;
+            sdo:name "Steiner, Senta G." ],
+        [ a sdo:Organization ;
+            sdo:name "Oficina Internacional del Trabajo" ],
+        [ a sdo:Organization ;
+            sdo:name "Socialist Party of Japan" ],
+        [ a sdo:Person ;
+            sdo:name "Kluge, U." ],
+        [ a sdo:Person ;
+            sdo:name "U Hla Aung" ],
+        [ a sdo:Person ;
+            sdo:name "Lind, P." ],
+        [ a sdo:Person ;
+            sdo:name "Miller, S." ],
+        [ a sdo:Person ;
+            sdo:name "Hirsch, J." ],
+        [ a sdo:Person ;
+            sdo:name "Huysmans, Camille" ],
+        [ a sdo:Person ;
+            sdo:name "Jemnitz, J." ],
+        [ a sdo:Person ;
+            sdo:name "Heusmann, R." ],
+        [ a sdo:Organization ;
+            sdo:name "Plebs" ],
+        [ a sdo:Person ;
+            sdo:name "Carlebach, J." ],
+        [ a sdo:Organization ;
+            sdo:name "Institute of International Labor Research Inc." ],
+        [ a sdo:Organization ;
+            sdo:name "Socialistische Internationale (S.I.)" ],
+        [ a sdo:Person ;
+            sdo:name "Khalaf, Abbas M." ],
+        [ a sdo:Person ;
+            sdo:name "Natsir, M." ],
+        [ a sdo:Person ;
+            sdo:name "Wace, M." ],
+        [ a sdo:Person ;
+            sdo:name "L'Etang, W.L." ],
+        [ a sdo:Person ;
+            sdo:name "Maier, G." ],
         [ a sdo:Person ;
             sdo:name "Braunthal, G." ],
         [ a sdo:Person ;
             sdo:name "Jerusalem, E." ],
         [ a sdo:Person ;
-            sdo:name "Nordahl" ],
-        [ a sdo:Person ;
-            sdo:name "Tougouchi, M." ],
-        [ a sdo:Person ;
-            sdo:name "Proft, G." ],
-        [ a sdo:Organization ;
-            sdo:name "Deutsche Akademie für Sprache und Dichtung" ],
-        [ a sdo:Organization ;
-            sdo:name "Fondation del'Internationale Socialiste" ],
-        [ a sdo:Person ;
-            sdo:name "Kautsky, Bettina" ],
-        [ a sdo:Person ;
-            sdo:name "Oschilewski, Walther G." ],
-        [ a sdo:Organization ;
-            sdo:name "Daily Herald" ],
-        [ a sdo:Person ;
-            sdo:name "Treves, P." ],
-        [ a sdo:Person ;
-            sdo:name "Deutschkron, I." ],
-        [ a sdo:Person ;
-            sdo:name "Cemach, Alexander I." ],
-        [ a sdo:Person ;
-            sdo:name "Kot, S." ],
-        [ a sdo:Organization ;
-            sdo:name "Haikar Haoved" ],
-        [ a sdo:Person ;
-            sdo:name "Kawakami, T." ],
-        [ a sdo:Person ;
-            sdo:name "Grimm, J." ],
-        [ a sdo:Organization ;
-            sdo:name "Verlag Chmielorz GmbH" ],
-        [ a sdo:Person ;
-            sdo:name "Moortel, M. van de" ],
-        [ a sdo:Person ;
-            sdo:name "Naoroji, Khurshed A.D." ],
-        [ a sdo:Organization ;
-            sdo:name "Nuova Italia Editrice" ],
-        [ a sdo:Person ;
-            sdo:name "Morgan, R." ],
-        [ a sdo:Person ;
-            sdo:name "Naumann-Anders, H." ],
-        [ a sdo:Person ;
-            sdo:name "Weichmann, H." ],
-        [ a sdo:Organization ;
-            sdo:name "U.N.E.S.C.O." ],
-        [ a sdo:Person ;
-            sdo:name "Anders, K." ],
-        [ a sdo:Person ;
-            sdo:name "Hook, S." ],
-        [ a sdo:Organization ;
-            sdo:name "Europäische Perspektiven" ],
-        [ a sdo:Person ;
-            sdo:name "Saville, J." ],
-        [ a sdo:Person ;
-            sdo:name "Singhal, D.P." ],
-        [ a sdo:Organization ;
-            sdo:name "MacMillan and Co. Ltd." ],
-        [ a sdo:Person ;
-            sdo:name "Brandt, Willy" ],
+            sdo:name "Kilpatrick, W.H." ],
         [ a sdo:Person ;
             sdo:name "Papanek, H." ],
-        [ a sdo:Organization ;
-            sdo:name "National Committee for Labor Israel" ],
         [ a sdo:Person ;
             sdo:name "Trotnow, H." ],
-        [ a sdo:Organization ;
-            sdo:name "Tribune" ],
         [ a sdo:Person ;
-            sdo:name "Freeden, L.M." ],
-        [ a sdo:Person ;
-            sdo:name "Harold Laski" ],
-        [ a sdo:Person ;
-            sdo:name "Ferrari, V." ],
-        [ a sdo:Person ;
-            sdo:name "Thomas, T." ],
-        [ a sdo:Person ;
-            sdo:name "Landauer, C." ],
-        [ a sdo:Person ;
-            sdo:name "Naphtali-Zarak, M." ],
-        [ a sdo:Person ;
-            sdo:name "Deutscher, Isaak" ],
-        [ a sdo:Person ;
-            sdo:name "Meier, Gabrielle" ],
-        [ a sdo:Person ;
-            sdo:name "Millar, J.P.M." ],
-        [ a sdo:Person ;
-            sdo:name "Llopis, R." ],
-        [ a sdo:Person ;
-            sdo:name "Pontillon, R." ],
-        [ a sdo:Person ;
-            sdo:name "Natsir, M." ],
-        [ a sdo:Person ;
-            sdo:name "Ruijter, A. de" ],
-        [ a sdo:Person ;
-            sdo:name "Marty, A." ],
-        [ a sdo:Person ;
-            sdo:name "Misefari, Pia" ],
-        [ a sdo:Person ;
-            sdo:name "Knöpfmacher, H." ],
-        [ a sdo:Person ;
-            sdo:name "Weltsch, R." ],
-        [ a sdo:Person ;
-            sdo:name "Nebbot, A." ],
-        [ a sdo:Person ;
-            sdo:name "Warmisham, E." ],
-        [ a sdo:Organization ;
-            sdo:name "Praja Socialist Party" ],
-        [ a sdo:Person ;
-            sdo:name "Heinz, G." ],
-        [ a sdo:Person ;
-            sdo:name "Hannak, Jacques" ],
-        [ a sdo:Person ;
-            sdo:name "Rosmer, A." ],
-        [ a sdo:Person ;
-            sdo:name "Papernik, O." ],
-        [ a sdo:Person ;
-            sdo:name "Bracke, Alexandre" ],
-        [ a sdo:Organization ;
-            sdo:name "Dokumentationsarchiv des Oesterreichischen Widerstandes" ],
-        [ a sdo:Person ;
-            sdo:name "Adama van Scheltema, A." ],
-        [ a sdo:Person ;
-            sdo:name "Rosenzweig, S." ],
-        [ a sdo:Person ;
-            sdo:name "Schevenels, W." ],
-        [ a sdo:Person ;
-            sdo:name "Thomas, F." ],
-        [ a sdo:Person ;
-            sdo:name "Braatoy, B." ],
-        [ a sdo:Person ;
-            sdo:name "Veitch, S.O." ],
-        [ a sdo:Organization ;
-            sdo:name "New Leader" ],
-        [ a sdo:Person ;
-            sdo:name "Hofbauer, Josef" ],
-        [ a sdo:Person ;
-            sdo:name "Ulitz, E." ],
-        [ a sdo:Person ;
-            sdo:name "Mons, R." ],
-        [ a sdo:Person ;
-            sdo:name "Nicolinacos, M." ],
-        [ a sdo:Organization ;
-            sdo:name "Labor Zionist Organization of America \"Poale Zion\"" ],
-        [ a sdo:Organization ;
-            sdo:name "International Union of Socialist Youth" ],
-        [ a sdo:Person ;
-            sdo:name "Winkler, Ernst" ],
-        [ a sdo:Organization ;
-            sdo:name "Verlag der Wiener Volksbuchhandlung" ],
-        [ a sdo:Person ;
-            sdo:name "Haag, J." ],
-        [ a sdo:Person ;
-            sdo:name "Evalenko, R." ],
-        [ a sdo:Person ;
-            sdo:name "Hine, R." ],
-        [ a sdo:Person ;
-            sdo:name "Middleton, L." ],
-        [ a sdo:Person ;
-            sdo:name "Károly, S." ],
-        [ a sdo:Organization ;
-            sdo:name "Sozialgerichtsbarkeit" ],
-        [ a sdo:Person ;
-            sdo:name "Kautsky, G." ],
-        [ a sdo:Organization ;
-            sdo:name "Arbeiter Zeitung" ],
-        [ a sdo:Person ;
-            sdo:name "Lall, J." ],
-        [ a sdo:Person ;
-            sdo:name "Majdalani, N." ],
-        [ a sdo:Person ;
-            sdo:name "Menon, K." ],
-        [ a sdo:Person ;
-            sdo:name "Louis de Brouckère" ],
-        [ a sdo:Person ;
-            sdo:name "Kruk, J." ],
-        [ a sdo:Person ;
-            sdo:name "Helmer, Oskar" ],
-        [ a sdo:Person ;
-            sdo:name "Eisner, F." ],
-        [ a sdo:Organization ;
-            sdo:name "Partito Socialista Democratico Italiano" ],
-        [ a sdo:Person ;
-            sdo:name "Ragaz, C." ],
-        [ a sdo:Organization ;
-            sdo:name "Institut Hjalmar Branting" ],
-        [ a sdo:Person ;
-            sdo:name "Lind, P." ],
-        [ a sdo:Person ;
-            sdo:name "Steuermann, J." ],
-        [ a sdo:Person ;
-            sdo:name "Merchav, P." ],
-        [ a sdo:Organization ;
-            sdo:name "Editions du Seuil" ],
-        [ a sdo:Person ;
-            sdo:name "Sturmthal, Adolf" ],
-        [ a sdo:Organization ;
-            sdo:name "Sozialistische Partei Oesterreichs" ],
-        [ a sdo:Person ;
-            sdo:name "Pollak, Oskar" ],
-        [ a sdo:Person ;
-            sdo:name "Sidorsky, D." ],
-        [ a sdo:Person ;
-            sdo:name "Leichter, Otto" ],
-        [ a sdo:Person ;
-            sdo:name "Pogats, E." ],
-        [ a sdo:Organization ;
-            sdo:name "Bund Verlag GmbH" ],
-        [ a sdo:Person ;
-            sdo:name "Hirsch, J." ],
-        [ a sdo:Organization ;
-            sdo:name "Internationaler Metallarbeiter Bund" ],
-        [ a sdo:Person ;
-            sdo:name "Lindbom, T." ],
-        [ a sdo:Person ;
-            sdo:name "Haas, K." ],
-        [ a sdo:Organization ;
-            sdo:name "Jewish Vanguard" ],
-        [ a sdo:Person ;
-            sdo:name "Braunthal, H." ],
-        [ a sdo:Person ;
-            sdo:name "Sinclair, L.J." ],
-        [ a sdo:Person ;
-            sdo:name "Segall, D." ],
-        [ a sdo:Person ;
-            sdo:name "Weitzman, D." ],
-        [ a sdo:Person ;
-            sdo:name "Corsi, A." ],
-        [ a sdo:Person ;
-            sdo:name "Milford, Peter" ],
-        [ a sdo:Organization ;
-            sdo:name "Israel Labour Party" ],
-        [ a sdo:Person ;
-            sdo:name "Meynell, H." ],
-        [ a sdo:Organization ;
-            sdo:name "Socialist Courier" ],
-        [ a sdo:Person ;
-            sdo:name "Frei, B." ],
+            sdo:name "Schneider, R." ],
         [ a sdo:Person ;
             sdo:name "Putzrath, Heinz" ],
         [ a sdo:Person ;
-            sdo:name "Balabanoff, Angelica" ],
-        [ a sdo:Organization ;
-            sdo:name "Thomas Nelson and Sons Ltd." ],
-        [ a sdo:Person ;
-            sdo:name "Lazarsfeld, S." ],
-        [ a sdo:Person ;
-            sdo:name "Adler, D." ],
-        [ a sdo:Person ;
-            sdo:name "Elias, A." ],
-        [ a sdo:Person ;
-            sdo:name "Ebel, C." ],
-        [ a sdo:Person ;
-            sdo:name "Leighton, P." ],
-        [ a sdo:Organization ;
-            sdo:name "New Socialist" ],
-        [ a sdo:Person ;
-            sdo:name "Hentschel, F." ],
-        [ a sdo:Organization ;
-            sdo:name "Partai Nasional Indonesia" ],
-        [ a sdo:Person ;
-            sdo:name "Wace, M." ],
-        [ a sdo:Person ;
-            sdo:name "Thomas Otto Braunthal" ],
-        [ a sdo:Person ;
-            sdo:name "Meier, E." ],
-        [ a sdo:Person ;
-            sdo:name "Resampa, A." ],
-        [ a sdo:Person ;
-            sdo:name "Pollak, W." ],
-        [ a sdo:Person ;
-            sdo:name "Almon, A." ],
-        [ a sdo:Person ;
-            sdo:name "Gottfurcht, Hans" ],
-        [ a sdo:Person ;
-            sdo:name "Heine, Friedrich" ],
-        [ a sdo:Organization ;
-            sdo:name "Buckhurst Hill Labour Party" ],
-        [ a sdo:Organization ;
-            sdo:name "Europe Left" ],
-        [ a sdo:Organization ;
-            sdo:name "Verein für Geschichte der Arbeiterbewegung" ],
-        [ a sdo:Person ;
-            sdo:name "Brockway, Fenner" ],
-        [ a sdo:Person ;
-            sdo:name "Joll, J." ],
-        [ a sdo:Person ;
-            sdo:name "Neubauer, H." ],
-        [ a sdo:Person ;
-            sdo:name "Laidler, H.W." ],
-        [ a sdo:Person ;
-            sdo:name "Matoren, S." ],
-        [ a sdo:Person ;
-            sdo:name "Breit, V." ],
-        [ a sdo:Organization ;
-            sdo:name "Socialist Affairs" ],
-        [ a sdo:Person ;
-            sdo:name "Watson, S." ],
-        [ a sdo:Person ;
-            sdo:name "Maisel, Karl" ],
-        [ a sdo:Person ;
-            sdo:name "Jaksch, Wenzel" ],
-        [ a sdo:Organization ;
-            sdo:name "Narmadeshawar Prasad" ],
-        [ a sdo:Person ;
-            sdo:name "Abramovitch, R." ],
-        [ a sdo:Person ;
-            sdo:name "Jochmann, Rosa" ],
-        [ a sdo:Person ;
-            sdo:name "Karnik, V.B." ],
-        [ a sdo:Person ;
-            sdo:name "Maleta, A." ],
-        [ a sdo:Person ;
-            sdo:name "Nuselovici-Moldavanu" ],
-        [ a sdo:Organization ;
-            sdo:name "National Union of Tailors and Garment Workers" ],
-        [ a sdo:Person ;
-            sdo:name "Eichler, Willi" ],
-        [ a sdo:Person ;
-            sdo:name "Lichtheim, George" ],
-        [ a sdo:Person ;
-            sdo:name "Magaziner, A." ],
-        [ a sdo:Organization ;
-            sdo:name "Pacheco" ],
-        [ a sdo:Person ;
-            sdo:name "Kandiah, P." ],
-        [ a sdo:Organization ;
-            sdo:name "Thomson Publications Ltd." ],
-        [ a sdo:Person ;
-            sdo:name "Allerdt, H." ],
-        [ a sdo:Person ;
-            sdo:name "Moratt, S.H." ],
-        [ a sdo:Person ;
-            sdo:name "L'Etang, W.L." ],
-        [ a sdo:Person ;
-            sdo:name "Wodak, W." ],
-        [ a sdo:Person ;
-            sdo:name "Rosenbach, D." ],
-        [ a sdo:Person ;
-            sdo:name "Lavon, P." ],
-        [ a sdo:Person ;
-            sdo:name "Neck, R." ],
-        [ a sdo:Person ;
-            sdo:name "Williams, Ph. M." ],
-        [ a sdo:Person ;
-            sdo:name "Pollak, Marianne" ],
-        [ a sdo:Organization ;
-            sdo:name "Otto Wels-Gesellschaft" ],
-        [ a sdo:Person ;
-            sdo:name "Cole, H.T.D." ],
-        [ a sdo:Organization ;
-            sdo:name "Davar" ],
-        [ a sdo:Person ;
-            sdo:name "Glagov, S." ],
-        [ a sdo:Person ;
-            sdo:name "Porges, G." ],
-        [ a sdo:Person ;
-            sdo:name "Leser, N." ],
-        [ a sdo:Person ;
-            sdo:name "Kautsky, L." ],
-        [ a sdo:Person ;
-            sdo:name "Freyh, R." ],
-        [ a sdo:Person ;
-            sdo:name "Elliot, S." ],
-        [ a sdo:Person ;
-            sdo:name "Becu, O." ],
-        [ a sdo:Person ;
-            sdo:name "Montani, D. Ambrosio" ],
-        [ a sdo:Person ;
-            sdo:name "Estrin, S." ],
-        [ a sdo:Person ;
-            sdo:name "Oprecht, H." ],
-        [ a sdo:Thing ;
-            sdo:name "Exiles/Political refugees" ],
-        [ a sdo:Organization ;
-            sdo:name "Social Democratic Party of Japan" ],
-        [ a sdo:Person ;
-            sdo:name "Erlander, Tage Fritjof" ],
-        [ a sdo:Person ;
-            sdo:name "Reiss, A." ],
-        [ a sdo:Person ;
-            sdo:name "Andréas, Bert" ],
-        [ a sdo:Person ;
-            sdo:name "Koirala, B.P." ],
-        [ a sdo:Person ;
-            sdo:name "Ausch, J." ],
-        [ a sdo:Organization ;
-            sdo:name "Statesman" ],
-        [ a sdo:Person ;
-            sdo:name "Seoung Soo Kim" ],
-        [ a sdo:Person ;
-            sdo:name "Hinden, R." ],
-        [ a sdo:Person ;
-            sdo:name "Eggenberger, M." ],
-        [ a sdo:Organization ;
-            sdo:name "Cosmo Enterprises" ],
-        [ a sdo:Person ;
-            sdo:name "Stössinger, Felix" ],
-        [ a sdo:Person ;
-            sdo:name "Frank, W." ],
-        [ a sdo:Person ;
-            sdo:name "Schlossberg, J." ],
-        [ a sdo:Person ;
-            sdo:name "Wickremesinghe, C.E.L." ],
-        [ a sdo:Person ;
-            sdo:name "Werner, M.E." ],
-        [ a sdo:Person ;
-            sdo:name "Buset, M." ],
-        [ a sdo:Person ;
-            sdo:name "Sagher, Mobarak" ],
-        [ a sdo:Person ;
-            sdo:name "Silone, Ignazio" ],
-        [ a sdo:Person ;
-            sdo:name "U Kyaw Nyein" ],
-        [ a sdo:Person ;
-            sdo:name "Faravelli, G." ],
-        [ a sdo:Person ;
-            sdo:name "Mukkerji, Partha A." ],
+            sdo:name "Bienenfeld, F.R." ],
         [ a sdo:Person ;
             sdo:name "Postgate, R." ],
         [ a sdo:Person ;
-            sdo:name "Steel, Anth." ],
-        [ a sdo:Person ;
-            sdo:name "Day, Alan" ],
-        [ a sdo:Person ;
-            sdo:name "Jemnitz, J." ],
-        [ a sdo:Person ;
-            sdo:name "Probst, Otto" ],
-        [ a sdo:Person ;
-            sdo:name "Suwirio" ],
-        [ a sdo:Person ;
-            sdo:name "Koulischer, G." ],
-        [ a sdo:Person ;
-            sdo:name "Gleissberg, G." ],
-        [ a sdo:Person ;
-            sdo:name "Schwartz, S." ],
-        [ a sdo:Person ;
-            sdo:name "Adler, Friedrich" ],
-        [ a sdo:Person ;
-            sdo:name "Gaitskell, D." ],
-        [ a sdo:Person ;
-            sdo:name "Donneur, A.P." ],
-        [ a sdo:Thing ;
-            sdo:name "Political prisoners/Political trials" ],
-        [ a sdo:Person ;
-            sdo:name "Norman Thomas" ],
-        [ a sdo:Person ;
-            sdo:name "Rocker, F." ],
-        [ a sdo:Person ;
-            sdo:name "Sjahruzak, Djohan" ],
-        [ a sdo:Person ;
-            sdo:name "Neumann, F.L." ],
-        [ a sdo:Person ;
-            sdo:name "Hirsch, Hans en Bettina" ],
+            sdo:name "Ledebour" ],
         [ a sdo:Organization ;
-            sdo:name "John Clark Memorial Fund" ],
-        [ a sdo:Organization ;
-            sdo:name "Indian Committee for Cultural Freedom" ],
-        [ a sdo:Person ;
-            sdo:name "Phillips, Morgan" ],
-        [ a sdo:Organization ;
-            sdo:name "Janata" ],
-        [ a sdo:Organization ;
-            sdo:name "Kommunistische Partei Oesterreichs" ],
-        [ a sdo:Person ;
-            sdo:name "Vogel, Hans" ],
-        [ a sdo:Organization ;
-            sdo:name "Nest Verlag GmbH" ],
-        [ a sdo:Person ;
-            sdo:name "Vladan, P.D." ],
-        [ a sdo:Person ;
-            sdo:name "Lamm, H." ],
-        [ a sdo:Organization ;
-            sdo:name "Tiden" ],
-        [ a sdo:Organization ;
-            sdo:name "Thank You Britain\" Fund" ],
-        [ a sdo:Organization ;
-            sdo:name "Cambridge University Press" ],
-        [ a sdo:Person ;
-            sdo:name "Florence, R." ],
-        [ a sdo:Person ;
-            sdo:name "Adler, Victor" ],
-        [ a sdo:Person ;
-            sdo:name "Lanzer, W." ],
-        [ a sdo:Organization ;
-            sdo:name "Socialistische Internationale (S.I.)" ],
-        [ a sdo:Person ;
-            sdo:name "Pucciani, O." ],
-        [ a sdo:Person ;
-            sdo:name "Harrison, R." ],
-        [ a sdo:Person ;
-            sdo:name "Stolz, G." ],
-        [ a sdo:Person ;
-            sdo:name "Volman, S." ],
-        [ a sdo:Person ;
-            sdo:name "Banning, W." ],
-        [ a sdo:Person ;
-            sdo:name "Price, H.H." ],
-        [ a sdo:Person ;
-            sdo:name "Valiani, Leo" ],
-        [ a sdo:Person ;
-            sdo:name "Aa, H." ],
-        [ a sdo:Person ;
-            sdo:name "Heinz, Karl" ],
-        [ a sdo:Person ;
-            sdo:name "Baratz, J." ],
-        [ a sdo:Person ;
-            sdo:name "Ramanathan, D.R." ],
-        [ a sdo:Person ;
-            sdo:name "Strasser, Isa" ],
-        [ a sdo:Organization ;
-            sdo:name "Sozialdemokratische Partei Deutschlands" ],
-        [ a sdo:Organization ;
-            sdo:name "School of Slavonic and East European Studies" ],
-        [ a sdo:Person ;
-            sdo:name "Morsbach, A." ],
-        [ a sdo:Person ;
-            sdo:name "Bush, J." ],
-        [ a sdo:Person ;
-            sdo:name "Waterlow, J." ],
-        [ a sdo:Organization ;
-            sdo:name "Indian Council of World Affairs" ],
-        [ a sdo:Person ;
-            sdo:name "Lemberger, Ernst" ],
-        [ a sdo:Person ;
-            sdo:name "Adler, K." ],
-        [ a sdo:Organization ;
-            sdo:name "Jewish National Fund" ],
-        [ a sdo:Person ;
-            sdo:name "Schmidt-Küster, Gustav" ],
-        [ a sdo:Person ;
-            sdo:name "Gmür, F." ],
-        [ a sdo:Person ;
-            sdo:name "Khalaf, Abbas M." ],
-        [ a sdo:Person ;
-            sdo:name "Waldbrunner, Karl" ],
-        [ a sdo:Person ;
-            sdo:name "Hermes, G." ],
-        [ a sdo:Person ;
-            sdo:name "Lie, Haakon" ],
-        [ a sdo:Person ;
-            sdo:name "Collins, H." ],
-        [ a sdo:Organization ;
-            sdo:name "International Society for Socialist Studies" ],
-        [ a sdo:Person ;
-            sdo:name "Møller, F." ],
-        [ a sdo:Person ;
-            sdo:name "Ford, P." ],
-        [ a sdo:Person ;
-            sdo:name "Hohenbalken, P." ],
-        [ a sdo:Person ;
-            sdo:name "Harper, O." ],
-        [ a sdo:Person ;
-            sdo:name "Gopalan, A.K." ],
-        [ a sdo:Person ;
-            sdo:name "Ellenbogen, Wilhelm" ],
-        [ a sdo:Person ;
-            sdo:name "Dan, L." ],
-        [ a sdo:Thing ;
-            sdo:name "Socialist and social democrat parties/Socialist International" ],
-        [ a sdo:Person ;
-            sdo:name "Heidenheimer" ],
-        [ a sdo:Person ;
-            sdo:name "Lévy, Louis" ],
-        [ a sdo:Person ;
-            sdo:name "Korn, I." ],
-        [ a sdo:Organization ;
-            sdo:name "Arani Verlags GmbH" ],
-        [ a sdo:Organization ;
-            sdo:name "Bibliographia Judaica" ],
-        [ a sdo:Organization ;
-            sdo:name "I.I.S.G." ],
-        [ a sdo:Organization ;
-            sdo:name "Socialist Party of Japan" ],
-        [ a sdo:Person ;
-            sdo:name "Körner, R." ],
-        [ a sdo:Person ;
-            sdo:name "Weinroth, H." ],
-        [ a sdo:Person ;
-            sdo:name "Heuss, Theodor" ],
-        [ a sdo:Organization ;
-            sdo:name "International Socialist Forum" ],
-        [ a sdo:Person ;
-            sdo:name "Younger, K." ],
-        [ a sdo:Person ;
-            sdo:name "Ungar, R." ],
-        [ a sdo:Person ;
-            sdo:name "Löwe, A." ],
-        [ a sdo:Person ;
-            sdo:name "Blau, P." ],
-        [ a sdo:Person ;
-            sdo:name "Sapir, Boris" ],
-        [ a sdo:Person ;
-            sdo:name "Grimm, Robert" ],
-        [ a sdo:Person ;
-            sdo:name "Gollancz, R." ],
-        [ a sdo:Person ;
-            sdo:name "Locker, Berl" ],
-        [ a sdo:Person ;
-            sdo:name "Sarkar, C." ],
-        [ a sdo:Person ;
-            sdo:name "Blit, S." ],
-        [ a sdo:Person ;
-            sdo:name "Steiner, Senta G." ],
-        [ a sdo:Person ;
-            sdo:name "Attlee, C.R." ],
-        [ a sdo:Person ;
-            sdo:name "Antonioletti, G." ],
-        [ a sdo:Person ;
-            sdo:name "Bax, A." ],
-        [ a sdo:Person ;
-            sdo:name "Otto Bauer" ],
-        [ a sdo:Organization ;
-            sdo:name "Sozialdemokratische Partei der Schweiz" ],
-        [ a sdo:Person ;
-            sdo:name "Vos, H." ],
-        [ a sdo:Person ;
-            sdo:name "Das, B." ],
-        [ a sdo:Person ;
-            sdo:name "Posch, Fr." ],
-        [ a sdo:Organization ;
-            sdo:name "Hoover Institution" ],
-        [ a sdo:Person ;
-            sdo:name "Saran, M." ],
-        [ a sdo:Person ;
-            sdo:name "Jolis, A.E." ],
-        [ a sdo:Organization ;
-            sdo:name "Asian Socialist Conference" ],
-        [ a sdo:Organization ;
-            sdo:name "S.P.Ö." ],
-        [ a sdo:Organization ;
-            sdo:name "S.P.Ö. Frauen Zentral Komitee" ],
-        [ a sdo:Person ;
-            sdo:name "Horrabin, F." ],
-        [ a sdo:Organization ;
-            sdo:name "Norske Arbeiderparti" ],
-        [ a sdo:Person ;
-            sdo:name "Laski, F." ],
-        [ a sdo:Organization ;
-            sdo:name "Arbeit und Wirtschaft" ],
-        [ a sdo:Organization ;
-            sdo:name "B.B.C." ],
-        [ a sdo:Person ;
-            sdo:name "Hill, G." ],
-        [ a sdo:Person ;
-            sdo:name "Yamaguchi, F." ],
-        [ a sdo:Person ;
-            sdo:name "Heuss, E.L." ],
-        [ a sdo:Organization ;
-            sdo:name "Institut für Sozialgeschichte Braunschweig" ],
-        [ a sdo:Person ;
-            sdo:name "Sun Pao - Kang" ],
-        [ a sdo:Person ;
-            sdo:name "Bruegel, J.W." ],
-        [ a sdo:Organization ;
-            sdo:name "Institute of International Labor Research Inc." ],
-        [ a sdo:Person ;
-            sdo:name "Ross Williamson, A." ],
-        [ a sdo:Organization ;
-            sdo:name "COMISCO" ],
-        [ a sdo:Organization ;
-            sdo:name "Konzentration GmbH" ],
-        [ a sdo:Person ;
-            sdo:name "Schärf, Adolf" ],
-        [ a sdo:Person ;
-            sdo:name "Lauterbach, A." ],
-        [ a sdo:Person ;
-            sdo:name "Illner, E." ],
-        [ a sdo:Person ;
-            sdo:name "Aspling, S." ],
-        [ a sdo:Person ;
-            sdo:name "Zofka, B." ],
-        [ a sdo:Person ;
-            sdo:name "Gurland, A.R.L." ],
-        [ a sdo:Person ;
-            sdo:name "Gottschalk, A." ],
-        [ a sdo:Person ;
-            sdo:name "Brügel, W." ],
-        [ a sdo:Person ;
-            sdo:name "Klenner, Fritz" ],
-        [ a sdo:Organization ;
-            sdo:name "Kleine Blatt" ],
-        [ a sdo:Person ;
-            sdo:name "Loebar, K." ],
-        [ a sdo:Person ;
-            sdo:name "Adler, Friedrich" ],
-        [ a sdo:Person ;
-            sdo:name "Treves, L." ],
-        [ a sdo:Person ;
-            sdo:name "Kautsky Jr., Karl" ],
-        [ a sdo:Person ;
-            sdo:name "Barkatt, Reuven" ],
-        [ a sdo:Person ;
-            sdo:name "Simecek, H." ],
-        [ a sdo:Person ;
-            sdo:name "Pankhurst, R." ],
-        [ a sdo:Person ;
-            sdo:name "Rubel, M." ],
-        [ a sdo:Person ;
-            sdo:name "Botz, G." ],
-        [ a sdo:Person ;
-            sdo:name "Flesch, F." ],
-        [ a sdo:Person ;
-            sdo:name "Beier, E." ],
-        [ a sdo:Person ;
-            sdo:name "Hagen, A." ],
-        [ a sdo:Person ;
-            sdo:name "Hacker, W." ],
-        [ a sdo:Person ;
-            sdo:name "Hrdlitschka, W." ],
-        [ a sdo:Person ;
-            sdo:name "Hale, L." ],
-        [ a sdo:Organization ;
-            sdo:name "Socialist International" ],
-        [ a sdo:Person ;
-            sdo:name "Holanbek, J." ],
-        [ a sdo:Person ;
-            sdo:name "Rolland, H." ],
-        [ a sdo:Person ;
-            sdo:name "Spitz, L." ],
-        [ a sdo:Person ;
-            sdo:name "Labelle, D." ],
-        [ a sdo:Person ;
-            sdo:name "Kautsky, J.M." ],
-        [ a sdo:Organization ;
-            sdo:name "Social Democratic Federation of the U.S.A." ],
-        [ a sdo:Organization ;
-            sdo:name "National Union of Mineworkers" ],
-        [ a sdo:Person ;
-            sdo:name "Speiser, P." ],
-        [ a sdo:Organization ;
-            sdo:name "Sudeten Social Democratic Association" ],
-        [ a sdo:Person ;
-            sdo:name "Healy, Denis" ],
-        [ a sdo:Person ;
-            sdo:name "Halasi, A.B." ],
-        [ a sdo:Person ;
-            sdo:name "Lévy, M.L." ],
-        [ a sdo:Person ;
-            sdo:name "Thomas, N." ],
-        [ a sdo:Person ;
-            sdo:name "Massiczek, A." ],
-        [ a sdo:Person ;
-            sdo:name "Golan, C." ],
-        [ a sdo:Person ;
-            sdo:name "Tofahrn, P." ],
-        [ a sdo:Organization ;
-            sdo:name "Hitachdut" ],
-        [ a sdo:Organization ;
-            sdo:name "Partha-Sarathi Gupta" ],
-        [ a sdo:Person ;
-            sdo:name "Jenschik, Ant." ],
-        [ a sdo:Person ;
-            sdo:name "Reichenbach, B." ],
-        [ a sdo:Person ;
-            sdo:name "Kwashi, N.A." ],
-        [ a sdo:Organization ;
-            sdo:name "Hannoversche Druck- und Verlags GmbH" ],
-        [ a sdo:Person ;
-            sdo:name "Bauer, Otto" ],
-        [ a sdo:Person ;
-            sdo:name "Lohia, Rammanohar" ],
-        [ a sdo:Person ;
-            sdo:name "Vries, P. de" ],
-        [ a sdo:Person ;
-            sdo:name "Middleton, James" ],
-        [ a sdo:Person ;
-            sdo:name "Blase, A." ],
-        [ a sdo:Organization ;
-            sdo:name "Sveriges Socialdemokratiska Arbetareparti" ],
-        [ a sdo:Person ;
-            sdo:name "Wheeler, R." ],
-        [ a sdo:Person ;
-            sdo:name "Brauer, M." ],
-        [ a sdo:Person ;
-            sdo:name "Nenni, Pietro" ],
-        [ a sdo:Person ;
-            sdo:name "Ausch, K." ],
-        [ a sdo:Person ;
-            sdo:name "Marold, P." ],
-        [ a sdo:Person ;
-            sdo:name "Paul, E." ],
-        [ a sdo:Organization ;
-            sdo:name "Plebs" ],
-        [ a sdo:Organization ;
-            sdo:name "Socialist Union of Central Eastern Europe" ],
-        [ a sdo:Person ;
-            sdo:name "Collick, P." ],
-        [ a sdo:Person ;
-            sdo:name "Sjahrir, Soetan" ],
-        [ a sdo:Person ;
-            sdo:name "Lebzeltern, G." ],
-        [ a sdo:Person ;
-            sdo:name "Herlitzka, E.K." ],
-        [ a sdo:Organization ;
-            sdo:name "Times" ],
-        [ a sdo:Person ;
-            sdo:name "Grossmann, S." ],
-        [ a sdo:Person ;
-            sdo:name "Martin, Kingsley" ],
-        [ a sdo:Person ;
-            sdo:name "Steinemann, E." ],
-        [ a sdo:Person ;
-            sdo:name "Voinea, Serban" ],
-        [ a sdo:Organization ;
-            sdo:name "Sozialistische Jugend Deutschlands" ],
-        [ a sdo:Person ;
-            sdo:name "Marek, B." ],
-        [ a sdo:Person ;
-            sdo:name "Lakenbacher, P." ],
-        [ a sdo:Person ;
-            sdo:name "Mollet, G." ],
-        [ a sdo:Person ;
-            sdo:name "Josephtal" ],
-        [ a sdo:Person ;
-            sdo:name "Schwarz, R." ],
-        [ a sdo:Person ;
-            sdo:name "Adolph, H.J.L." ],
-        [ a sdo:Person ;
-            sdo:name "Halperin, B." ],
-        [ a sdo:Person ;
-            sdo:name "Bush, S." ],
-        [ a sdo:Person ;
-            sdo:name "Hornik, L." ],
-        [ a sdo:Person ;
-            sdo:name "Hahner, J.E." ],
-        [ a sdo:Place ;
-            sdo:name "Austria" ],
-        [ a sdo:Organization ;
-            sdo:name "Centre for Labour and Social Studies" ],
-        [ a sdo:Person ;
-            sdo:name "Luza, R." ],
-        [ a sdo:Person ;
-            sdo:name "Tober, H." ],
-        [ a sdo:Person ;
-            sdo:name "Wiebe" ],
-        [ a sdo:Organization ;
-            sdo:name "Vereinigung Deutscher Sozialdemokraten in Grossbritannien" ],
-        [ a sdo:Person ;
-            sdo:name "Wilhelm, K." ],
-        [ a sdo:Person ;
-            sdo:name "Stampfer, Friedrich" ],
-        [ a sdo:Person ;
-            sdo:name "Sokoll, B." ],
-        [ a sdo:Person ;
-            sdo:name "Rüter, A.J.C." ],
-        [ a sdo:Organization ;
-            sdo:name "Forum" ],
-        [ a sdo:Person ;
-            sdo:name "Mendelsohn, K." ],
-        [ a sdo:Organization ;
-            sdo:name "World Campaign for the Release of South African Political Prisoners" ],
-        [ a sdo:Person ;
-            sdo:name "Watts, S." ],
-        [ a sdo:Organization ;
-            sdo:name "American Committee for Cultural Freedom" ],
-        [ a sdo:Person ;
-            sdo:name "Zeisel, H." ],
-        [ a sdo:Person ;
-            sdo:name "Beauclerck, C." ],
-        [ a sdo:Person ;
-            sdo:name "Adler, Victor" ],
+            sdo:name "Etudes et Documentation Internationales" ],
         [ a sdo:Person ;
             sdo:name "Perovic, P." ],
         [ a sdo:Person ;
-            sdo:name "Braunthal, Alfred" ],
-        [ a sdo:Person ;
-            sdo:name "Koulisheff, G." ],
-        [ a sdo:Person ;
-            sdo:name "Ba Than" ],
-        [ a sdo:Person ;
-            sdo:name "Nimal Karuwatillake" ],
-        [ a sdo:Person ;
-            sdo:name "Bahne, Siegfried" ],
-        [ a sdo:Person ;
-            sdo:name "Paasivirta, J." ],
-        [ a sdo:Person ;
-            sdo:name "Wigham, J." ],
-        [ a sdo:Person ;
-            sdo:name "Wirkner, R." ],
-        [ a sdo:Organization ;
-            sdo:name "Friedrich Ebert Stiftung" ],
-        [ a sdo:Person ;
-            sdo:name "Huysmans, Camille" ],
-        [ a sdo:Person ;
-            sdo:name "Solle, Z." ],
-        [ a sdo:Person ;
-            sdo:name "Keller, F.O." ],
-        [ a sdo:Person ;
-            sdo:name "Robert Grimm" ],
-        [ a sdo:Person ;
-            sdo:name "Kettler, E." ],
-        [ a sdo:Organization ;
-            sdo:name "World Federation of Trade Unions" ],
-        [ a sdo:Organization ;
-            sdo:name "Sozialistischer Club Griechenland" ],
-        [ a sdo:Organization ;
-            sdo:name "Movement for Colonial Freedom" ],
-        [ a sdo:Person ;
-            sdo:name "Deutsch, Julius" ],
+            sdo:name "Moratt, S.H." ],
         [ a sdo:Person ;
             sdo:name "Broido, E." ],
         [ a sdo:Person ;
-            sdo:name "Sprinzak, Joseph" ],
+            sdo:name "Scholz, A." ],
         [ a sdo:Person ;
-            sdo:name "Abramovič, Rafail" ],
-        [ a sdo:Person ;
-            sdo:name "Millar, Chr." ],
-        [ a sdo:Person ;
-            sdo:name "Kluge, U." ],
-        [ a sdo:Person ;
-            sdo:name "Korakas, M." ],
-        [ a sdo:Person ;
-            sdo:name "Clark, R.W." ],
-        [ a sdo:Person ;
-            sdo:name "Waeger-Adler, A." ],
-        [ a sdo:Person ;
-            sdo:name "Maier, G." ],
+            sdo:name "Solari, J.A." ],
         [ a sdo:Person ;
             sdo:name "Zoysa, M.P. de" ],
+        [ a sdo:Person ;
+            sdo:name "Thomas, F." ],
         [ a sdo:Organization ;
-            sdo:name "Haluan" ],
+            sdo:name "Socialist Union of Central Eastern Europe" ],
         [ a sdo:Person ;
-            sdo:name "Milton, S." ],
+            sdo:name "Kautsky, G." ],
         [ a sdo:Person ;
-            sdo:name "Augsten, A." ],
+            sdo:name "Aspling, S." ],
         [ a sdo:Person ;
-            sdo:name "Sweet, P." ],
+            sdo:name "Eggenberger, M." ],
         [ a sdo:Person ;
-            sdo:name "Thonet, H.M." ],
+            sdo:name "Proft, G." ],
+        [ a sdo:Person ;
+            sdo:name "Almon, A." ],
+        [ a sdo:Person ;
+            sdo:name "Pittermann, Bruno" ],
         [ a sdo:Organization ;
-            sdo:name "Labor Committee to Release Imprisoned Trade Unionists and Democratic Socialists" ],
-        [ a sdo:Person ;
-            sdo:name "Lewisohn, I." ],
-        [ a sdo:Person ;
-            sdo:name "Batelli, F." ],
+            sdo:name "S.P.Ö. Frauen Zentral Komitee" ],
         [ a sdo:Organization ;
-            sdo:name "Verlag J.H.W. Dietz GmbH" ],
+            sdo:name "Thank You Britain\" Fund" ],
+        [ a sdo:Person ;
+            sdo:name "Pogats, E." ],
         [ a sdo:Organization ;
-            sdo:name "Barrie Group of Publishers" ],
-        [ a sdo:Person ;
-            sdo:name "Rosdolsky, Roman" ],
-        [ a sdo:Person ;
-            sdo:name "Brailsford, Henry Noel" ],
-        [ a sdo:Person ;
-            sdo:name "Bor, M." ],
-        [ a sdo:Person ;
-            sdo:name "Huhn, Willy" ],
-        [ a sdo:Person ;
-            sdo:name "Schroth, H." ],
-        [ a sdo:Person ;
-            sdo:name "Matteotti, Matteo" ],
+            sdo:name "Social Democratic Party of Japan" ],
         [ a sdo:Organization ;
-            sdo:name "Jewish Agency for Israel" ],
+            sdo:name "Geist und Tat" ],
         [ a sdo:Person ;
-            sdo:name "Frank, L." ],
+            sdo:name "Nobs, Ernst" ],
         [ a sdo:Person ;
-            sdo:name "Richter, A." ],
-        [ a sdo:Person ;
-            sdo:name "Sutherland" ],
-        [ a sdo:Person ;
-            sdo:name "Harcavi, I." ],
+            sdo:name "Thomas, T." ],
         [ a sdo:Person ;
             sdo:name "Erben, W." ],
         [ a sdo:Person ;
-            sdo:name "Janitschek, H." ],
+            sdo:name "Wagner, M." ],
         [ a sdo:Person ;
-            sdo:name "Szur, L." ],
-        [ a sdo:Person ;
-            sdo:name "Julius Deutsch" ],
-        [ a sdo:Person ;
-            sdo:name "Elstein, D." ],
-        [ a sdo:Person ;
-            sdo:name "Sailer, E." ],
+            sdo:name "Schmidt-Küster, Gustav" ],
+        [ a sdo:Organization ;
+            sdo:name "Indian Council of World Affairs" ],
         [ a sdo:Person ;
             sdo:name "Held, A." ],
+        [ a sdo:Organization ;
+            sdo:name "Arbeit und Wirtschaft" ],
+        [ a sdo:Organization ;
+            sdo:name "Sozialistische Jugend Deutschlands" ],
         [ a sdo:Person ;
-            sdo:name "Ollenhauer, Erich" ],
+            sdo:name "Florence, R." ],
+        [ a sdo:Organization ;
+            sdo:name "International Federation of Textile Workers' Association" ],
         [ a sdo:Person ;
-            sdo:name "Braun, I." ],
+            sdo:name "Cole, G.D.H." ],
         [ a sdo:Person ;
-            sdo:name "Dekock, J." ],
+            sdo:name "Williams, Ph. M." ],
         [ a sdo:Person ;
-            sdo:name "Knoeringen, Waldemar von" ],
+            sdo:name "Locker, Berl" ],
         [ a sdo:Person ;
-            sdo:name "Bolle, M.C." ],
+            sdo:name "Pinner, H." ],
         [ a sdo:Person ;
-            sdo:name "Hirsch, H." ],
+            sdo:name "Moortel, M. van de" ],
+        [ a sdo:Person ;
+            sdo:name "Suwirio" ],
+        [ a sdo:Person ;
+            sdo:name "Simecek, H." ],
+        [ a sdo:Organization ;
+            sdo:name "B.B.C." ],
+        [ a sdo:Organization ;
+            sdo:name "International Trade Secretariats" ],
+        [ a sdo:Person ;
+            sdo:name "Huhn, Willy" ],
+        [ a sdo:Organization ;
+            sdo:name "International Society for Socialist Studies" ],
+        [ a sdo:Person ;
+            sdo:name "Gurland, A.R.L." ],
+        [ a sdo:Person ;
+            sdo:name "Adler, Friedrich" ],
+        [ a sdo:Person ;
+            sdo:name "Massee, J." ],
+        [ a sdo:Person ;
+            sdo:name "Bourdet, Y." ],
+        [ a sdo:Person ;
+            sdo:name "Louis de Brouckère" ],
+        [ a sdo:Person ;
+            sdo:name "Treves, P." ],
+        [ a sdo:Organization ;
+            sdo:name "Forum" ],
         [ a sdo:Person ;
             sdo:name "Bauer, Otto" ],
+        [ a sdo:Person ;
+            sdo:name "Ebel, C." ],
         [ a sdo:Organization ;
-            sdo:name "Socialist Party - Social Democratic Federation of New York City" ],
+            sdo:name "National Campaign for the Abolition of Capital Punishment" ],
         [ a sdo:Person ;
-            sdo:name "Kautsky, Karl" ],
+            sdo:name "Cemach, Alexander I." ],
+        [ a sdo:Person ;
+            sdo:name "Rüter, A.J.C." ],
         [ a sdo:Organization ;
-            sdo:name "Labour Party of England" ],
-        [ a sdo:Person ;
-            sdo:name "Berlstein, A." ],
-        [ a sdo:Person ;
-            sdo:name "Klein, O.G." ],
-        [ a sdo:Person ;
-            sdo:name "Fromm, Erich" ],
-        [ a sdo:Person ;
-            sdo:name "Mösslinger, E." ],
-        [ a sdo:Person ;
-            sdo:name "U Hla Aung" ],
-        [ a sdo:Organization ;
-            sdo:name "Mapai" ],
-        [ a sdo:Person ;
-            sdo:name "Smejkal, P." ],
-        [ a sdo:Person ;
-            sdo:name "Silva, Colvin R. de" ],
-        [ a sdo:Person ;
-            sdo:name "Damjanovic, P." ],
-        [ a sdo:Organization ;
-            sdo:name "COMISCO" ],
-        [ a sdo:Person ;
-            sdo:name "Hoegger, R." ],
-        [ a sdo:Person ;
-            sdo:name "Rothschild, J.A." ],
+            sdo:name "S.P.Ö." ],
         [ a sdo:Organization ;
             sdo:name "National Planning Association" ],
         [ a sdo:Person ;
-            sdo:name "Livny, S." ],
+            sdo:name "Grimm, Robert" ],
         [ a sdo:Person ;
-            sdo:name "Nicolaevsky, Boris I." ],
+            sdo:name "Hrdlitschka, W." ],
         [ a sdo:Person ;
-            sdo:name "Massee, J." ],
+            sdo:name "Danneberg, Gertrud" ],
+        [ a sdo:Person ;
+            sdo:name "Bax, A." ],
+        [ a sdo:Person ;
+            sdo:name "Waites, B.A." ],
+        [ a sdo:Person ;
+            sdo:name "Reiss, A." ],
+        [ a sdo:Person ;
+            sdo:name "Gaitskell, Hugh" ],
+        [ a sdo:Person ;
+            sdo:name "Brahm, Heinz" ],
+        [ a sdo:Person ;
+            sdo:name "Kandler, F." ],
+        [ a sdo:Person ;
+            sdo:name "Leichter, Otto" ],
+        [ a sdo:Person ;
+            sdo:name "Vogel, Hans" ],
         [ a sdo:Organization ;
-            sdo:name "Internationale Graphische Föderation" ],
+            sdo:name "Cambridge University Press" ],
+        [ a sdo:Person ;
+            sdo:name "Eichler, Willi" ],
+        [ a sdo:Person ;
+            sdo:name "Deutscher, Isaak" ],
         [ a sdo:Organization ;
-            sdo:name "International Jewish Labor Bund" ],
+            sdo:name "Vereinigung Deutscher Sozialdemokraten in Grossbritannien" ],
+        [ a sdo:Person ;
+            sdo:name "Sutherland" ],
         [ a sdo:Organization ;
-            sdo:name "International Trade Secretariats" ],
+            sdo:name "Nuffield College" ],
+        [ a sdo:Person ;
+            sdo:name "Harcavi, I." ],
+        [ a sdo:Person ;
+            sdo:name "Zofka, B." ],
         [ a sdo:Organization ;
-            sdo:name "International Transport Workers' Federation" ],
+            sdo:name "Sozialdemokratische Partei Deutschlands" ],
+        [ a sdo:Organization ;
+            sdo:name "Institut für Sozialgeschichte Braunschweig" ],
+        [ a sdo:Person ;
+            sdo:name "Marold, P." ],
+        [ a sdo:Person ;
+            sdo:name "Waterlow, J." ],
+        [ a sdo:Person ;
+            sdo:name "Steuermann, J." ],
+        [ a sdo:Person ;
+            sdo:name "Bernard, Vilhelm" ],
+        [ a sdo:Organization ;
+            sdo:name "New Socialist" ],
+        [ a sdo:Organization ;
+            sdo:name "MacMillan and Co. Ltd." ],
+        [ a sdo:Person ;
+            sdo:name "Pucciani, O." ],
+        [ a sdo:Person ;
+            sdo:name "Rosenbach, D." ],
+        [ a sdo:Person ;
+            sdo:name "Holanbek, J." ],
+        [ a sdo:Person ;
+            sdo:name "Heinz, G." ],
+        [ a sdo:Person ;
+            sdo:name "Schiavi, L." ],
+        [ a sdo:Person ;
+            sdo:name "Piperger, Alois" ],
+        [ a sdo:Organization ;
+            sdo:name "Jewish National Fund" ],
+        [ a sdo:Person ;
+            sdo:name "Maitron, J." ],
+        [ a sdo:Organization ;
+            sdo:name "Norske Arbeiderparti" ],
+        [ a sdo:Person ;
+            sdo:name "Hentschel, F." ],
+        [ a sdo:Person ;
+            sdo:name "Papernik, O." ],
+        [ a sdo:Person ;
+            sdo:name "Eastwood, R." ],
+        [ a sdo:Person ;
+            sdo:name "Matoren, S." ],
+        [ a sdo:Person ;
+            sdo:name "Otto Bauer" ],
+        [ a sdo:Organization ;
+            sdo:name "Internationaal Instituut voor Sociale Geschiedenis (I.I.S.G.)" ],
+        [ a sdo:Person ;
+            sdo:name "Ross Williamson, A." ],
+        [ a sdo:Person ;
+            sdo:name "Bönisch, F." ],
+        [ a sdo:Person ;
+            sdo:name "Gaitskell, D." ],
+        [ a sdo:Person ;
+            sdo:name "Beier, E." ],
+        [ a sdo:Person ;
+            sdo:name "Steinemann, E." ],
+        [ a sdo:Organization ;
+            sdo:name "Verlag Jungbrunnen" ],
+        [ a sdo:Organization ;
+            sdo:name "International Confederation of Free Trade Unions" ],
+        [ a sdo:Person ;
+            sdo:name "Hoegger, R." ],
+        [ a sdo:Organization ;
+            sdo:name "Pacheco" ],
+        [ a sdo:Person ;
+            sdo:name "Mayer, B." ],
+        [ a sdo:Person ;
+            sdo:name "Lévy, M.L." ],
+        [ a sdo:Person ;
+            sdo:name "Watts, S." ],
+        [ a sdo:Person ;
+            sdo:name "Scherer" ],
+        [ a sdo:Organization ;
+            sdo:name "New Leader" ],
+        [ a sdo:Person ;
+            sdo:name "Nobs, R." ],
+        [ a sdo:Person ;
+            sdo:name "Lévy, Louis" ],
+        [ a sdo:Person ;
+            sdo:name "Deutschkron, I." ],
+        [ a sdo:Person ;
+            sdo:name "Lemberger, Ernst" ],
+        [ a sdo:Person ;
+            sdo:name "Rosdolsky, Emmy" ],
+        [ a sdo:Organization ;
+            sdo:name "Labour Party of England" ],
+        [ a sdo:Person ;
+            sdo:name "Adama van Scheltema, A." ],
+        [ a sdo:Organization ;
+            sdo:name "Davar" ],
+        [ a sdo:Person ;
+            sdo:name "Nenni, Pietro" ],
+        [ a sdo:Person ;
+            sdo:name "Janitschek, H." ],
+        [ a sdo:Person ;
+            sdo:name "Ragaz, C." ],
+        [ a sdo:Person ;
+            sdo:name "Braunthal, Fred" ],
+        [ a sdo:Person ;
+            sdo:name "Löbe, Paul" ],
+        [ a sdo:Person ;
+            sdo:name "Treves, L." ],
+        [ a sdo:Organization ;
+            sdo:name "Barrie Group of Publishers" ],
+        [ a sdo:Person ;
+            sdo:name "Nagy, B." ],
+        [ a sdo:Person ;
+            sdo:name "Adler, K." ],
+        [ a sdo:Person ;
+            sdo:name "Mattmüller-Keller, M." ],
+        [ a sdo:Person ;
+            sdo:name "Weltsch, R." ],
+        [ a sdo:Person ;
+            sdo:name "Bargil, M." ],
+        [ a sdo:Person ;
+            sdo:name "Attlee, C.R." ],
+        [ a sdo:Organization ;
+            sdo:name "Socialist International" ],
+        [ a sdo:Person ;
+            sdo:name "Spitz, L." ],
+        [ a sdo:Person ;
+            sdo:name "Neubauer, H." ],
+        [ a sdo:Person ;
+            sdo:name "Lauterbach, A." ],
+        [ a sdo:Organization ;
+            sdo:name "Social Democratic Federation of the U.S.A." ],
+        [ a sdo:Person ;
+            sdo:name "Haralambiev, I." ],
+        [ a sdo:Person ;
+            sdo:name "Botz, G." ],
+        [ a sdo:Person ;
+            sdo:name "Sweet, P." ],
+        [ a sdo:Person ;
+            sdo:name "Meier, E." ],
+        [ a sdo:Person ;
+            sdo:name "Hohenbalken, P." ],
+        [ a sdo:Person ;
+            sdo:name "Meier, Gabrielle" ],
+        [ a sdo:Person ;
+            sdo:name "Meynell, H." ],
+        [ a sdo:Person ;
+            sdo:name "Damjanovic, P." ],
+        [ a sdo:Person ;
+            sdo:name "Pollak, W." ],
+        [ a sdo:Person ;
+            sdo:name "Magaziner, A." ],
+        [ a sdo:Person ;
+            sdo:name "Buset, M." ],
+        [ a sdo:Organization ;
+            sdo:name "Fabian Society" ],
+        [ a sdo:Person ;
+            sdo:name "Montani, D. Ambrosio" ],
+        [ a sdo:Person ;
+            sdo:name "Porges, G." ],
+        [ a sdo:Person ;
+            sdo:name "Boberg, S." ],
+        [ a sdo:Person ;
+            sdo:name "Labelle, D." ],
+        [ a sdo:Person ;
+            sdo:name "Goldmann, H.F." ],
+        [ a sdo:Person ;
+            sdo:name "Battara, P." ],
+        [ a sdo:Person ;
+            sdo:name "Mayer, P." ],
+        [ a sdo:Person ;
+            sdo:name "Speiser, P." ],
+        [ a sdo:Person ;
+            sdo:name "Stolper, T." ],
+        [ a sdo:Person ;
+            sdo:name "Mann, Heinrich" ],
+        [ a sdo:Person ;
+            sdo:name "Codignola, T." ],
+        [ a sdo:Person ;
+            sdo:name "Jaksch, Wenzel" ],
+        [ a sdo:Person ;
+            sdo:name "Mollet, G." ],
+        [ a sdo:Person ;
+            sdo:name "Dodge, P." ],
+        [ a sdo:Person ;
+            sdo:name "Abramovitch, R." ],
+        [ a sdo:Organization ;
+            sdo:name "Internationaler Metallarbeiter Bund" ],
+        [ a sdo:Organization ;
+            sdo:name "Socialist International (S.I.)" ],
+        [ a sdo:Person ;
+            sdo:name "Pontillon, R." ],
+        [ a sdo:Organization ;
+            sdo:name "International Union of Socialist Youth" ],
+        [ a sdo:Person ;
+            sdo:name "Ingersoll, F.J." ],
+        [ a sdo:Person ;
+            sdo:name "Ulitz, E." ],
+        [ a sdo:Person ;
+            sdo:name "Matteotti, Matteo" ],
+        [ a sdo:Person ;
+            sdo:name "Mons, R." ],
+        [ a sdo:Organization ;
+            sdo:name "League for Industrial Democracy" ],
+        [ a sdo:Person ;
+            sdo:name "Loebar, K." ],
+        [ a sdo:Person ;
+            sdo:name "Balabanoff, Angelica" ],
+        [ a sdo:Person ;
+            sdo:name "Grumbach, Salomon" ],
+        [ a sdo:Person ;
+            sdo:name "Koulisheff, G." ],
+        [ a sdo:Person ;
+            sdo:name "Collick, P." ],
+        [ a sdo:Organization ;
+            sdo:name "Deutsche Akademie für Sprache und Dichtung" ],
+        [ a sdo:Person ;
+            sdo:name "Bahne, Siegfried" ],
+        [ a sdo:Person ;
+            sdo:name "Volman, S." ],
+        [ a sdo:Person ;
+            sdo:name "Frei, B." ],
+        [ a sdo:Person ;
+            sdo:name "Fromm, Erich" ],
+        [ a sdo:Person ;
+            sdo:name "Kawakami, T." ],
+        [ a sdo:Organization ;
+            sdo:name "Parti Socialiste S.F.I.O." ],
+        [ a sdo:Person ;
+            sdo:name "Morgan, R." ],
+        [ a sdo:Person ;
+            sdo:name "Zander, W." ],
+        [ a sdo:Organization ;
+            sdo:name "World Federation of Trade Unions" ],
+        [ a sdo:Person ;
+            sdo:name "Adolph, H.J.L." ],
+        [ a sdo:Person ;
+            sdo:name "Faravelli, G." ],
+        [ a sdo:Person ;
+            sdo:name "Price, H.H." ],
+        [ a sdo:Thing ;
+            sdo:name "Exiles/Political refugees" ],
+        [ a sdo:Organization ;
+            sdo:name "Backer Verlag" ],
+        [ a sdo:Person ;
+            sdo:name "Jerusalem, A." ],
+        [ a sdo:Person ;
+            sdo:name "Day, Alan" ],
+        [ a sdo:Person ;
+            sdo:name "Gleissberg, G." ],
+        [ a sdo:Person ;
+            sdo:name "Winkler, Ernst" ],
+        [ a sdo:Organization ;
+            sdo:name "Sozialdemokratische Partei der Schweiz" ],
+        [ a sdo:Person ;
+            sdo:name "Braun, I." ],
+        [ a sdo:Organization ;
+            sdo:name "Verlag Chmielorz GmbH" ],
+        [ a sdo:Organization ;
+            sdo:name "Partai Nasional Indonesia" ],
+        [ a sdo:Person ;
+            sdo:name "Breit, V." ],
+        [ a sdo:Person ;
+            sdo:name "Koerner, Th." ],
+        [ a sdo:Person ;
+            sdo:name "Luza, R." ],
+        [ a sdo:Person ;
+            sdo:name "Rolland, H." ],
+        [ a sdo:Person ;
+            sdo:name "Korakas, M." ],
+        [ a sdo:Organization ;
+            sdo:name "Labor Committee to Release Imprisoned Trade Unionists and Democratic Socialists" ],
+        [ a sdo:Person ;
+            sdo:name "Kubowitzki, A. Leon" ],
+        [ a sdo:Organization ;
+            sdo:name "Sudeten Social Democratic Association" ],
+        [ a sdo:Person ;
+            sdo:name "Ferrari, V." ],
+        [ a sdo:Organization ;
+            sdo:name "Postal Telegraph and Telephone International" ],
+        [ a sdo:Organization ;
+            sdo:name "Times" ],
+        [ a sdo:Person ;
+            sdo:name "Speiser, Wolfgang" ],
+        [ a sdo:Person ;
+            sdo:name "Gottfurcht, Hans" ],
+        [ a sdo:Organization ;
+            sdo:name "Buckhurst Hill Labour Party" ],
+        [ a sdo:Person ;
+            sdo:name "Goldschneider, P." ],
+        [ a sdo:Thing ;
+            sdo:name "Political prisoners/Political trials" ],
+        [ a sdo:Person ;
+            sdo:name "Halasi, A.B." ],
+        [ a sdo:Organization ;
+            sdo:name "Poale Zion" ],
+        [ a sdo:Person ;
+            sdo:name "Resampa, A." ],
+        [ a sdo:Person ;
+            sdo:name "Allerdt, H." ],
+        [ a sdo:Organization ;
+            sdo:name "Janata" ],
+        [ a sdo:Person ;
+            sdo:name "Sokoll, B." ],
+        [ a sdo:Person ;
+            sdo:name "Paasivirta, J." ],
+        [ a sdo:Organization ;
+            sdo:name "Fackelträger Verlag" ],
+        [ a sdo:Person ;
+            sdo:name "Schwartz, S." ],
+        [ a sdo:Organization ;
+            sdo:name "Weltweite Partnerschaft" ],
+        [ a sdo:Person ;
+            sdo:name "Brandt, Willy" ],
+        [ a sdo:Organization ;
+            sdo:name "National Union of Tailors and Garment Workers" ],
+        [ a sdo:Person ;
+            sdo:name "Kautsky, Bettina" ],
+        [ a sdo:Person ;
+            sdo:name "Massiczek, A." ],
+        [ a sdo:Person ;
+            sdo:name "Lichtheim, George" ],
+        [ a sdo:Person ;
+            sdo:name "Frank, W." ],
+        [ a sdo:Person ;
+            sdo:name "Körner, R." ],
+        [ a sdo:Person ;
+            sdo:name "Barents, Joseph" ],
+        [ a sdo:Person ;
+            sdo:name "Herlitzka, E.K." ],
+        [ a sdo:Person ;
+            sdo:name "Ellenbogen, Wilhelm" ],
+        [ a sdo:Person ;
+            sdo:name "Valiani, Leo" ],
+        [ a sdo:Person ;
+            sdo:name "Frederick Gustav Braunthal" ],
+        [ a sdo:Person ;
+            sdo:name "Brockway, Fenner" ],
+        [ a sdo:Person ;
+            sdo:name "Wirkner, R." ],
+        [ a sdo:Organization ;
+            sdo:name "Europe Left" ],
+        [ a sdo:Person ;
+            sdo:name "Abramsky, C." ],
+        [ a sdo:Person ;
+            sdo:name "Lie, Haakon" ],
+        [ a sdo:Person ;
+            sdo:name "Pick, W.J." ],
+        [ a sdo:Person ;
+            sdo:name "Károly, S." ],
+        [ a sdo:Organization ;
+            sdo:name "Friedrich Ebert Stiftung" ],
+        [ a sdo:Person ;
+            sdo:name "Jochmann, Rosa" ],
+        [ a sdo:Person ;
+            sdo:name "Middleton, James" ],
+        [ a sdo:Person ;
+            sdo:name "Lebzeltern, G." ],
+        [ a sdo:Person ;
+            sdo:name "Wiebe" ],
+        [ a sdo:Organization ;
+            sdo:name "Haluan" ],
+        [ a sdo:Person ;
+            sdo:name "Naphtali-Zarak, M." ],
+        [ a sdo:Organization ;
+            sdo:name "British Museum" ],
+        [ a sdo:Person ;
+            sdo:name "Schevenels, W." ],
+        [ a sdo:Organization ;
+            sdo:name "Joint Palestine Appeal" ],
+        [ a sdo:Person ;
+            sdo:name "Hale, L." ],
+        [ a sdo:Organization ;
+            sdo:name "Centre for Contemporary Socialist Thought" ],
+        [ a sdo:Organization ;
+            sdo:name "Socialist Party - Social Democratic Federation of New York City" ],
+        [ a sdo:Person ;
+            sdo:name "Oschilewski, Walther G." ],
+        [ a sdo:Person ;
+            sdo:name "Lamm, H." ],
+        [ a sdo:Person ;
+            sdo:name "Kandiah, P." ],
+        [ a sdo:Person ;
+            sdo:name "Lall, J." ],
+        [ a sdo:Person ;
+            sdo:name "Papanek, Ernst" ],
+        [ a sdo:Person ;
+            sdo:name "Vos, H." ],
+        [ a sdo:Person ;
+            sdo:name "Evalenko, R." ],
+        [ a sdo:Person ;
+            sdo:name "Singhal, D.P." ],
+        [ a sdo:Organization ;
+            sdo:name "Editions du Seuil" ],
+        [ a sdo:Organization ;
+            sdo:name "Dokumentationsarchiv des Oesterreichischen Widerstandes" ],
+        [ a sdo:Person ;
+            sdo:name "Braun, Otto" ],
+        [ a sdo:Person ;
+            sdo:name "Rosenbach, N." ],
+        [ a sdo:Person ;
+            sdo:name "Yamaguchi, F." ],
+        [ a sdo:Person ;
+            sdo:name "Merchav, P." ],
+        [ a sdo:Person ;
+            sdo:name "Hinden, R." ],
+        [ a sdo:Person ;
+            sdo:name "Strasser, Isa" ],
+        [ a sdo:Organization ;
+            sdo:name "World Campaign for the Release of South African Political Prisoners" ],
+        [ a sdo:Person ;
+            sdo:name "Nordahl" ],
+        [ a sdo:Person ;
+            sdo:name "Brügel, W." ],
+        [ a sdo:Person ;
+            sdo:name "Steiner, H." ],
+        [ a sdo:Person ;
+            sdo:name "Hofbauer, Josef" ],
+        [ a sdo:Person ;
+            sdo:name "Tober, H." ],
+        [ a sdo:Person ;
+            sdo:name "Schwarz, R." ],
+        [ a sdo:Person ;
+            sdo:name "Leighton, P." ],
+        [ a sdo:Person ;
+            sdo:name "U Kyaw Nyein" ],
+        [ a sdo:Person ;
+            sdo:name "Ausch, J." ],
+        [ a sdo:Organization ;
+            sdo:name "COMISCO" ],
+        [ a sdo:Person ;
+            sdo:name "Probst, Otto" ],
+        [ a sdo:Organization ;
+            sdo:name "News of the World Ltd." ],
+        [ a sdo:Person ;
+            sdo:name "Ford, P." ],
+        [ a sdo:Person ;
+            sdo:name "Cole, H.T.D." ],
+        [ a sdo:Person ;
+            sdo:name "Stolz, G." ],
+        [ a sdo:Person ;
+            sdo:name "Eckert, Georg" ],
+        [ a sdo:Person ;
+            sdo:name "Erlander, Tage Fritjof" ],
+        [ a sdo:Person ;
+            sdo:name "Abramovič, Rafail" ],
+        [ a sdo:Person ;
+            sdo:name "Ollenhauer, Erich" ],
+        [ a sdo:Person ;
+            sdo:name "Hirsch, H." ],
+        [ a sdo:Person ;
+            sdo:name "Rischin, M." ],
+        [ a sdo:Person ;
+            sdo:name "Baratz, J." ],
+        [ a sdo:Person ;
+            sdo:name "Healy, Denis" ],
+        [ a sdo:Person ;
+            sdo:name "Klein, O.G." ],
+        [ a sdo:Person ;
+            sdo:name "Bruegel, J.W." ],
+        [ a sdo:Person ;
+            sdo:name "Jenschik, Ant." ],
+        [ a sdo:Person ;
+            sdo:name "Illner, E." ],
+        [ a sdo:Organization ;
+            sdo:name "International Federation of Trade Unions" ],
+        [ a sdo:Person ;
+            sdo:name "Sturmthal, Adolf" ],
+        [ a sdo:Organization ;
+            sdo:name "Hannoversche Druck- und Verlags GmbH" ],
+        [ a sdo:Organization ;
+            sdo:name "Statesman" ],
+        [ a sdo:Person ;
+            sdo:name "Vries, P. de" ],
+        [ a sdo:Person ;
+            sdo:name "Josephtal" ],
+        [ a sdo:Person ;
+            sdo:name "Møller, F." ],
+        [ a sdo:Person ;
+            sdo:name "Sidorsky, D." ],
+        [ a sdo:Person ;
+            sdo:name "Martin, Kingsley" ],
+        [ a sdo:Person ;
+            sdo:name "Saville, J." ],
+        [ a sdo:Organization ;
+            sdo:name "Partai Kommunist Indonesia" ],
+        [ a sdo:Person ;
+            sdo:name "Steel, Anth." ],
+        [ a sdo:Person ;
+            sdo:name "Bracke, Alexandre" ],
+        [ a sdo:Person ;
+            sdo:name "Bung, H." ],
+        [ a sdo:Organization ;
+            sdo:name "Kleine Blatt" ],
+        [ a sdo:Person ;
+            sdo:name "Voinea, Serban" ],
+        [ a sdo:Person ;
+            sdo:name "Braunthal, H." ],
+        [ a sdo:Person ;
+            sdo:name "Kettler, E." ],
+        [ a sdo:Organization ;
+            sdo:name "Sozialistischer Club Griechenland" ],
+        [ a sdo:Person ;
+            sdo:name "Horrabin, F." ],
+        [ a sdo:Person ;
+            sdo:name "Sapir, Boris" ],
+        [ a sdo:Organization ;
+            sdo:name "Socialist Affairs" ],
+        [ a sdo:Person ;
+            sdo:name "Laidler, H.W." ],
+        [ a sdo:Person ;
+            sdo:name "Millar, J.P.M." ],
+        [ a sdo:Person ;
+            sdo:name "Ernestine (Tini) Braunthal" ],
+        [ a sdo:Person ;
+            sdo:name "Menon, K." ],
+        [ a sdo:Organization ;
+            sdo:name "Cosmo Enterprises" ],
+        [ a sdo:Organization ;
+            sdo:name "Movement for Colonial Freedom" ],
+        [ a sdo:Person ;
+            sdo:name "Maleta, A." ],
+        [ a sdo:Organization ;
+            sdo:name "U.N.E.S.C.O." ],
+        [ a sdo:Organization ;
+            sdo:name "Indian Committee for Cultural Freedom" ],
+        [ a sdo:Person ;
+            sdo:name "Philipp, Hans" ],
+        [ a sdo:Person ;
+            sdo:name "Harold Laski" ],
+        [ a sdo:Person ;
+            sdo:name "Stampfer, Friedrich" ],
+        [ a sdo:Person ;
+            sdo:name "Hagen, A." ],
+        [ a sdo:Organization ;
+            sdo:name "Thankin Chit Maung" ],
+        [ a sdo:Person ;
+            sdo:name "Elstein, D." ],
+        [ a sdo:Person ;
+            sdo:name "Collins, H." ],
+        [ a sdo:Person ;
+            sdo:name "Braunthal, Alfred" ],
+        [ a sdo:Organization ;
+            sdo:name "Israel Labour Party" ],
+        [ a sdo:Organization ;
+            sdo:name "COMISCO" ],
+        [ a sdo:Person ;
+            sdo:name "Seoung Soo Kim" ],
+        [ a sdo:Person ;
+            sdo:name "Korn, I." ],
+        [ a sdo:Person ;
+            sdo:name "Hornik, L." ],
+        [ a sdo:Person ;
+            sdo:name "Llopis, R." ],
+        [ a sdo:Person ;
+            sdo:name "Lavon, P." ],
+        [ a sdo:Person ;
+            sdo:name "Julius Deutsch" ],
+        [ a sdo:Thing ;
+            sdo:name "Archival material" ],
+        [ a sdo:Person ;
+            sdo:name "Levenberg, Sneier" ],
+        [ a sdo:Person ;
+            sdo:name "Reichenbach, B." ],
+        [ a sdo:Organization ;
+            sdo:name "National Union of Mineworkers" ],
+        [ a sdo:Organization ;
+            sdo:name "Bund Verlag GmbH" ],
+        [ a sdo:Person ;
+            sdo:name "Bruno Misèfari" ],
+        [ a sdo:Person ;
+            sdo:name "Sjahruzak, Djohan" ],
+        [ a sdo:Organization ;
+            sdo:name "Otto Wels-Gesellschaft" ],
+        [ a sdo:Organization ;
+            sdo:name "Sozialistische Partei Oesterreichs" ],
+        [ a sdo:Person ;
+            sdo:name "Eisner, F." ],
+        [ a sdo:Person ;
+            sdo:name "Rosmer, A." ],
+        [ a sdo:Person ;
+            sdo:name "Bolle, M.C." ],
+        [ a sdo:Person ;
+            sdo:name "Engle, J.B." ],
+        [ a sdo:Person ;
+            sdo:name "Mitchell, K." ],
+        [ a sdo:Person ;
+            sdo:name "Bush, S." ],
+        [ a sdo:Person ;
+            sdo:name "Kautsky, Karl" ],
+        [ a sdo:Person ;
+            sdo:name "Das, B." ],
+        [ a sdo:Person ;
+            sdo:name "Deutsch, Julius" ],
+        [ a sdo:Organization ;
+            sdo:name "Verlag der Wiener Volksbuchhandlung" ],
+        [ a sdo:Person ;
+            sdo:name "Heuss, Theodor" ],
+        [ a sdo:Person ;
+            sdo:name "Neumann, F.L." ],
+        [ a sdo:Person ;
+            sdo:name "Veitch, S.O." ],
+        [ a sdo:Person ;
+            sdo:name "Humbert-Droz, J." ],
+        [ a sdo:Person ;
+            sdo:name "Nicolinacos, M." ],
+        [ a sdo:Place ;
+            sdo:name "Austria" ],
+        [ a sdo:Person ;
+            sdo:name "Golan, C." ],
+        [ a sdo:Person ;
+            sdo:name "Aa, H." ],
+        [ a sdo:Organization ;
+            sdo:name "Pedoman Perdjuangan Masjumi" ],
+        [ a sdo:Person ;
+            sdo:name "Troy, Sam. Parker" ],
+        [ a sdo:Person ;
+            sdo:name "Aggarwala, R.N." ],
+        [ a sdo:Person ;
+            sdo:name "Mehta, Asoka" ],
+        [ a sdo:Person ;
+            sdo:name "Levy, R." ],
+        [ a sdo:Organization ;
+            sdo:name "Partha-Sarathi Gupta" ],
+        [ a sdo:Person ;
+            sdo:name "Hook, S." ],
+        [ a sdo:Person ;
+            sdo:name "Kruk, J." ],
+        [ a sdo:Person ;
+            sdo:name "Bor, M." ],
+        [ a sdo:Organization ;
+            sdo:name "Europa Verlags-AG" ],
+        [ a sdo:Person ;
+            sdo:name "Clark, R.W." ],
+        [ a sdo:Person ;
+            sdo:name "Wheeler, R." ],
+        [ a sdo:Person ;
+            sdo:name "Sharf, A." ],
+        [ a sdo:Person ;
+            sdo:name "Hine, R." ],
+        [ a sdo:Person ;
+            sdo:name "Harper, O." ],
+        [ a sdo:Organization ;
+            sdo:name "Bibliographia Judaica" ],
+        [ a sdo:Person ;
+            sdo:name "Anders, K." ],
+        [ a sdo:Person ;
+            sdo:name "Lanzer, W." ],
+        [ a sdo:Person ;
+            sdo:name "Kwashi, N.A." ],
+        [ a sdo:Person ;
+            sdo:name "Hirsch, Hans en Bettina" ],
+        [ a sdo:Person ;
+            sdo:name "Azzaroni, B." ],
+        [ a sdo:Person ;
+            sdo:name "Rosenzweig, S." ],
+        [ a sdo:Person ;
+            sdo:name "Robert Grimm" ],
+        [ a sdo:Person ;
+            sdo:name "Mösslinger, E." ],
+        [ a sdo:Person ;
+            sdo:name "Joll, J." ],
+        [ a sdo:Organization ;
+            sdo:name "Verein für Geschichte der Arbeiterbewegung" ],
+        [ a sdo:Organization ;
+            sdo:name "International Socialist Forum" ],
+        [ a sdo:Person ;
+            sdo:name "Paul, E." ],
+        [ a sdo:Organization ;
+            sdo:name "Victor Gollancz Ltd." ],
+        [ a sdo:Person ;
+            sdo:name "Norman Thomas" ],
+        [ a sdo:Person ;
+            sdo:name "Lindbom, T." ],
+        [ a sdo:Person ;
+            sdo:name "Andréas, Bert" ],
+        [ a sdo:Organization ;
+            sdo:name "Centre for Labour and Social Studies" ],
+        [ a sdo:Person ;
+            sdo:name "Schroth, H." ],
+        [ a sdo:Person ;
+            sdo:name "Friedrich Adler" ],
+        [ a sdo:Person ;
+            sdo:name "Gulick, Charles A." ],
+        [ a sdo:Person ;
+            sdo:name "Morsbach, A." ],
+        [ a sdo:Organization ;
+            sdo:name "Hoover Institution" ],
+        [ a sdo:Person ;
+            sdo:name "Flesch, F." ],
+        [ a sdo:Person ;
+            sdo:name "Tofahrn, P." ],
         [ a sdo:Person ;
             sdo:name "Stojakovic, Milan" ],
         [ a sdo:Person ;
-            sdo:name "Bargil, M." ],
+            sdo:name "Nedzynski, S." ],
+        [ a sdo:Person ;
+            sdo:name "Pollak, Oskar" ],
+        [ a sdo:Person ;
+            sdo:name "Vannini, G." ],
+        [ a sdo:Person ;
+            sdo:name "Bauer, J." ],
         [ a sdo:Organization ;
-            sdo:name "Poale Zion" ],
-        [ a sdo:Organization ;
-            sdo:name "Miners' International Federation" ],
-        [ a sdo:Organization ;
-            sdo:name "Nuffield College" ] ;
+            sdo:name "Telegraf" ],
+        [ a sdo:Person ;
+            sdo:name "Löwe, A." ],
+        [ a sdo:Person ;
+            sdo:name "Lakenbacher, P." ],
+        [ a sdo:Person ;
+            sdo:name "Seitz, K." ],
+        [ a sdo:Person ;
+            sdo:name "Thomas Otto Braunthal" ],
+        [ a sdo:Person ;
+            sdo:name "Glagov, S." ] ;
     sdo:abstract """
          <html:div xmlns:html="http://www.w3.org/1999/xhtml/">
             <html:head>Content</html:head>

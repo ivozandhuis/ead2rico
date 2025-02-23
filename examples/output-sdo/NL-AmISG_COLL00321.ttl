@@ -6242,20 +6242,20 @@
     sdo:position "7" .
 
 <https://iisg.amsterdam/id/recordresource/COLL00321> a sdo:ArchiveComponent ;
-    sdo:about [ a sdo:Thing ;
-            sdo:name "Books" ],
+    sdo:about [ a sdo:Place ;
+            sdo:name "USSR (former)" ],
+        [ a sdo:Organization ;
+            sdo:name "CPN" ],
         [ a sdo:Thing ;
             sdo:name "Communist movements and parties" ],
+        [ a sdo:Thing ;
+            sdo:name "Books" ],
+        [ a sdo:Thing ;
+            sdo:name "Culture, media and arts" ],
         [ a sdo:Place ;
             sdo:name "Netherlands" ],
         [ a sdo:Thing ;
             sdo:name "Socialist and social democrat parties/Socialist International" ],
-        [ a sdo:Organization ;
-            sdo:name "CPN" ],
-        [ a sdo:Place ;
-            sdo:name "USSR (former)" ],
-        [ a sdo:Thing ;
-            sdo:name "Culture, media and arts" ],
         <http://viaf.org/viaf/101787139>,
         <http://viaf.org/viaf/49228757>,
         <http://viaf.org/viaf/68928644>,

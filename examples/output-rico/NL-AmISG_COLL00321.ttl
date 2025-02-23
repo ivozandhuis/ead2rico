@@ -10917,19 +10917,7 @@
                             rico:textualValue "Collectienummer" ] ] ;
             rico:textualValue "COLL00321" ] ;
     rico:hasOrHadSomeMembersWithLanguage <http://id.loc.gov/vocabulary/iso639-2/dut> ;
-    rico:hasOrHadSubject [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Books" ] ],
-        [ a rico:CorporateBody ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "CPN" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
-        [ a rico:Thing ;
-            rico:hasOrHadName [ a rico:Name ;
-                    rico:textualValue "Culture, media and arts" ] ],
-        [ a rico:Place ;
+    rico:hasOrHadSubject [ a rico:Place ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "USSR (former)" ] ],
         [ a rico:Place ;
@@ -10938,6 +10926,18 @@
         [ a rico:Thing ;
             rico:hasOrHadName [ a rico:Name ;
                     rico:textualValue "Communist movements and parties" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Culture, media and arts" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Socialist and social democrat parties/Socialist International" ] ],
+        [ a rico:CorporateBody ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "CPN" ] ],
+        [ a rico:Thing ;
+            rico:hasOrHadName [ a rico:Name ;
+                    rico:textualValue "Books" ] ],
         <http://viaf.org/viaf/101787139>,
         <http://viaf.org/viaf/49228757>,
         <http://viaf.org/viaf/68928644>,
@@ -10972,21 +10972,21 @@
 <https://iisg.amsterdam/id/recordresource/COLL00321.> a rico:RecordSet ;
     rico:followsOrFollowed <https://iisg.amsterdam/id/recordresource/> ;
     rico:hasOrHadTitle [ a rico:Title ;
-            rico:textualValue "Belletrie" ],
-        [ a rico:Title ;
-            rico:textualValue "Annex" ],
-        [ a rico:Title ;
-            rico:textualValue "Niet-Pegasus uitgaven" ],
+            rico:textualValue "Overige" ],
         [ a rico:Title ;
             rico:textualValue "Kinderboeken" ],
         [ a rico:Title ;
-            rico:textualValue "Fondslijsten" ],
+            rico:textualValue "Belletrie" ],
         [ a rico:Title ;
-            rico:textualValue "Politiek" ],
+            rico:textualValue "Niet-Pegasus uitgaven" ],
+        [ a rico:Title ;
+            rico:textualValue "Annex" ],
         [ a rico:Title ;
             rico:textualValue "Taalkunde" ],
         [ a rico:Title ;
-            rico:textualValue "Overige" ] ;
+            rico:textualValue "Politiek" ],
+        [ a rico:Title ;
+            rico:textualValue "Fondslijsten" ] ;
     rico:hasOrHadType <https://www.ica.org/standards/RiC/vocabularies/recordSetTypes#Series> ;
     rico:isOrWasIncludedIn <https://iisg.amsterdam/id/recordresource/COLL00321> .
 

@@ -36,6 +36,7 @@
         <xsl:when test="@xlink:label = 'manifest'">
             <sdo:contentUrl>
                 <xsl:attribute name="rdf:resource">
+                    <xsl:text>https://access.iisg.amsterdam/universalviewer/#?manifest=</xsl:text>
                     <xsl:choose>
                         <xsl:when test="@xlink:href">
                             <xsl:value-of select="@xlink:href"/>
